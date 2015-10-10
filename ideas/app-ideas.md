@@ -15,6 +15,9 @@
     + [ ] 
 - [x] Kindle Reader project (retired for now)
 - [ ] Finish Trello Python tools
+    + [ ] Trolley <--> Buffer
+    + [ ] Meeting tool
+- [ ] Finish Scraper Proxy services
 
 ## Other Project Ideas (unstarted)
 
