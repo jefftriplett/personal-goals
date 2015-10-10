@@ -20,12 +20,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Practice Ukulele
 - [ ] Clean out the spare bedroom
 - [ ] Box up t-shirts
+- [ ] Kick off DjangoCon US 2016 Planning
 
 ### Things I'll Do in the Future:
 - [ ] Learn Swift
 - [ ] Cancel Cable
 - [ ] Learn Guitar
 - [ ] Port Hubot deploy script to Slack
+- [ ] Get better at React + Javascript
 
 ### Backlog: Side Projects & Other Ideas
 

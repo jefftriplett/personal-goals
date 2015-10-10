@@ -18,6 +18,7 @@
     + [ ] Trolley <--> Buffer
     + [ ] Meeting tool
 - [ ] Finish Scraper Proxy services
+- [ ] Opinionated Pinboard link fixer
 
 ## Other Project Ideas (unstarted)
 
