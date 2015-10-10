@@ -18,17 +18,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Focus: Get Organized
 
 ## Things I'll Do This Week:
-- [ ] Learn Ukulele
+- [ ] Practice Ukulele
+- [ ] Clean out the spare bedroom
+- [ ] Box up t-shirts
 
 ### Things I'll Do in the Future:
 - [ ] Learn Swift
 - [ ] Cancel Cable
 - [ ] Learn Guitar
-
-### Backlog: Side Projects & Other Ideas
+- [ ] Port Hubot deploy script to Slack
 
 ### Backlog: Side Projects & Other Ideas
 
 # Inspiration
 
-Inspirated by [Una's](https://github.com/una) [personal-goals project](https://github.com/una/personal-goals).
+Inspired by [Una's](https://github.com/una) [personal-goals project](https://github.com/una/personal-goals).
