@@ -1,5 +1,4 @@
 Blog Ideas
 ==========
 
-- Backups - An OCD Peron's Dream
-- 
+- Backups - An OCD Person's Dream
