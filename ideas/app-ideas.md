@@ -14,6 +14,7 @@
     + [ ] Build models
     + [ ] 
 - [x] Kindle Reader project (retired for now)
+- [ ] Finish Trello Python tools
 
 ## Other Project Ideas (unstarted)
 
