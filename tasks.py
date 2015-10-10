@@ -2,7 +2,7 @@ from invoke import run, task
 
 
 @task
-def deploy():
+def push():
     run('cd ~/.virtualenvs/presonal-goals/src/personal-goals')
     run('git checkout master')
     run('git add -A')
