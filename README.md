@@ -9,13 +9,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Be Heathy
 2. Get work-life balance back in check
 3. Less stress
-4. Blog
+4. Write more (blog + emailing friends)
 5. Get better at cooking
-6. Learn Ukulele / Guitar
-7. Learn React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
-8. Contribute to Open Source
-9. Save Money
-10. Reach out to friends more
+6. Re-start morning coffee + writing sessions
+7. Learn Ukulele / Guitar
+8. Learn React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
+9. Reach out to friends more
+10. Save Money
+11. Shoot more photos
 
 ## January 2016
 
