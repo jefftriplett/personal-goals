@@ -23,6 +23,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week:
 
+- [ ] Finish 2015 Year in Review post
 - [ ] Practice Ukulele
 - [ ] Kick off DjangoCon US 2016 Planning
 - [ ] DEFNA Montly Meeting
