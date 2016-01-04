@@ -2,11 +2,11 @@
 
 ## Favorites
 
-- This American Life
+- Here's The Thing with Alec Baldwin
 - Savage Lovecast
-- Here's the Thing With Alec Baldwin
-- The Tinycast
 - StartUp Podcast
+- The Tinycast
+- This American Life
 
 ## Everything Else
 
@@ -16,8 +16,11 @@
 - Isometric
 - Mystery Show
 - Planet Money
+- Podcast.__init__ - Python and the people who make it great
 - Reply All
+- Roguelike Radio
 - Serial
+- Stuff You Should Know
 - Talking Machines
 - The Bugle
-- WTF With Marc Maron
+- WTF with Marc Maron Podcast
