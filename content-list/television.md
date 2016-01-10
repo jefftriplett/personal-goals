@@ -3,9 +3,16 @@ Television
 
 I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV shows pretty quickly. 
 
+# 2015
+
+- Fargo
+
+
+
 # 2014
 
 ## Best:
+
 - Fargo
 - True Detective
 - Transparent

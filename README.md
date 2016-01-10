@@ -17,24 +17,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Reach out to friends more
 10. Save Money
 11. Shoot more photos
+12. Write a game
 
 ## January 2016
 
-### This Week's Focus: Get Organized
+### This Week's Focus: More Focus
 
 ### Things I'll Do This Week:
 
+- [ ] Update DjangoCon US 2016 website
 - [ ] Finish 2015 Year in Review post
 - [ ] Practice Ukulele
 - [ ] Kick off DjangoCon US 2016 Planning
-- [ ] DEFNA Montly Meeting
-- [ ] DSF Monthly Report
-- [ ] Finalize DjangoCon US Venue
 - [ ] Review talk submissions for PyCon PC
 - [ ] Clean out the spare bedroom
 - [ ] Box up t-shirts
 - [ ] Review Two Scoops of Django
-- [ ] Watch KU Basketball
+- [ ] Practice Ukulele
 - [ ] Work on weekly personal-goals project
 
 ### Things I'll Do In The Future:
@@ -48,6 +47,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [ ] Work on istheleadsafe.com
 - [ ] Work on Television website
+- [ ] [Apps & Other Projects](https://github.com/jefftriplett/personal-goals/blob/master/ideas/app-ideas.md)
+- [ ] [Blog Post Ideas](https://github.com/jefftriplett/personal-goals/blob/master/ideas/blog-ideas.md)
+- [ ] [Life Ideas](https://github.com/jefftriplett/personal-goals/blob/master/ideas/life-ideas.md)
 
 ## Inspiration
 

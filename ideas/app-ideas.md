@@ -30,6 +30,10 @@
   + [x] Topic discovery
   + [ ] Open source it?
 
+- Flask Process wrapper: Takes an existing web app or process and wraps a reverse proxy and webapi with some light process isolation with it. All stdout + stderr messages are accessible via websockets. The app will install the processes into a virtualenv and has hooks for updating the application, restarting the application, running migrations, updating the dapp, and for spawning more processes. This builds a REST API around common web processes.
+
+- Better Gmail Rules: A combination of a simple Django app (Contacts + Groups) and scanning email with imapy then building custom import rules to export back to gmail.
+
 ## Side Projects (Retired)
 
 - [x] Kindle Reader project (retired for now)
