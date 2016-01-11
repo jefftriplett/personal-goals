@@ -19,7 +19,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 11. Shoot more photos
 12. Write a game
 
-## January 2016
+## January 10, 2016
 
 ### This Week's Focus: More Focus
 
