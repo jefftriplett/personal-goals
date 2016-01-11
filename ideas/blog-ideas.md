@@ -1,4 +1,5 @@
 # Blog Ideas
 
-- Backups - An OCD Person's Dream
 - 2015 Year in Review
+- Backups: An Overly Paranoid Approach
+- C25k + Health: What worked for me

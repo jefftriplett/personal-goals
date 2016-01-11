@@ -30,8 +30,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Practice Ukulele
 - [ ] Kick off DjangoCon US 2016 Planning
 - [ ] Review talk submissions for PyCon PC
-- [ ] Clean out the spare bedroom
-- [ ] Box up t-shirts
+- [ ] Box up clothes
 - [ ] Review Two Scoops of Django
 - [ ] Practice Ukulele
 - [ ] Work on weekly personal-goals project
