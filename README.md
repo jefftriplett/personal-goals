@@ -6,40 +6,40 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Overarching Goals
 
-1. Be Heathy
+1. Be Healthy
 2. Get work-life balance back in check
 3. Less stress
 4. Write more (blog + emailing friends)
-5. Get better at cooking
-6. Re-start morning coffee + writing sessions
-7. Learn Ukulele / Guitar
-8. Learn React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
-9. Reach out to friends more
-10. Save Money
-11. Shoot more photos
-12. Write a game
+5. Cook more
+6. Learn Ukulele / Guitar
+7. Learn React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
+8. Reach out to friends more
+9. Save Money
+10. Shoot more photos
+11. Write a game
+12. Improve my posture
 
-## January 10, 2016
+## January 17, 2016
 
-### This Week's Focus: More Focus
+### This Week's Focus: Baby, It's Cold Outside
 
 ### Things I'll Do This Week:
 
-- [ ] Update DjangoCon US 2016 website
 - [ ] Finish 2015 Year in Review post
-- [ ] Practice Ukulele
-- [ ] Kick off DjangoCon US 2016 Planning
-- [ ] Review talk submissions for PyCon PC
-- [ ] Box up clothes
-- [ ] Review Two Scoops of Django
-- [ ] Practice Ukulele
+- [ ] Ukulele (come up with a plan & practice)
+- [ ] More DjangoCon US 2016 work
+- [ ] Review more talks submissions for PyCon PC
+- [ ] Cooking: Cod & Potato Brandade
+- [ ] Cooking: Chicken Meatballs & Creamy Polenta
+- [ ] Cooking: Roast Pork
+- [ ] Box up closet and t-shirts
 - [ ] Work on weekly personal-goals project
 
 ### Things I'll Do In The Future:
 
-- [ ] Learn Swift
 - [ ] Cancel Cable
 - [ ] Learn Guitar
+- [ ] Learn Swift
 - [ ] Port Hubot deploy script to Slack
 
 ### Backlog: Side Projects & Other Ideas
