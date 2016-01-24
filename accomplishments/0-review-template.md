@@ -1,10 +1,11 @@
+
 # This Month's Accomplishments: MONTH 2016
 
-## This Month's Focus:
+## This Week's Focus: ** THEME **
 
 ## Things I Did From the List
 
-## Things I Didn't Get to / Finish
+## Things I Didn't Get To / Finish
 
 ## Additional Things I Did
 
