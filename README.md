@@ -27,7 +27,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week:
 
-- [ ] Box up closet and t-shirts
+- [ ] Box up t-shirts
 - [ ] Cooking: Chicken Meatballs & Creamy Polenta
 - [ ] Cooking: Cod & Potato Brandade
 - [ ] Cooking: Roast Pork
@@ -38,7 +38,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Review more talks submissions for PyCon PC
 - [ ] Ukulele (come up with a plan & practice)
 - [ ] Work on Django Scaffolding App (clone of django-bakery)
-- [ ] Work on React JS
+- [ ] Work on React
 - [ ] Work on weekly personal-goals project
 
 ### Things I'll Do In The Future:
