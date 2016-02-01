@@ -38,6 +38,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Establish Coffee Shop time
 - [ ] Finish 2015 Year in Review post (I write slowly)
 - [ ] Practice Ukulele
+- [ ] Setup 1Writer and writing workflow
 - [ ] Work on istheleadsafe.com
 - [ ] Work on React JS
 - [ ] Work on weekly personal-goals project
