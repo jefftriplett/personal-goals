@@ -21,28 +21,32 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Ukulele / Guitar
 1. Learning: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
 
-## January 24, 2016
+## January 31, 2016
 
-### This Week's Focus: Rethink Weekly Focus Themes
+### This Week's Focus: Getting Ahead
 
 ### Things I'll Do This Week:
 
 - [ ] Box up t-shirts
-- [ ] Cooking: Chicken Meatballs & Creamy Polenta
-- [ ] Cooking: Cod & Potato Brandade
-- [ ] Cooking: Roast Pork
-- [ ] DjangoCon US 2016 planning
+- [ ] Cooking: Chicken & Sage Biscuit Pot Pie
+- [ ] Cooking: Italian Beef Grinders
+- [ ] Cooking: Shrimp & Pineapple Fried Rice
+- [ ] DjangoCon US: Contact Venues
+- [ ] DjangoCon US: Schedule meetings
+- [ ] DjangoCon US: Update budget
+- [ ] DjangoCon US: Write-up timelines
 - [ ] Establish Coffee Shop time
 - [ ] Finish 2015 Year in Review post (I write slowly)
-- [ ] More DjangoCon US 2016 work
-- [ ] Review more talks submissions for PyCon PC
-- [ ] Ukulele (come up with a plan & practice)
-- [ ] Work on Django Scaffolding App (clone of django-bakery)
-- [ ] Work on React
+- [ ] Practice Ukulele
+- [ ] Work on istheleadsafe.com
+- [ ] Work on React JS
 - [ ] Work on weekly personal-goals project
 
 ### Things I'll Do In The Future:
 
+- [ ] Auto: Replace battery
+- [ ] Auto: Tune-up
+- [ ] Auto: Updates tags
 - [ ] Cancel Cable
 - [ ] Learn Guitar
 - [ ] Learn Swift
