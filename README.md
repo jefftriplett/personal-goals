@@ -21,24 +21,24 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Ukulele / Guitar
 1. Learning: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
 
-## January 31, 2016
+## February 7, 2016
 
-### This Week's Focus: Getting Ahead
+### This Week's Focus: overit.gif stress
 
 ### Things I'll Do This Week:
 
 - [ ] Box up t-shirts
-- [ ] Cooking: Chicken & Sage Biscuit Pot Pie
-- [ ] Cooking: Italian Beef Grinders
-- [ ] Cooking: Shrimp & Pineapple Fried Rice
+- [ ] Cooking: Meyer Lemon-Glazed Catfish
+- [ ] Cooking: Spicy Orange Chicken Wings
+- [ ] Cooking: Steak Tacos & Mole Verde
 - [ ] DjangoCon US: Contact Venues
 - [ ] DjangoCon US: Schedule meetings
 - [ ] DjangoCon US: Update budget
-- [ ] DjangoCon US: Write-up timelines
+- [ ] DjangoCon US: Write-up time lines
 - [ ] Establish Coffee Shop time
 - [ ] Finish 2015 Year in Review post (I write slowly)
 - [ ] Practice Ukulele
-- [ ] Setup 1Writer and writing workflow
+- [ ] Setup 1Writer and writing work flow
 - [ ] Work on istheleadsafe.com
 - [ ] Work on React JS
 - [ ] Work on weekly personal-goals project
