@@ -1,5 +1,5 @@
 
-# This Week's Accomplishments: **MONTH, DAY 2016**
+# This Week's Accomplishments: **MONTH, DAY** 2016
 
 ## This Week's Focus: **THEME**
 
@@ -11,6 +11,6 @@
 
 ## Additional Things I Did
 
-## Things I'll Do Next Month
+## Things I'll Do Next Week
 
 ## Week In Review
