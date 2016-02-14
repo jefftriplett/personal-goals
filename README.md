@@ -21,27 +21,29 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Ukulele / Guitar
 1. Learning: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
 
-## February 7, 2016
+## February 14, 2016
 
-### This Week's Focus: overit.gif stress
+### This Week's Focus: It's DjangoCon US time!
 
 ### Things I'll Do This Week:
 
-- [ ] Box up t-shirts
-- [ ] Cooking: Meyer Lemon-Glazed Catfish
-- [ ] Cooking: Spicy Orange Chicken Wings
-- [ ] Cooking: Steak Tacos & Mole Verde
-- [ ] DjangoCon US: Contact Venues
-- [ ] DjangoCon US: Schedule meetings
-- [ ] DjangoCon US: Update budget
-- [ ] DjangoCon US: Write-up time lines
-- [ ] Establish Coffee Shop time
+- [ ] Cooking: Lebanese Lamb & Beef Arayes 
+- [ ] Cooking: Mexican Spiced Salmon
+- [ ] Cooking: Seared Chicken & Mashed Potatoes 
+- [ ] DCUS: Design direction
+- [ ] DCUS: First organizer's meeting
+- [ ] DCUS: Website planning
+- [ ] Establish daily Coffee Shop + email time boxing
 - [ ] Finish 2015 Year in Review post (I write slowly)
-- [ ] Practice Ukulele
+- [ ] Re-think email work flow. I had it under control, but now I can't keep up
 - [ ] Setup 1Writer and writing work flow
+- [ ] Watch Kansas at Kansas State
+- [ ] Watch Oklahoma State at Kansas
 - [ ] Work on istheleadsafe.com
 - [ ] Work on React JS
 - [ ] Work on weekly personal-goals project
+- [ ] ~Practice Ukulele~
+
 
 ### Things I'll Do In The Future:
 
@@ -64,3 +66,5 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Inspiration
 
 Inspired by [Una's](https://github.com/una) [personal-goals project](https://github.com/una/personal-goals).
+
+Also, check out [Katherine's](https://github.com/KatherineMichel) [personal-goals project](https://github.com/KatherineMichel/personal-goals).
