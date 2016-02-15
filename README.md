@@ -27,9 +27,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week:
 
-- [ ] Cooking: Lebanese Lamb & Beef Arayes 
+- [ ] Cooking: Lebanese Lamb & Beef Arayes
 - [ ] Cooking: Mexican Spiced Salmon
-- [ ] Cooking: Seared Chicken & Mashed Potatoes 
+- [ ] Cooking: Seared Chicken & Mashed Potatoes
 - [ ] DCUS: Design direction
 - [ ] DCUS: First organizer's meeting
 - [ ] DCUS: Website planning
@@ -59,12 +59,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [ ] Work on [Is the Lead Safe?](http://www.istheleadsafe.com/)
 - [ ] Work on Television website
-- [ ] [Apps & Other Projects](https://github.com/jefftriplett/personal-goals/blob/master/ideas/app-ideas.md)
-- [ ] [Blog Post Ideas](https://github.com/jefftriplett/personal-goals/blob/master/ideas/blog-ideas.md)
-- [ ] [Life Ideas](https://github.com/jefftriplett/personal-goals/blob/master/ideas/life-ideas.md)
+- [ ] [Apps & Other Projects](ideas/app-ideas.md)
+- [ ] [Blog Post Ideas](ideas/blog-ideas.md)
+- [ ] [Life Ideas](ideas/life-ideas.md)
+- [ ] [Today I Learned (TIL)](til/README.md)
 
 ## Inspiration
 
 Inspired by [Una's](https://github.com/una) [personal-goals project](https://github.com/una/personal-goals).
 
 Also, check out [Katherine's](https://github.com/KatherineMichel) [personal-goals project](https://github.com/KatherineMichel/personal-goals).
+
+[Josh Branchaud's TIL](https://github.com/jbranchaud/til) which was inspired by [thoughtbot's TIL project](https://github.com/thoughtbot/til).
