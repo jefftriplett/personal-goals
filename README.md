@@ -21,29 +21,25 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Ukulele / Guitar
 1. Learning: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
 
-## February 14, 2016
+## February 21, 2016
 
-### This Week's Focus: It's DjangoCon US time!
+### This Week's Focus: Weekly Themes Are Weird
 
 ### Things I'll Do This Week:
 
-- [ ] Cooking: Lebanese Lamb & Beef Arayes
-- [ ] Cooking: Mexican Spiced Salmon
-- [ ] Cooking: Seared Chicken & Mashed Potatoes
-- [ ] DCUS: Design direction
-- [ ] DCUS: First organizer's meeting
-- [ ] DCUS: Website planning
-- [ ] Establish daily Coffee Shop + email time boxing
-- [ ] Finish 2015 Year in Review post (I write slowly)
-- [ ] Re-think email work flow. I had it under control, but now I can't keep up
+- [ ] Cooking: Center-Cut Pork Chops
+- [ ] Cooking: Chicken Schnitzel
+- [ ] Cooking: Seared Cod & Udon Noodles
+- [ ] DCUS: Catering
+- [ ] DCUS: DGUS
+- [ ] DCUS: Open Day
+- [ ] DCUS: Sponsorship
+- [ ] DCUS: Volunteers
+- [ ] Pick one thing to complete from my future list
 - [ ] Setup 1Writer and writing work flow
-- [ ] Watch Kansas at Kansas State
-- [ ] Watch Oklahoma State at Kansas
-- [ ] Work on istheleadsafe.com
-- [ ] Work on React JS
-- [ ] Work on weekly personal-goals project
-- [ ] ~Practice Ukulele~
-
+- [ ] ~~Establish daily Coffee Shop + email time boxing~~
+- [ ] ~~Finish 2015 Year in Review post (I write slowly)~~
+- [ ] ~~Practice Ukulele~~
 
 ### Things I'll Do In The Future:
 
