@@ -32,6 +32,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Cooking: Seared Cod & Udon Noodles
 - [ ] DCUS: Catering
 - [ ] DCUS: DGUS
+- [ ] DCUS: Financial Aid
 - [ ] DCUS: Open Day
 - [ ] DCUS: Sponsorship
 - [ ] DCUS: Volunteers
