@@ -54,6 +54,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Backlog: Side Projects & Other Ideas
 
+- [ ] Implement some features from [Bullet Journal](http://bulletjournal.com/get-started/) into this project. Thanks for the recommendation [@kojoidrissa](https://github.com/kojoidrissa) via [twitter](https://twitter.com/webology/status/701118226801889280).
 - [ ] Work on [Is the Lead Safe?](http://www.istheleadsafe.com/)
 - [ ] Work on Television website
 - [ ] [Apps & Other Projects](ideas/app-ideas.md)
