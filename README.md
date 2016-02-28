@@ -21,46 +21,47 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Ukulele / Guitar
 1. Learning: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
 
-## February 21, 2016
+## February 28, 2016
 
 ### This Week's Focus: Weekly Themes Are Weird
 
 ### Things I'll Do This Week:
 
-- [ ] Cooking: Center-Cut Pork Chops
-- [ ] Cooking: Chicken Schnitzel
-- [ ] Cooking: Seared Cod & Udon Noodles
-- [ ] DCUS: Catering
 - [ ] DCUS: DGUS
-- [ ] DCUS: Financial Aid
 - [ ] DCUS: Open Day
 - [ ] DCUS: Sponsorship
 - [ ] DCUS: Volunteers
-- [ ] Pick one thing to complete from my future list
 - [ ] Setup 1Writer and writing work flow
+- [ ] Use emoji more (:rocket:)
+- [ ] Watch Iowa State at Kansas
+- [ ] Watch Kansas at Texas
+- [ ] Work on Condor (:email:)
+- [ ] Work on TILs
+- [ ] Work on weekly personal-goals project
+
+### Things I'll Do In The Future:
+
+- [ ] Auto: Replace battery (:car: :battery: )
+- [ ] Auto: Tune-up (:battery:)
+- [ ] Auto: Updates tags (:ticket:)
+- [ ] Cancel cable (:tv: :moneybag:)
+- [ ] Cancel secondary insurance coverage (:moneybag:)
+- [ ] House: Trim the small trees in my front yard (:house_with_garden:)
+- [ ] Learn Guitar (:guitar:)
+- [ ] Learn Swift
+- [ ] Port Hubot deploy script to Slack (:robot_face:)
 - [ ] ~~Establish daily Coffee Shop + email time boxing~~
 - [ ] ~~Finish 2015 Year in Review post (I write slowly)~~
 - [ ] ~~Practice Ukulele~~
 
-### Things I'll Do In The Future:
-
-- [ ] Auto: Replace battery
-- [ ] Auto: Tune-up
-- [ ] Auto: Updates tags
-- [ ] Cancel Cable
-- [ ] Learn Guitar
-- [ ] Learn Swift
-- [ ] Port Hubot deploy script to Slack
-
 ### Backlog: Side Projects & Other Ideas
 
-- [ ] Implement some features from [Bullet Journal](http://bulletjournal.com/get-started/) into this project. Thanks for the recommendation [@kojoidrissa](https://github.com/kojoidrissa) via [twitter](https://twitter.com/webology/status/701118226801889280).
+- [ ] Implement some features from [Bullet Journal](http://bulletjournal.com/get-started/) into this project. (Recommended by [@kojoidrissa](https://github.com/kojoidrissa) via [twitter](https://twitter.com/webology/status/701118226801889280)).
+- [ ] Work on PGHero-like tool
 - [ ] Work on [Is the Lead Safe?](http://www.istheleadsafe.com/)
-- [ ] Work on Television website
 - [ ] [Apps & Other Projects](ideas/app-ideas.md)
 - [ ] [Blog Post Ideas](ideas/blog-ideas.md)
 - [ ] [Life Ideas](ideas/life-ideas.md)
-- [ ] [Today I Learned (TIL)](til/README.md)
 
 ## Inspiration
 
