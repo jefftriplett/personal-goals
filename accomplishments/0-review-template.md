@@ -7,9 +7,9 @@
 
 ## Things I Didn't Get To / Finish
 
-## Next Week's Focus: **NEXT THEME**
-
 ## Additional Things I Did
+
+## Next Week's Focus: **NEXT THEME**
 
 ## Things I'll Do Next Week
 
