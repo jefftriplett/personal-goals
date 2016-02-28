@@ -25,8 +25,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### This Week's Focus: Weekly Themes Are Weird
 
-### Things I'll Do This Week:
+### Things I'll Do This Week
 
+- [ ] Cooking: Pretzel Burgers
+- [ ] Cooking: Spicy Shrimp Spaghetti
+- [ ] Cooking: Trinidadian Chicken Curry
 - [ ] DCUS: DGUS
 - [ ] DCUS: Open Day
 - [ ] DCUS: Sponsorship
@@ -39,7 +42,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Work on TILs
 - [ ] Work on weekly personal-goals project
 
-### Things I'll Do In The Future:
+### Things I'll Do In The Future
 
 - [ ] Auto: Replace battery (:car: :battery: )
 - [ ] Auto: Tune-up (:battery:)
