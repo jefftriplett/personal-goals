@@ -48,3 +48,5 @@
 - Django Dashboard / Charting website
 - Django version of put.io for private file management
 - Lunch website
+- A better [Readlist](http://readlists.com/)
+- A more hackabe (meta + Oembed + GFK + webhook friendly) Trello clone in Django. [Interesting diy clone](https://blog.diacode.com/trello-clone-with-phoenix-and-react-pt-1)
