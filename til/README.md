@@ -11,3 +11,7 @@ While researching ways to extend Click plug-ins, I stumbled on this [amazing tip
 02/17/2016 - Py2 + Emoji + Encoding == Hard (:heart:)
 ---
 It took me a while to wrap my brain around this. I'm getting a list of Emoji'zed Trello board names which I wanted to de-emoji so that it'll save happily in Sqlite3. Here was what finally did the trick: `emoji.demojize(board.name.decode('utf-8'))``
+
+03/01/2016 - Makefile help
+---
+I'm pretty good at documenting help files but the more that I work with python library like click and docopt, the more I want these tools for Makefiles and Bash. This article offers a great one-liner which makes my Makefiles easier to use: http://marmelab.com/blog/2016/02/29/auto-documented-makefile.html
