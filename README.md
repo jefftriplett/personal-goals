@@ -48,9 +48,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Auto: Updates tags (:ticket:)
 - [ ] Cancel cable (:tv: :moneybag:)
 - [ ] Cancel secondary insurance coverage (:moneybag:)
+- [ ] Finance: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system (:chart_with_upwards_trend:)
 - [ ] House: Trim the small trees in my front yard (:house_with_garden:)
 - [ ] Learn Guitar (:guitar:)
 - [ ] Learn Swift
+- [ ] Life: Finish my taxes (:money_with_wings:)
 - [ ] Port Hubot deploy script to Slack (:robot_face:)
 - [ ] ~~Establish daily Coffee Shop + email time boxing~~
 - [ ] ~~Finish 2015 Year in Review post (I write slowly)~~
