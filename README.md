@@ -66,11 +66,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] [Apps & Other Projects](ideas/app-ideas.md)
 - [ ] [Blog Post Ideas](ideas/blog-ideas.md)
 - [ ] [Life Ideas](ideas/life-ideas.md)
+- [ ] [Music](content-list/music/README.md)
 
 ## Inspiration
 
 Inspired by [Una's](https://github.com/una) [personal-goals project](https://github.com/una/personal-goals).
 
-Also, check out [Katherine's](https://github.com/KatherineMichel) [personal-goals project](https://github.com/KatherineMichel/personal-goals).
+Also, check out [Katherine's](https://github.com/KatherineMichel) [Personal Goals project](https://github.com/KatherineMichel/personal-goals) and [Lacey's](https://github.com/williln) [Personal Goals project](https://github.com/williln/personal-goals).
 
 [Josh Branchaud's TIL](https://github.com/jbranchaud/til) which was inspired by [thoughtbot's TIL project](https://github.com/thoughtbot/til).
