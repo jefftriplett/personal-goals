@@ -43,7 +43,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do In The Future
 
-- [ ] Auto: Replace battery (:car: :battery: )
+- [ ] Auto: Replace battery (:car: :battery:)
 - [ ] Auto: Tune-up (:battery:)
 - [ ] Auto: Updates tags (:ticket:)
 - [ ] Cancel cable (:tv: :moneybag:)
@@ -51,7 +51,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finance: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system (:chart_with_upwards_trend:)
 - [ ] House: Trim the small trees in my front yard (:house_with_garden:)
 - [ ] Learn Guitar (:guitar:)
-- [ ] Learn Swift
+- [ ] Learn Swift (:computer:)
 - [ ] Life: Finish my taxes (:money_with_wings:)
 - [ ] Port Hubot deploy script to Slack (:robot_face:)
 - [ ] ~~Establish daily Coffee Shop + email time boxing~~
