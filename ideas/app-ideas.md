@@ -15,7 +15,7 @@
   + [ ] Build models
 
 - Finish Trello Python tools
-  + [ ] Trolley <--> Buffer
+  + [ ] Trolley <--> Buffer :trolleybus:
   + [ ] Meeting tool
 
 - Finish Scraper Proxy services
