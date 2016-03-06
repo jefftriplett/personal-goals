@@ -27,17 +27,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week
 
-- [ ] Cooking: Pretzel Burgers
-- [ ] Cooking: Spicy Shrimp Spaghetti
-- [ ] Cooking: Trinidadian Chicken Curry
-- [ ] DCUS: DGUS
-- [ ] DCUS: Open Day
-- [ ] DCUS: Sponsorship
-- [ ] DCUS: Volunteers
+- [ ] Cooking: Alsatian Spiced Chicken
+- [ ] Cooking: Catfish Meunière
+- [ ] Cooking: Steaks au Poivre
+- [ ] DCUS: DGUS (Meeting)
+- [ ] DCUS: Open Day (Planning)
+- [ ] DCUS: Sponsorship (Meeting)
 - [ ] Setup 1Writer and writing work flow
-- [ ] Use emoji more (:rocket:)
-- [ ] Watch Iowa State at Kansas
-- [ ] Watch Kansas at Texas
+- [ ] Trail Hawk Board Meeting
+- [ ] Trail Hawk Board Meeting
+- [ ] Watch the Big-12 Tournament
 - [ ] Work on Condor (:email:)
 - [ ] Work on TILs
 - [ ] Work on weekly personal-goals project
