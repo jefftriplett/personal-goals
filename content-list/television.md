@@ -8,7 +8,9 @@ I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV s
 - Better Call Saul
 - From Dusk Till Dawn
 - Jessica Jones (:star:)
+- Supergirl
 - The Code
+- The Shannara Chronicles
 
 ## 2015
 
