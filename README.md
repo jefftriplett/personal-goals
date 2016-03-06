@@ -21,9 +21,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Ukulele / Guitar
 1. Learning: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
 
-## February 28, 2016
+## March 6, 2016
 
-### This Week's Focus: Weekly Themes Are Weird
+### This Week's Focus: Big Announcements :sparkles:
 
 ### Things I'll Do This Week
 
