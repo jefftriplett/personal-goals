@@ -3,7 +3,7 @@ from invoke import run, task
 
 @task
 def push():
-    run('cd ~/.virtualenvs/presonal-goals/src/personal-goals')
+    run('cd /Users/jefftriplett/.virtualenvs/personal-goals/src/personal-goals-git')
     run('git checkout master')
     run('git add -A')
     run('git cia -m "push from terminal"')
