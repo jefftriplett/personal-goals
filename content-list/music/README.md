@@ -1,5 +1,4 @@
-Music
-=====
+# Music
 
 ## Playlists
 
@@ -7,4 +6,5 @@ Music
 
 ## Discovery Weekly
 
-- [February 29, 2016](2016-02-week4.md)
+- [March 7, 2016](2016-03-07.md)
+- [February 29, 2016](2016-02-29.md)
