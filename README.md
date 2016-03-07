@@ -66,13 +66,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] [Life Ideas](ideas/life-ideas.md)
 - [ ] [Music](content-list/music/README.md)
 - [ ] Work on [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
-- [ ] Work on PGHero-like tool
+- [ ] Work on PGHero-like tool :tool:
 
 ## Inspiration
 
-Inspired by [Una's](https://github.com/una) [personal-goals project](https://github.com/una/personal-goals).
-
-Also, check out:
+- Inspired by [Una's](https://github.com/una) [Personal Goals project](https://github.com/una/personal-goals) :muscle:
 - [Katherine's](https://github.com/KatherineMichel) [Personal Goals project](https://github.com/KatherineMichel/personal-goals)
 - [Lacey's](https://github.com/williln) [Personal Goals project](https://github.com/williln/personal-goals)
 - [Josh Branchaud's TIL](https://github.com/jbranchaud/til) which was inspired by [thoughtbot's TIL project](https://github.com/thoughtbot/til)
