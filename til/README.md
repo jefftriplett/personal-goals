@@ -17,5 +17,9 @@ It took me a while to wrap my brain around this. I'm getting a list of Emoji'zed
 I'm pretty good at documenting help files but the more that I work with python library like click and docopt, the more I want these tools for Makefiles and Bash. This article offers a great one-liner which makes my Makefiles easier to use: http://marmelab.com/blog/2016/02/29/auto-documented-makefile.html
 
 03/02/2016 - Slow Mac with Mac Server
-
+---
 The sdmd process has been eating up 85%+ of my CPU over three cores. Today I learned how to turn it off and keep my Mac Mini from spinning out of control thanks to this article: [SERVER.APP 5.0.4, SDMD, AND IOS](https://osxbytes.wordpress.com/2015/10/02/server-app-5-0-4-sdmd-and-ios/).
+
+03/08/2016 - Django `UserPassesTestMixin`
+---
+I stumbled on [`django.contrib.auth.mixins.UserPassesTestMixin`](https://docs.djangoproject.com/en/1.9/topics/auth/default/#django.contrib.auth.mixins.UserPassesTestMixin) while helping a friend out with a quick code review. While the `test_func` feels weird at first, but it's a useful alternative to writing a bunch of one-off decorators.
