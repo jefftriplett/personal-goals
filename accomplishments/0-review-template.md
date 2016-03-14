@@ -1,4 +1,3 @@
-
 # This Week's Accomplishments: **MONTH, DAY** 2016
 
 ## This Week's Focus: **THEME**
