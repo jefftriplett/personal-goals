@@ -1,4 +1,3 @@
-
 # Personal Goals
 
 Personal goals made open source.
@@ -21,22 +20,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Ukulele / Guitar
 1. Learning: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
 
-## March 6, 2016
+## March 13, 2016
 
-### This Week's Focus: Big Announcements :sparkles:
+### This Week's Focus: :basketball: and announcements
 
 ### Things I'll Do This Week
 
-- [ ] Cooking: Alsatian Spiced Chicken
-- [ ] Cooking: Catfish Meunière
-- [ ] Cooking: Steaks au Poivre
-- [ ] DCUS: DGUS (Meeting)
+- [ ] Basketball: Fill out my bracket :basketball:
+- [ ] Basketball: Watch Round I of the NCAA Tournament :basketball:
+- [ ] Basketball: Watch Round II of the NCAA Tournament :basketball:
+- [ ] Cooking: Adobo-Style Chicken
+- [ ] Cooking: Seared Salmon & Spinach-Walnut Pesto
+- [ ] Cooking: Triple Pork Mazemen
+- [ ] DCUS: Announce things
 - [ ] DCUS: Open Day (Planning)
 - [ ] DCUS: Sponsorship (Meeting)
-- [ ] Setup 1Writer and writing work flow
-- [ ] Trail Hawk Board Meeting
-- [ ] Trail Hawk Board Meeting
-- [ ] Watch the Big-12 Tournament
 - [ ] Work on Condor :email:
 - [ ] Work on TILs
 - [ ] Work on weekly personal-goals project
