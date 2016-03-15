@@ -6,19 +6,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Overarching Goals
 
-1. Be Healthy
-1. Get work-life balance back in check
-1. Less stress
-1. Save money
-1. Write more
-1. Cook more
-1. More friend time
-1. Health goals: Improve my posture
+1. Financial: Spend money more wisely and save :dollar:
+1. Health goals: Cook more
+1. Health goals: Get work-life balance back in check
+1. Health goals: Improve overall health
+1. Health goals: Less stress :worried:
 1. Health goals: Lower BMI
-1. Take more photos
-1. Learning: Write a game
-1. Learning: Ukulele / Guitar
+1. Hobbies: Take more photos :camera:
+1. Hobbies: Write more :black_nib:
 1. Learning: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
+1. Learning: Ukulele / Guitar
+1. Learning: Write a game :space_invader:
+1. Social: More friend time
 
 ## March 13, 2016
 
@@ -26,18 +25,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week
 
-- [ ] Basketball: Fill out my bracket :basketball:
+- [ ] :arrow_left: DCUS: Sponsorship (Meeting)
+- [ ] :arrow_right: DCUS: Open Day (Planning)
+- [ ] :exclamation: Basketball: Fill out my bracket :basketball:
+- [ ] :exclamation: DCUS: Announce things :date:
+- [ ] :exclamation: House: Remove fallen tree limb (size of my :car:) from the front yard :deciduous_tree:
 - [ ] Basketball: Watch Round I of the NCAA Tournament :basketball:
 - [ ] Basketball: Watch Round II of the NCAA Tournament :basketball:
-- [ ] Cooking: Adobo-Style Chicken
-- [ ] Cooking: Seared Salmon & Spinach-Walnut Pesto
-- [ ] Cooking: Triple Pork Mazemen
-- [ ] DCUS: Announce things
-- [ ] DCUS: Open Day (Planning)
-- [ ] DCUS: Sponsorship (Meeting)
+- [ ] Cooking: Adobo-Style Chicken :fork_and_knife:
+- [ ] Cooking: Seared Salmon & Spinach-Walnut Pesto :fork_and_knife:
+- [ ] Cooking: Triple Pork Mazemen :fork_and_knife:
 - [ ] Work on Condor :email:
-- [ ] Work on TILs
-- [ ] Work on weekly personal-goals project
+- [ ] Work on TILs :books:
+- [ ] Work on weekly personal-goals project :books:
 
 ### Things I'll Do In The Future
 
@@ -46,15 +46,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Auto: Updates tags :ticket:
 - [ ] Cancel cable :tv: :moneybag:
 - [ ] Cancel secondary insurance coverage :moneybag:
+- [ ] Daily Coffee Shop + email time boxing
 - [ ] Finance: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system :chart_with_upwards_trend:
 - [ ] House: Trim the small trees in my front yard :house_with_garden:
-- [ ] Learn Guitar :guitar:
 - [ ] Learn Swift :computer:
+- [ ] Learn Ukulele (and :guitar:)
 - [ ] Life: Finish my taxes :money_with_wings:
-- [ ] Port Hubot deploy script to Slack :robot_face:
-- [ ] ~~Establish daily Coffee Shop + email time boxing~~
 - [ ] ~~Finish 2015 Year in Review post (I write slowly)~~
-- [ ] ~~Practice Ukulele~~
+- [ ] ~~Port Hubot deploy script to Slack :robot_face:~~
 
 ### Backlog: Side Projects & Other Ideas
 
@@ -62,9 +61,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] [Apps & Other Projects](ideas/app-ideas.md)
 - [ ] [Blog Post Ideas](ideas/blog-ideas.md)
 - [ ] [Life Ideas](ideas/life-ideas.md)
-- [ ] [Music](content-list/music/README.md)
+- [ ] [Music](content-list/music/README.md) :radio:
 - [ ] Work on [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
-- [ ] Work on PGHero-like tool :tool:
+- [ ] Work on PGHero-like tool :hammer:
 
 ## Inspiration
 
