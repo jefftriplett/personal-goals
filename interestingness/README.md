@@ -2,6 +2,11 @@
 
 ## Inspiration 
 
+### Design
+
+- [Upon a hill](http://web.archive.org/web/20120508210429/http://uponahill.com/archive) from archive.org
+- [The Builder’s High](http://randsinrepose.com/archives/the-builders-high/)
+
 ### Projects
 
 - [The Sheep Market](http://www.thesheepmarket.com/) - 10,000 sheep created by online workers on Amazon's Mechanical Turk.
@@ -16,8 +21,6 @@
 - [Code for xkcd-1110](https://github.com/dividuum/xkcd-1110)
 - [Hank Bought A Bus](http://www.hankboughtabus.com/)
 
-### Design
+### Writing
 
-- [Upon a hill](http://web.archive.org/web/20120508210429/http://uponahill.com/archive) from archive.org
-- [The Builder’s High](http://randsinrepose.com/archives/the-builders-high/)
-
+- [How To Publish 6 Blog Posts Every Week](https://medium.com/life-learning/how-to-publish-6-blog-posts-every-week-156dae82ed2c)
