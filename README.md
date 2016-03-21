@@ -6,18 +6,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Overarching Goals
 
-1. Financial: Spend money more wisely and save :dollar:
-1. Health goals: Cook more
-1. Health goals: Get work-life balance back in check
-1. Health goals: Improve overall health
-1. Health goals: Less stress :worried:
-1. Health goals: Lower BMI
-1. Hobbies: Take more photos :camera:
-1. Hobbies: Write more :black_nib:
-1. Learning: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
-1. Learning: Ukulele / Guitar
-1. Learning: Write a game :space_invader:
-1. Social: More friend time
+1. :chart_with_upwards_trend: Spend money more wisely and save :dollar:
+1. :hospital: Cook more
+1. :hospital: Get work-life balance back in check
+1. :hospital: Improve overall health
+1. :hospital: Less stress :worried:
+1. :hospital: Lower BMI
+1. :rowboat: Take more photos :camera:
+1. :rowboat: Write more :black_nib:
+1. :mortar_board: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
+1. :mortar_board: Ukulele / Guitar
+1. :mortar_board: Write a game :space_invader:
+1. :speech_balloon: More friend time
 
 ## March 21, 2016
 
@@ -25,36 +25,36 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week ([Legend](emoji-legend.md.md))
 
-- [ ] Basketball: Watch the Elite 8 of the NCAA Tournament :basketball:
-- [ ] Basketball: Watch the Sweet 16 of the NCAA Tournament :basketball:
-- [ ] Cooking: Chicken Cacciatore
-- [ ] Cooking: Cod Kedgeree 
-- [ ] Cooking: Cuban Sandwiches
-- [ ] DCUS: :arrow_right: Open Day (Planning)
-- [ ] DCUS: :arrow_right: Plan next meeting
-- [ ] DCUS: Launch review process
-- [ ] DCUS: Launch sponsorship section
-- [ ] DCUS: Launch tickets
-- [ ] DCUS: More updates
-- [ ] DCUS: Read up on the E-myth
-- [ ] Try out [Vue.js](https://vuejs.org/)
-- [ ] Work on Condor :email:
-- [ ] Work on TILs :books:
-- [ ] Work on weekly personal-goals project :books:
+- [ ] :basketball: Watch the Elite 8 of the NCAA Tournament
+- [ ] :basketball: Watch the Sweet 16 of the NCAA Tournament
+- [ ] :briefcase: Condor :email:
+- [ ] :briefcase: TILs :books:
+- [ ] :briefcase: Weekly personal-goals project :books:
+- [ ] :circus_tent: DCUS: :arrow_right: Open Day (Planning)
+- [ ] :circus_tent: DCUS: :arrow_right: Plan next meeting
+- [ ] :circus_tent: DCUS: Launch review process
+- [ ] :circus_tent: DCUS: Launch sponsorship section
+- [ ] :circus_tent: DCUS: Launch tickets
+- [ ] :circus_tent: DCUS: More updates
+- [ ] :circus_tent: DCUS: Read up on the E-myth
+- [ ] :mortar_board: Try out [Vue.js](https://vuejs.org/)
+- [ ] :stew: Chicken Cacciatore
+- [ ] :stew: Cod Kedgeree 
+- [ ] :stew: Cuban Sandwiches
 
 ### Things I'll Do In The Future
 
-- [ ] Auto: Replace battery :car: :battery:
-- [ ] Auto: Tune-up :battery:
-- [ ] Auto: Updates tags :ticket:
-- [ ] Cancel cable :tv: :moneybag:
-- [ ] Cancel secondary insurance coverage :moneybag:
-- [ ] Daily Coffee Shop + email time boxing
-- [ ] Finance: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system :chart_with_upwards_trend:
-- [ ] House: Trim the small trees in my front yard :house_with_garden:
-- [ ] Learn Swift :computer:
-- [ ] Learn Ukulele (and :guitar:)
-- [ ] Life: Finish my taxes :money_with_wings:
+- [ ] :calendar: :coffee: shop + :email: time boxing
+- [ ] :car: Replace :battery:
+- [ ] :car: Tune-up :wrench:
+- [ ] :car: Updates tags :ticket:
+- [ ] :chart_with_downwards_trend: Finish my taxes :money_with_wings:
+- [ ] :chart_with_upwards_trend: Cancel cable :tv: :moneybag:
+- [ ] :chart_with_upwards_trend: Cancel secondary insurance coverage :moneybag:
+- [ ] :chart_with_upwards_trend: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system :chart_with_upwards_trend:
+- [ ] :house_with_garden: Trim the small trees in my front yard 
+- [ ] :mortar_board: Swift :computer:
+- [ ] :mortar_board: Ukulele (and :guitar:)
 - [ ] ~~Finish 2015 Year in Review post (I write slowly)~~
 - [ ] ~~Port Hubot deploy script to Slack :robot_face:~~
 
@@ -65,8 +65,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] [Blog Post Ideas](ideas/blog-ideas.md)
 - [ ] [Events](content-list/events.md)
 - [ ] [Life Ideas](ideas/life-ideas.md)
-- [ ] [Music](content-list/music/README.md) :radio:
-- [ ] Work on [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
+- [ ] [:musical_note: Music](content-list/music/README.md) :radio:
+- [ ] :briefcase: [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
 - [ ] Work on PGHero-like tool :hammer:
 
 ## Inspiration

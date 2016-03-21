@@ -9,3 +9,5 @@ Emoji | Represents | Comment
 :mag: | Explore |
 :star: | Favorite |
 :star2: | Bestest |
+:hospital: | Health |
+:mortar_board: | Learning |
