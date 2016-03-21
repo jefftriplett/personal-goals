@@ -19,22 +19,25 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Learning: Write a game :space_invader:
 1. Social: More friend time
 
-## March 13, 2016
+## March 21, 2016
 
-### This Week's Focus: :basketball: and announcements
+### This Week's Focus: Moar :basketball:
 
 ### Things I'll Do This Week
 
-- [ ] :arrow_left: DCUS: Sponsorship (Meeting)
-- [ ] :arrow_right: DCUS: Open Day (Planning)
-- [ ] :exclamation: Basketball: Fill out my bracket :basketball:
-- [ ] :exclamation: DCUS: Announce things :date:
-- [ ] :exclamation: House: Remove fallen tree limb (size of my :car:) from the front yard :deciduous_tree:
-- [ ] Basketball: Watch Round I of the NCAA Tournament :basketball:
-- [ ] Basketball: Watch Round II of the NCAA Tournament :basketball:
-- [ ] Cooking: Adobo-Style Chicken :fork_and_knife:
-- [ ] Cooking: Seared Salmon & Spinach-Walnut Pesto :fork_and_knife:
-- [ ] Cooking: Triple Pork Mazemen :fork_and_knife:
+- [ ] Basketball: Watch the Elite 8 of the NCAA Tournament :basketball:
+- [ ] Basketball: Watch the Sweet 16 of the NCAA Tournament :basketball:
+- [ ] Cooking: Chicken Cacciatore
+- [ ] Cooking: Cod Kedgeree 
+- [ ] Cooking: Cuban Sandwiches
+- [ ] DCUS: :arrow_right: Open Day (Planning)
+- [ ] DCUS: :arrow_right: Plan next meeting
+- [ ] DCUS: Launch review process
+- [ ] DCUS: Launch sponsorship pages
+- [ ] DCUS: Launch tickets
+- [ ] DCUS: More updates
+- [ ] DCUS: Read up on the E-myth
+- [ ] Try out [Vue.js](https://vuejs.org/)
 - [ ] Work on Condor :email:
 - [ ] Work on TILs :books:
 - [ ] Work on weekly personal-goals project :books:
@@ -60,10 +63,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Implement some features from [Bullet Journal](http://bulletjournal.com/get-started/) into this project. (Recommended by [@kojoidrissa](https://github.com/kojoidrissa) via [twitter](https://twitter.com/webology/status/701118226801889280)).
 - [ ] [Apps & Other Projects](ideas/app-ideas.md)
 - [ ] [Blog Post Ideas](ideas/blog-ideas.md)
+- [ ] [Events](content-list/events.md)
 - [ ] [Life Ideas](ideas/life-ideas.md)
 - [ ] [Music](content-list/music/README.md) :radio:
 - [ ] Work on [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
 - [ ] Work on PGHero-like tool :hammer:
+
+### Emoji key
+
+Emoji | Represents | Comment
+:---: | --- | ---
+:arrow_right: | Task Migrated |
+:arrow_left: | Task Scheduled |
+:exclamation: | Priority |
+:sparkles: | Inspiration |
+:mag: | Explore |
+:star: | Favorite |
+:star2: | Bestest |
 
 ## Inspiration
 
