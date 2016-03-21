@@ -23,7 +23,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### This Week's Focus: Moar :basketball:
 
-### Things I'll Do This Week
+### Things I'll Do This Week ([Legend](emoji-legend.md.md))
 
 - [ ] Basketball: Watch the Elite 8 of the NCAA Tournament :basketball:
 - [ ] Basketball: Watch the Sweet 16 of the NCAA Tournament :basketball:
@@ -33,7 +33,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] DCUS: :arrow_right: Open Day (Planning)
 - [ ] DCUS: :arrow_right: Plan next meeting
 - [ ] DCUS: Launch review process
-- [ ] DCUS: Launch sponsorship pages
+- [ ] DCUS: Launch sponsorship section
 - [ ] DCUS: Launch tickets
 - [ ] DCUS: More updates
 - [ ] DCUS: Read up on the E-myth
@@ -68,18 +68,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] [Music](content-list/music/README.md) :radio:
 - [ ] Work on [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
 - [ ] Work on PGHero-like tool :hammer:
-
-### Emoji key
-
-Emoji | Represents | Comment
-:---: | --- | ---
-:arrow_right: | Task Migrated |
-:arrow_left: | Task Scheduled |
-:exclamation: | Priority |
-:sparkles: | Inspiration |
-:mag: | Explore |
-:star: | Favorite |
-:star2: | Bestest |
 
 ## Inspiration
 
