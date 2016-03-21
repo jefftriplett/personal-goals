@@ -23,3 +23,8 @@ KU won the Big-12 Tournament Championship Title :basketball:
 03/13/2016
 ---
 My adventure :dog: sitting for a friend went well. Lucy the basset hound made her escape Saturday night and headed towards campus. Basset hounds are much faster than their short legs and long bodies suggest. After two+ hours of searching, someone replied on Facebook to one of our many posts. Lucy was picked up by the police, spent a night in jail, and had to be bailed out the next morning. It's a good thing that Lawrence is a dog friendly city. Lucy's night on the town ended up costing $35 with a $15 holding fee and another $20 for a rabies shot. Picking her up safely and unharmed the next day was priceless. 
+
+03/21/2016
+---
+I ran across this [article](http://keddle.blogspot.com/2013/03/pycon-good-stuff.html) from [Kate Heddleston](https://twitter.com/heddle317). #positivity
+
