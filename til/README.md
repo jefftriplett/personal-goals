@@ -27,3 +27,7 @@ I stumbled on [`django.contrib.auth.mixins.UserPassesTestMixin`](https://docs.dj
 03/20/2016
 ---
 How to speed up iOS by [disabling SpringBoard animations](http://9to5mac.com/2016/03/08/how-to-disable-ios-springboard-animations-faster-glitch/).
+
+03/22/2016
+---
+How to [merge multiple audio files into one audio file](https://trac.ffmpeg.org/wiki/Concatenate) with ffmpeg.
