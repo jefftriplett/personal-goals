@@ -24,10 +24,14 @@ The sdmd process has been eating up 85%+ of my CPU over three cores. Today I lea
 ---
 I stumbled on [`django.contrib.auth.mixins.UserPassesTestMixin`](https://docs.djangoproject.com/en/1.9/topics/auth/default/#django.contrib.auth.mixins.UserPassesTestMixin) while helping a friend out with a quick code review. While the `test_func` feels weird at first, but it's a useful alternative to writing a bunch of one-off decorators.
 
-03/20/2016
+03/20/2016 - Significantly speed up iOS
 ---
 How to speed up iOS by [disabling SpringBoard animations](http://9to5mac.com/2016/03/08/how-to-disable-ios-springboard-animations-faster-glitch/).
 
-03/22/2016
+03/22/2016 - Use FFMPEG to merge audio files
 ---
 How to [merge multiple audio files into one audio file](https://trac.ffmpeg.org/wiki/Concatenate) with ffmpeg.
+
+03/23/2016 - Overcast is also a good audiobook client
+---
+The [Overcast podcast app](https://overcast.fm/) also makes a pretty decent audiobook client with the recent [upload feature](https://www.macstories.net/ios/overcast-2-5-adds-dark-theme-file-uploads/). Overcast's [Smart Speed feature saves me significantly amount of time](https://medium.com/@eped/overcasts-smart-speed-vs-real-time-a759549ab48b) without sacrificing voice quality.
