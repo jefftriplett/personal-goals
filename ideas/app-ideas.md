@@ -33,6 +33,8 @@
   + [x] Initial version
   + [x] Launch on my shared server
 
+- Badge project: I have no idea why this project is compelling to me, but I want the ability to give / receive random badges for things with little to no overhead. Sign up with a social media account and go. [django-badgify](https://github.com/ulule/django-badgify) could get scratch this itch.
+
 - TV Theories: General purpose tracking website for TV shows. Structured mix of Wikipedia information with comments and theories (unlike Reddit)
   + [x] Wikipedia scraper
   + [x] Wikia scraper
