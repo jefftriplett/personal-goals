@@ -2,7 +2,10 @@
 
 ## This Week's Focus: **THEME**
 
-## Things I Did From the List
+## Things I Did From the List ([Legend](emoji-legend.md.md))
+
+- [ ] :briefcase: TILs :books:
+- [ ] :briefcase: Weekly personal-goals project :books:
 
 ## Things I Didn't Get To / Finish
 
