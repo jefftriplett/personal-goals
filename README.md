@@ -19,28 +19,28 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :mortar_board: Write a game :space_invader:
 1. :speech_balloon: More friend time
 
-## March 21, 2016
+## March 28, 2016
 
-### This Week's Focus: Moar :basketball:
+### This Week's Focus: Back to basics and health :chart_with_upwards_trend:
 
 ### Things I'll Do This Week ([Legend](emoji-legend.md.md))
 
-- [ ] :basketball: Watch the Elite 8 of the NCAA Tournament
-- [ ] :basketball: Watch the Sweet 16 of the NCAA Tournament
+- [ ] :basketball: Watch the Final 4 of the NCAA Tournament
+- [ ] :black_nib: Document writing goals
+- [ ] :book: Finish another Seth Godin book
+- [ ] :book: Finish the "E-Myth"
 - [ ] :briefcase: Condor :email:
 - [ ] :briefcase: TILs :books:
 - [ ] :briefcase: Weekly personal-goals project :books:
 - [ ] :circus_tent: DCUS: :arrow_right: Open Day (Planning)
 - [ ] :circus_tent: DCUS: :arrow_right: Plan next meeting
-- [ ] :circus_tent: DCUS: Launch review process
-- [ ] :circus_tent: DCUS: Launch sponsorship section
-- [ ] :circus_tent: DCUS: Launch tickets
-- [ ] :circus_tent: DCUS: More updates
-- [ ] :circus_tent: DCUS: Read up on the E-myth
-- [ ] :mortar_board: Try out [Vue.js](https://vuejs.org/)
-- [ ] :stew: Chicken Cacciatore
-- [ ] :stew: Cod Kedgeree 
-- [ ] :stew: Cuban Sandwiches
+- [ ] :circus_tent: DCUS: Update talk ideas post
+- [ ] :hospital: Drink more :tea:
+- [ ] :running: Go for a run (maybe c25k or something)
+- [ ] :stew: Hoisin & Shiitake Burgers
+- [ ] :stew: Provençal Chicken & Potato Stew 
+- [ ] :stew: Sumac-Spiced Salmon & Labneh
+- [ ] :tent: Annual [Rocking K](https://ultrasignup.com/register.aspx?did=34953) trip to see :running: friends
 
 ### Things I'll Do In The Future
 
@@ -54,6 +54,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :chart_with_upwards_trend: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system :chart_with_upwards_trend:
 - [ ] :house_with_garden: Trim the small trees in my front yard 
 - [ ] :mortar_board: Swift :computer:
+- [ ] :mortar_board: Try out [Vue.js](https://vuejs.org/)
 - [ ] :mortar_board: Ukulele (and :guitar:)
 - [ ] ~~Finish 2015 Year in Review post (I write slowly)~~
 - [ ] ~~Port Hubot deploy script to Slack :robot_face:~~
