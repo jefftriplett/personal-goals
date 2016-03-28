@@ -32,7 +32,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :briefcase: Condor :email:
 - [ ] :briefcase: TILs :books:
 - [ ] :briefcase: Weekly personal-goals project :books:
-- [ ] :circus_tent: DCUS: :arrow_right: Open Day (Planning)
 - [ ] :circus_tent: DCUS: :arrow_right: Plan next meeting
 - [ ] :circus_tent: DCUS: Update talk ideas post
 - [ ] :hospital: Drink more :tea:
@@ -52,6 +51,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :chart_with_upwards_trend: Cancel cable :tv: :moneybag:
 - [ ] :chart_with_upwards_trend: Cancel secondary insurance coverage :moneybag:
 - [ ] :chart_with_upwards_trend: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system :chart_with_upwards_trend:
+- [ ] :circus_tent: DCUS: :arrow_right: Open Day (Planning)
 - [ ] :house_with_garden: Trim the small trees in my front yard 
 - [ ] :mortar_board: Swift :computer:
 - [ ] :mortar_board: Try out [Vue.js](https://vuejs.org/)
