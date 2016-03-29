@@ -37,7 +37,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :hospital: Drink more :tea:
 - [ ] :running: Go for a run (maybe c25k or something)
 - [ ] :stew: Hoisin & Shiitake Burgers
-- [ ] :stew: Provençal Chicken & Potato Stew 
+- [ ] :stew: Provencal Chicken & Potato Stew 
 - [ ] :stew: Sumac-Spiced Salmon & Labneh
 - [ ] :tent: Annual [Rocking K](https://ultrasignup.com/register.aspx?did=34953) trip to see :running: friends
 
