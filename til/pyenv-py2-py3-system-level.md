@@ -1,13 +1,13 @@
 ---
 Date: 02/15/2016
 Title: PyEnv Py2 + Py3 System Wide
+Categories:
+ - Python
 Tags:
  - python
  - py2
  - py3
  - pyenv
-Categories:
- - Python
 ---
 
 # PyEnv Py2 + Py3 System Wide (Python)
