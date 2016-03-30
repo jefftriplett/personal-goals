@@ -59,15 +59,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] ~~Finish 2015 Year in Review post (I write slowly)~~
 - [ ] ~~Port Hubot deploy script to Slack :robot_face:~~
 
-### Backlog: Side Projects & Other Ideas
+### Side Projects & Other Ideas
 
 - [ ] Implement some features from [Bullet Journal](http://bulletjournal.com/get-started/) into this project. (Recommended by [@kojoidrissa](https://github.com/kojoidrissa) via [twitter](https://twitter.com/webology/status/701118226801889280)).
 - [ ] [Apps & Other Projects](ideas/app-ideas.md)
 - [ ] [Blog Post Ideas](ideas/blog-ideas.md)
 - [ ] [Events](content-list/events.md)
-- [ ] [Life Ideas](ideas/life-ideas.md)
-- [ ] [:musical_note: Music](content-list/music/README.md) :radio:
-- [ ] :briefcase: [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
+- [ ] [Ideas](ideas/README.md)
+- [ ] [Today I Learned (TIL)](til/README.md)
+- [ ] [:musical_note: Music](content-list/music/README.md)
+- [ ] Work on [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
 - [ ] Work on PGHero-like tool :hammer:
 
 ## Inspiration
