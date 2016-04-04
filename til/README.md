@@ -23,5 +23,6 @@
 - [mac-server-is-slow](mac-server-is-slow.md)
 
 ## Python
+
 - [pyenv-py2-py3-system-level](pyenv-py2-py3-system-level.md)
 - [reusable-click-options](reusable-click-options.md)
