@@ -2,6 +2,8 @@
 
 ## Side Projects
 
+### Fresh
+
 - :basketball: IsTheLeadSafe.com 
   + [ ] Port to Django
   + [ ] Update React to latest
@@ -49,7 +51,7 @@
 
 - Better Gmail Rules: A combination of a simple Django app (Contacts + Groups) and scanning email with imapy then building custom import rules to export back to gmail.
 
-## Side Projects (Retired)
+### Retired
 
 - [x] Kindle Reader project (retired for now)
 
@@ -64,3 +66,4 @@
 - [ ] Django Dashboard / Charting website
 - [ ] Django version of put.io for private file management
 - [ ] Lunch website
+- [ ] Sublime Text 3 / proselint plugin for flagging words outside of the 1,000 most common words in English. [Cleartext](https://github.com/mortenjust/cleartext-mac) does this.
