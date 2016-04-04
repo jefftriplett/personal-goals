@@ -4,8 +4,8 @@
 
 ## Things I Did From the List ([Legend](emoji-legend.md.md))
 
-- [ ] :briefcase: TILs :books:
-- [ ] :briefcase: Weekly personal-goals project :books:
+- [ ] :books: TILs
+- [ ] :books: Weekly personal-goals project
 
 ## Things I Didn't Get To / Finish
 
