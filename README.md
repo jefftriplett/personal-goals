@@ -19,38 +19,37 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :mortar_board: Write a game :space_invader:
 1. :speech_balloon: More friend time
 
-## March 28, 2016
+## April 4, 2016
 
-### This Week's Focus: Back to basics and health :chart_with_upwards_trend:
+### This Week's Focus: The Weather is Nice, it's Time to Sweat
 
 ### Things I'll Do This Week ([Legend](emoji-legend.md.md))
 
-- [ ] :basketball: Watch the Final 4 of the NCAA Tournament
-- [ ] :black_nib: Document writing goals
-- [ ] :book: Finish another Seth Godin book
+- [ ] :basketball: Watch the NCAA Championship
 - [ ] :book: Finish the "E-Myth"
-- [ ] :briefcase: Condor :email:
-- [ ] :briefcase: TILs :books:
-- [ ] :briefcase: Weekly personal-goals project :books:
+- [ ] :books: TILs
+- [ ] :books: Weekly personal-goals project
+- [ ] :circus_tent: DCUS: :arrow_right: Open Day (Planning)
 - [ ] :circus_tent: DCUS: :arrow_right: Plan next meeting
-- [ ] :circus_tent: DCUS: Update talk ideas post
-- [ ] :hospital: Drink more :tea:
+- [ ] :circus_tent: DCUS: Index 2015 Videos
+- [ ] :muscle: Buy Kettlebells
 - [ ] :running: Go for a run (maybe c25k or something)
-- [ ] :stew: Hoisin & Shiitake Burgers
-- [ ] :stew: Provencal Chicken & Potato Stew 
-- [ ] :stew: Sumac-Spiced Salmon & Labneh
-- [ ] :tent: Annual [Rocking K](https://ultrasignup.com/register.aspx?did=34953) trip to see :running: friends
+- [ ] :stew: Chicken Fried Chicken
+- [ ] :stew: Dukkah-Spiced Cod
+- [ ] :stew: Steak & Eggs 
+- [ ] :tv: Catch up on Walking Dead :skull:
 
 ### Things I'll Do In The Future
 
+- [ ] :heart: Send one [Happiness Packet](https://www.happinesspackets.io/) a week
 - [ ] :calendar: :coffee: shop + :email: time boxing
 - [ ] :car: Replace :battery:
 - [ ] :car: Tune-up :wrench:
 - [ ] :car: Updates tags :ticket:
 - [ ] :chart_with_downwards_trend: Finish my taxes :money_with_wings:
-- [ ] :chart_with_upwards_trend: Cancel cable :tv: :moneybag:
+- [ ] :chart_with_upwards_trend: Cancel cable
 - [ ] :chart_with_upwards_trend: Cancel secondary insurance coverage :moneybag:
-- [ ] :chart_with_upwards_trend: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system :chart_with_upwards_trend:
+- [ ] :chart_with_upwards_trend: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system
 - [ ] :circus_tent: DCUS: :arrow_right: Open Day (Planning)
 - [ ] :house_with_garden: Trim the small trees in my front yard 
 - [ ] :mortar_board: Swift :computer:
