@@ -23,7 +23,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### This Week's Focus: The Weather is Nice, it's Time to Sweat
 
-### Things I'll Do This Week ([Legend](emoji-legend.md.md))
+### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :basketball: Watch the NCAA Championship
 - [ ] :book: Finish the "E-Myth"
