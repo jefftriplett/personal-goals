@@ -5,7 +5,7 @@ Categories:
  - Django
 Tags:
  - python
- - djang
+ - django
  - mixins
 ---
 
