@@ -2,7 +2,7 @@
 
 ## This Week's Focus: **THEME**
 
-## Things I Did From the List ([Legend](emoji-legend.md.md))
+## Things I Did From the List ([Resources](resources.md))
 
 - [ ] :books: TILs
 - [ ] :books: Weekly personal-goals project
