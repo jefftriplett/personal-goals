@@ -19,34 +19,32 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :mortar_board: Write a game :space_invader:
 1. :speech_balloon: More friend time
 
-## April 4, 2016
+## April 11, 2016
 
 ### This Week's Focus: The Weather is Nice, it's Time to Sweat
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: Watch the NCAA Championship
-- [ ] :book: Finish the "E-Myth"
-- [ ] :books: TILs
-- [ ] :books: Weekly personal-goals project
-- [ ] :circus_tent: DCUS: :arrow_right: Open Day (Planning)
-- [ ] :circus_tent: DCUS: :arrow_right: Plan next meeting
+- [ ] :books: Finish "Linchpin: Are You Indispensable?" (Seth Godin)
+- [ ] :books: Finish another section of the "E-Myth"
+- [ ] :car: Replace :battery:
+- [ ] :car: Tune-up :wrench:
+- [ ] :chart_with_downwards_trend: Finish my taxes :money_with_wings:
 - [ ] :circus_tent: DCUS: Index 2015 Videos
+- [ ] :circus_tent: DCUS: Organizer's Meeting
+- [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/) a week
 - [ ] :muscle: Buy Kettlebells
 - [ ] :running: Go for a run (maybe c25k or something)
-- [ ] :stew: Chicken Fried Chicken
-- [ ] :stew: Dukkah-Spiced Cod
-- [ ] :stew: Steak & Eggs 
-- [ ] :tv: Catch up on Walking Dead :skull:
+- [ ] Fix iMac
+- [ ] Track daily goals through [Nomie](https://nomie.io/)
+- [ ] Trail Hawk's Board Meeting
+
+## Next Week's Focus: Re-arranging Boxes
 
 ### Things I'll Do In The Future
 
-- [ ] :heart: Send one [Happiness Packet](https://www.happinesspackets.io/) a week
 - [ ] :calendar: :coffee: shop + :email: time boxing
-- [ ] :car: Replace :battery:
-- [ ] :car: Tune-up :wrench:
 - [ ] :car: Updates tags :ticket:
-- [ ] :chart_with_downwards_trend: Finish my taxes :money_with_wings:
 - [ ] :chart_with_upwards_trend: Cancel cable
 - [ ] :chart_with_upwards_trend: Cancel secondary insurance coverage :moneybag:
 - [ ] :chart_with_upwards_trend: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system

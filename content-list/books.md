@@ -28,6 +28,7 @@
 - [x] "All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World" (Seth Godin)
 - [x] "Leap First" (Seth Godin)
 - [x] "Permission Marketing: Turning Strangers into Friends and Friends into Customers" (Seth Godin)
+- [x] "The Checklist Manifesto: How to Get Things Right Paperback" (Atul Gawande)
 
 ## Resources
 
