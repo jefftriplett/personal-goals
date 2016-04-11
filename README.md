@@ -33,7 +33,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :circus_tent: DCUS: Index 2015 Videos
 - [ ] :circus_tent: DCUS: Organizer's Meeting
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/) a week
-- [ ] :muscle: Buy Kettlebells
 - [ ] :running: Go for a run (maybe c25k or something)
 - [ ] Fix iMac
 - [ ] Track daily goals through [Nomie](https://nomie.io/)
