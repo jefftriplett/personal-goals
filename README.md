@@ -19,26 +19,28 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :mortar_board: Write a game :space_invader:
 1. :speech_balloon: More friend time
 
-## April 11, 2016
+## April 18, 2016
 
-### This Week's Focus: The Weather is Nice, it's Time to Sweat
+### This Week's Focus: Day and Night (Job)
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :books: Finish "Linchpin: Are You Indispensable?" (Seth Godin)
 - [ ] :books: Finish another section of the "E-Myth"
 - [ ] :car: Replace :battery:
 - [ ] :car: Tune-up :wrench:
-- [ ] :chart_with_downwards_trend: Finish my taxes :money_with_wings:
+- [ ] :circus_tent: DCUS: CFP Ending
 - [ ] :circus_tent: DCUS: Index 2015 Videos
-- [ ] :circus_tent: DCUS: Organizer's Meeting
+- [ ] :circus_tent: DCUS: Prepare for Financial Assistance Last Call
+- [ ] :circus_tent: DCUS: Start Reviews
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/) a week
 - [ ] :running: Go for a run (maybe c25k or something)
-- [ ] Fix iMac
+- [ ] :stew: Crispy Catfish Sandwiches
+- [ ] :stew: Roasted Chicken & Mixed Mushrooms
+- [ ] :stew: Spiced Pork Chops & Mashed Potatoes
 - [ ] Track daily goals through [Nomie](https://nomie.io/)
 - [ ] Trail Hawk's Board Meeting
 
-## Next Week's Focus: Re-arranging Boxes
+## Next Week's Focus: Check the Course
 
 ### Things I'll Do In The Future
 
