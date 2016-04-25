@@ -21,26 +21,24 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## April 18, 2016
 
-### This Week's Focus: Day and Night (Job)
+### This Week's Focus: Follow Your Arrow :purple_heart:
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :books: Finish another section of the "E-Myth"
-- [ ] :car: Replace :battery:
+- [ ] :books: TILs
 - [ ] :car: Tune-up :wrench:
-- [ ] :circus_tent: DCUS: CFP Ending
-- [ ] :circus_tent: DCUS: Index 2015 Videos
-- [ ] :circus_tent: DCUS: Prepare for Financial Assistance Last Call
-- [ ] :circus_tent: DCUS: Start Reviews
+- [ ] :circus_tent: DCUS: Financial Aid wraps up
+- [ ] :circus_tent: DCUS: Sponsorship Phase 2
+- [ ] :computer: Upgrade laptops
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/) a week
 - [ ] :running: Go for a run (maybe c25k or something)
-- [ ] :stew: Crispy Catfish Sandwiches
-- [ ] :stew: Roasted Chicken & Mixed Mushrooms
-- [ ] :stew: Spiced Pork Chops & Mashed Potatoes
-- [ ] Track daily goals through [Nomie](https://nomie.io/)
-- [ ] Trail Hawk's Board Meeting
+- [ ] :stew: Korean Bao Sliders 
+- [ ] :stew: Seared Salmon & "Green" Potato Salad
+- [ ] :stew: Za’atar Chicken & Pearl Couscous
+- [ ] :white_check_mark: Complete at least one item from my "Things I'll Do In The Future" checklist
 
-## Next Week's Focus: Check the Course
+## Next Week's Focus: *TBD*
 
 ### Things I'll Do In The Future
 
@@ -48,8 +46,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :car: Updates tags :ticket:
 - [ ] :chart_with_upwards_trend: Cancel cable
 - [ ] :chart_with_upwards_trend: Cancel secondary insurance coverage :moneybag:
-- [ ] :chart_with_upwards_trend: Formalize my system. I semi-follow a ["Money Flow"](http://www.nerdwallet.com/blog/advisorvoices/a-smart-system-to-track-your-money-flow/) system
-- [ ] :circus_tent: DCUS: :arrow_right: Open Day (Planning)
 - [ ] :house_with_garden: Trim the small trees in my front yard 
 - [ ] :mortar_board: Swift :computer:
 - [ ] :mortar_board: Try out [Vue.js](https://vuejs.org/)
@@ -59,15 +55,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Side Projects & Other Ideas
 
-- [ ] Implement some features from [Bullet Journal](http://bulletjournal.com/get-started/) into this project. (Recommended by [@kojoidrissa](https://github.com/kojoidrissa) via [twitter](https://twitter.com/webology/status/701118226801889280)).
-- [ ] [Apps & Other Projects](ideas/app-ideas.md)
-- [ ] [Blog Post Ideas](ideas/blog-ideas.md)
-- [ ] [Events](content-list/events.md)
-- [ ] [Ideas](ideas/README.md)
-- [ ] [Today I Learned (TIL)](til/README.md)
-- [ ] [:musical_note: Music](content-list/music/README.md)
-- [ ] Work on [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
-- [ ] Work on PGHero-like tool :hammer:
+- Implement some features from [Bullet Journal](http://bulletjournal.com/get-started/) into this project. (Recommended by [@kojoidrissa](https://github.com/kojoidrissa) via [twitter](https://twitter.com/webology/status/701118226801889280)).
+- [Apps & Other Projects](ideas/app-ideas.md)
+- [Blog Post Ideas](ideas/blog-ideas.md)
+- [Events](content-list/events.md)
+- [Ideas](ideas/README.md)
+- [Today I Learned (TIL)](til/README.md)
+- [:musical_note: Music](content-list/music/README.md)
+- Work on [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
+- Work on PGHero-like tool :hammer:
 
 ## Inspiration
 
