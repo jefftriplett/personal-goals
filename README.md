@@ -19,7 +19,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :mortar_board: Write a game :space_invader:
 1. :speech_balloon: More friend time
 
-## April 18, 2016
+## April 25, 2016
 
 ### This Week's Focus: Follow Your Arrow :purple_heart:
 
