@@ -19,24 +19,27 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :mortar_board: Write a game :space_invader:
 1. :speech_balloon: More friend time
 
-## April 25, 2016
+## May 1, 2016
 
-### This Week's Focus: Follow Your Arrow :purple_heart:
+### This Week's Focus: Budget and Save
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :bike: Get gears looked at / fixed
+- [ ] :bike: Ride to work at least once
 - [ ] :books: Finish another section of the "E-Myth"
 - [ ] :books: TILs
 - [ ] :car: Tune-up :wrench:
-- [ ] :circus_tent: DCUS: Financial Aid wraps up
-- [ ] :circus_tent: DCUS: Sponsorship Phase 2
 - [ ] :computer: Upgrade laptops
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/) a week
 - [ ] :running: Go for a run (maybe c25k or something)
-- [ ] :stew: Korean Bao Sliders 
-- [ ] :stew: Seared Salmon & "Green" Potato Salad
-- [ ] :stew: Za’atar Chicken & Pearl Couscous
+- [ ] :stew: Crispy Cod & Yuzu-Shoyu Soba
+- [ ] :stew: Grains of Paradise-Crusted Steaks 
+- [ ] :stew: Seared Chicken
 - [ ] :white_check_mark: Complete at least one item from my "Things I'll Do In The Future" checklist
+- [ ] :white_check_mark: Find a few more expenses to cut
+- [ ] Take time to grok: http://srccon.org/sessions/
+- [ ] Take time to grok: https://github.com/shekhargulati/52-technologies-in-2016
 
 ## Next Week's Focus: *TBD*
 
@@ -48,10 +51,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :chart_with_upwards_trend: Cancel secondary insurance coverage :moneybag:
 - [ ] :house_with_garden: Trim the small trees in my front yard 
 - [ ] :mortar_board: Swift :computer:
+- [ ] :mortar_board: Try out [django-dynamic-forms](https://github.com/MarkusH/django-dynamic-forms)
 - [ ] :mortar_board: Try out [Vue.js](https://vuejs.org/)
 - [ ] :mortar_board: Ukulele (and :guitar:)
 - [ ] ~~Finish 2015 Year in Review post (I write slowly)~~
-- [ ] ~~Port Hubot deploy script to Slack :robot_face:~~
 
 ### Side Projects & Other Ideas
 
