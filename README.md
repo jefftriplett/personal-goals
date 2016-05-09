@@ -19,41 +19,46 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :mortar_board: Write a game :space_invader:
 1. :speech_balloon: More friend time
 
-## May 1, 2016
+## May 9, 2016
 
-### This Week's Focus: Budget and Save
+### This Week's Focus: Daily Goals, Daily :white_check_mark:
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :bike: Get gears looked at / fixed
+- [ ] :baseball: DCUS Organizer's Meeting
+- [ ] :baseball: DCUS Program Meeting
+- [ ] :baseball: DEFNA Meeting
 - [ ] :bike: Ride to work at least once
 - [ ] :books: Finish another section of the "E-Myth"
 - [ ] :books: TILs
-- [ ] :car: Tune-up :wrench:
-- [ ] :computer: Upgrade laptops
-- [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/) a week
+- [ ] :chart_with_upwards_trend: budget weekly goals
+- [ ] :muscle: Start a basic Kettlebell workout
+- [ ] :muscle: Use my [BetterBack](http://getbetterback.com/) for at least one hour a day
 - [ ] :running: Go for a run (maybe c25k or something)
-- [ ] :stew: Crispy Cod & Yuzu-Shoyu Soba
-- [ ] :stew: Grains of Paradise-Crusted Steaks 
-- [ ] :stew: Seared Chicken
+- [ ] :stew: Crispy Cod Tacos
+- [ ] :stew: Pork Tteokbokki 
+- [ ] :stew: Spring Chicken Fettuccine 
 - [ ] :white_check_mark: Complete at least one item from my "Things I'll Do In The Future" checklist
-- [ ] :white_check_mark: Find a few more expenses to cut
-- [ ] Take time to grok: http://srccon.org/sessions/
-- [ ] Take time to grok: https://github.com/shekhargulati/52-technologies-in-2016
+- [ ] :white_check_mark: Review Daily Goals, Daily
 
-## Next Week's Focus: *TBD*
+## Next Week's Focus: 
 
 ### Things I'll Do In The Future
 
+- [ ] :bike: Get gears looked at / fixed
 - [ ] :calendar: :coffee: shop + :email: time boxing
+- [ ] :car: Tune-up :wrench:
 - [ ] :car: Updates tags :ticket:
 - [ ] :chart_with_upwards_trend: Cancel cable
 - [ ] :chart_with_upwards_trend: Cancel secondary insurance coverage :moneybag:
+- [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/) a week
 - [ ] :house_with_garden: Trim the small trees in my front yard 
 - [ ] :mortar_board: Swift :computer:
 - [ ] :mortar_board: Try out [django-dynamic-forms](https://github.com/MarkusH/django-dynamic-forms)
 - [ ] :mortar_board: Try out [Vue.js](https://vuejs.org/)
 - [ ] :mortar_board: Ukulele (and :guitar:)
+- [ ] Take time to grok: http://srccon.org/sessions/
+- [ ] Take time to grok: https://github.com/shekhargulati/52-technologies-in-2016
 - [ ] ~~Finish 2015 Year in Review post (I write slowly)~~
 
 ### Side Projects & Other Ideas
