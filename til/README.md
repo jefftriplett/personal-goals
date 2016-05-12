@@ -25,4 +25,5 @@
 ## Python
 
 - [pyenv-py2-py3-system-level](pyenv-py2-py3-system-level.md)
+- [pytest-set-trace](pytest-set-trace.md)
 - [reusable-click-options](reusable-click-options.md)
