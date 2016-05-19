@@ -13,21 +13,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :hospital: Less stress :worried:
 1. :hospital: Lower BMI
 1. :rowboat: Take more photos :camera:
-1. :rowboat: Write more :black_nib:
-1. :mortar_board: React + [Javascript](https://github.com/getify/You-Dont-Know-JS)
+1. :black_nib: Write more
 1. :mortar_board: Ukulele / Guitar
 1. :mortar_board: Write a game :space_invader:
 1. :speech_balloon: More friend time
 
-## May 9, 2016
+## May 16, 2016
 
-### This Week's Focus: Daily Goals, Daily :white_check_mark:
+### This Week's Focus: Complete the Program
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :baseball: DCUS Organizer's Meeting
-- [ ] :baseball: DCUS Program Meeting
-- [ ] :baseball: DEFNA Meeting
+- [ ] :baseball: DCUS Mailchimp Cleanup
+- [ ] :baseball: DCUS Sponsorship
+- [ ] :baseball: DCUS Talks, Tutorials, and Financial Aid week
 - [ ] :bike: Ride to work at least once
 - [ ] :books: Finish another section of the "E-Myth"
 - [ ] :books: TILs
@@ -35,13 +34,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :muscle: Start a basic Kettlebell workout
 - [ ] :muscle: Use my [BetterBack](http://getbetterback.com/) for at least one hour a day
 - [ ] :running: Go for a run (maybe c25k or something)
-- [ ] :stew: Crispy Cod Tacos
-- [ ] :stew: Pork Tteokbokki 
-- [ ] :stew: Spring Chicken Fettuccine 
+- [ ] :stew: General Tso's Chicken
+- [ ] :stew: Roast Pork & Mashed Potato
+- [ ] :stew: Seared Salmon Salad
 - [ ] :white_check_mark: Complete at least one item from my "Things I'll Do In The Future" checklist
 - [ ] :white_check_mark: Review Daily Goals, Daily
 
-## Next Week's Focus: 
+## Next Week's Focus: TODO
 
 ### Things I'll Do In The Future
 
@@ -53,6 +52,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :chart_with_upwards_trend: Cancel secondary insurance coverage :moneybag:
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/) a week
 - [ ] :house_with_garden: Trim the small trees in my front yard 
+- [ ] :mortar_board: [Javascript](https://github.com/getify/You-Dont-Know-JS)
+- [ ] :mortar_board: Learn React
 - [ ] :mortar_board: Swift :computer:
 - [ ] :mortar_board: Try out [django-dynamic-forms](https://github.com/MarkusH/django-dynamic-forms)
 - [ ] :mortar_board: Try out [Vue.js](https://vuejs.org/)
