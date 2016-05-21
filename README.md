@@ -23,13 +23,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :baseball: DCUS Day 1 Meeting
 - [ ] :baseball: DCUS Program Schedules
 - [ ] :baseball: DCUS Sponsorship
-- [ ] :books: Finish another section of the "E-Myth"
-- [ ] :muscle: Start a basic Kettlebell workout
+- [ ] :house_with_garden: Trim the small trees in my front yard
+- [ ] :muscle: Start a basic Kettlebell workout (2 to 3 times a week)
 - [ ] :running: Go for a run (maybe c25k or something)
 - [ ] :stew: Green Shakshuka
 - [ ] :stew: Seared Chicken & Verjus Pan Sauce
 - [ ] :stew: Soy-Glazed Meatballs 
+- [ ] :stew: Sunday meal prep for weekday lunches
 - [ ] :white_check_mark: Complete at least one item from my "Things I'll Do In The Future" checklist
+- [ ] Pack for PyCon :snake:
 
 ### Weekly Goals (Repeat)
 
@@ -50,18 +52,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :coffee: shop + :email: time boxing
 - [ ] :guitar: Learn Ukulele
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
-- [ ] :house_with_garden: Trim the small trees in my front yard
 - [ ] :mortar_board: Learn [Javascript](goals/javascript.md)
 
 ## Side Projects & Other Ideas
 
-- [ ] :basketball: Work on [Is the Lead Safe?](http://www.istheleadsafe.com/)
+- [ ] :open_file_folder: [Apps & Other Projects](ideas/app-ideas.md)
 - [ ] :black_nib: [Blog Post Ideas](ideas/blog-ideas.md)
 - [ ] :calendar: [Events](content-list/events.md)
-- [ ] :mortar_board: [Today I Learned (TIL)](til/README.md)
-- [ ] :musical_note: [Music](content-list/music/README.md)
-- [ ] :open_file_folder: [Apps & Other Projects](ideas/app-ideas.md)
 - [ ] :thought_balloon: [Ideas](ideas/README.md)
+- [ ] :musical_note: [Music](content-list/music/README.md)
+- [ ] :mortar_board: [Today I Learned (TIL)](til/README.md)
 
 ## Inspiration
 
