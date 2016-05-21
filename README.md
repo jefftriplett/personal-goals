@@ -6,73 +6,62 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Overarching Goals
 
-1. :chart_with_upwards_trend: Spend money more wisely and save :dollar:
-1. :hospital: Cook more
-1. :hospital: Get work-life balance back in check
-1. :hospital: Improve overall health
-1. :hospital: Less stress :worried:
-1. :hospital: Lower BMI
-1. :rowboat: Take more photos :camera:
+1. :muscle: [Be healthy](goals/health.md)
+1. :chart_with_upwards_trend: Spend money wisely and save :dollar:
+1. :mortar_board: [Learn new things](goals/learning.md)
+1. :camera: Take more photos 
 1. :black_nib: Write more
-1. :mortar_board: Ukulele / Guitar
-1. :mortar_board: Write a game :space_invader:
 1. :speech_balloon: More friend time
 
-## May 16, 2016
+## May 23, 2016
 
-### This Week's Focus: Complete the Program
+### This Week's Focus: Prepare for PyCon
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :baseball: DCUS Mailchimp Cleanup
+- [ ] :baseball: DCUS Chair Meeting
+- [ ] :baseball: DCUS Day 1 Meeting
+- [ ] :baseball: DCUS Program Schedules
 - [ ] :baseball: DCUS Sponsorship
-- [ ] :baseball: DCUS Talks, Tutorials, and Financial Aid week
-- [ ] :bike: Ride to work at least once
 - [ ] :books: Finish another section of the "E-Myth"
-- [ ] :books: TILs
-- [ ] :chart_with_upwards_trend: budget weekly goals
 - [ ] :muscle: Start a basic Kettlebell workout
-- [ ] :muscle: Use my [BetterBack](http://getbetterback.com/) for at least one hour a day
 - [ ] :running: Go for a run (maybe c25k or something)
-- [ ] :stew: General Tso's Chicken
-- [ ] :stew: Roast Pork & Mashed Potato
-- [ ] :stew: Seared Salmon Salad
+- [ ] :stew: Green Shakshuka
+- [ ] :stew: Seared Chicken & Verjus Pan Sauce
+- [ ] :stew: Soy-Glazed Meatballs 
 - [ ] :white_check_mark: Complete at least one item from my "Things I'll Do In The Future" checklist
-- [ ] :white_check_mark: Review Daily Goals, Daily
 
-## Next Week's Focus: TODO
+### Weekly Goals (Repeat)
+
+- [ ] :bike: to work
+- [ ] :books: Write a new TIL
+- [ ] :chart_with_upwards_trend: Review weekly budget goals
+- [ ] :muscle: Use my [BetterBack](http://getbetterback.com/) for at least one hour a day (during the week)
+- [ ] :white_check_mark: Review daily goals
+
+### Next Week's Focus: PyCon
 
 ### Things I'll Do In The Future
 
-- [ ] :bike: Get gears looked at / fixed
-- [ ] :calendar: :coffee: shop + :email: time boxing
+- [ ] :bike: Fix 5th gear
 - [ ] :car: Tune-up :wrench:
 - [ ] :car: Updates tags :ticket:
 - [ ] :chart_with_upwards_trend: Cancel cable
-- [ ] :chart_with_upwards_trend: Cancel secondary insurance coverage :moneybag:
-- [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/) a week
-- [ ] :house_with_garden: Trim the small trees in my front yard 
-- [ ] :mortar_board: [Javascript](https://github.com/getify/You-Dont-Know-JS)
-- [ ] :mortar_board: Learn React
-- [ ] :mortar_board: Swift :computer:
-- [ ] :mortar_board: Try out [django-dynamic-forms](https://github.com/MarkusH/django-dynamic-forms)
-- [ ] :mortar_board: Try out [Vue.js](https://vuejs.org/)
-- [ ] :mortar_board: Ukulele (and :guitar:)
-- [ ] Take time to grok: http://srccon.org/sessions/
-- [ ] Take time to grok: https://github.com/shekhargulati/52-technologies-in-2016
-- [ ] ~~Finish 2015 Year in Review post (I write slowly)~~
+- [ ] :coffee: shop + :email: time boxing
+- [ ] :guitar: Learn Ukulele
+- [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
+- [ ] :house_with_garden: Trim the small trees in my front yard
+- [ ] :mortar_board: Learn [Javascript](goals/javascript.md)
 
-### Side Projects & Other Ideas
+## Side Projects & Other Ideas
 
-- Implement some features from [Bullet Journal](http://bulletjournal.com/get-started/) into this project. (Recommended by [@kojoidrissa](https://github.com/kojoidrissa) via [twitter](https://twitter.com/webology/status/701118226801889280)).
-- [Apps & Other Projects](ideas/app-ideas.md)
-- [Blog Post Ideas](ideas/blog-ideas.md)
-- [Events](content-list/events.md)
-- [Ideas](ideas/README.md)
-- [Today I Learned (TIL)](til/README.md)
-- [:musical_note: Music](content-list/music/README.md)
-- Work on [Is the Lead Safe?](http://www.istheleadsafe.com/) :basketball:
-- Work on PGHero-like tool :hammer:
+- [ ] :basketball: Work on [Is the Lead Safe?](http://www.istheleadsafe.com/)
+- [ ] :black_nib: [Blog Post Ideas](ideas/blog-ideas.md)
+- [ ] :calendar: [Events](content-list/events.md)
+- [ ] :mortar_board: [Today I Learned (TIL)](til/README.md)
+- [ ] :musical_note: [Music](content-list/music/README.md)
+- [ ] :open_file_folder: [Apps & Other Projects](ideas/app-ideas.md)
+- [ ] :thought_balloon: [Ideas](ideas/README.md)
 
 ## Inspiration
 
