@@ -19,6 +19,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :airplane: to Portland
 - [ ] :baseball: DCUS Chair Meeting
 - [ ] :baseball: DCUS Day 1 Meeting
 - [ ] :baseball: DCUS Program Schedules
@@ -31,6 +32,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :stew: Soy-Glazed Meatballs 
 - [ ] :stew: Sunday meal prep for weekday lunches
 - [ ] :white_check_mark: Complete at least one item from my "Things I'll Do In The Future" checklist
+- [ ] Finish PyCon planning for Revsys.
 - [ ] Pack for PyCon :snake:
 
 ### Weekly Goals (Repeat)
