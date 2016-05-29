@@ -13,44 +13,30 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Write more
 1. :speech_balloon: More friend time
 
-## May 23, 2016
+## May 30, 2016
 
-### This Week's Focus: Prepare for PyCon
+### This Week's Focus: PyCon
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :airplane: to Portland
-- [ ] :baseball: DCUS Chair Meeting
-- [ ] :baseball: DCUS Day 1 Meeting
-- [ ] :baseball: DCUS Program Schedules
-- [ ] :baseball: DCUS Sponsorship
-- [ ] :house_with_garden: Trim the small trees in my front yard
-- [ ] :muscle: Start a basic Kettlebell workout (2 to 3 times a week)
-- [ ] :running: Go for a run (maybe c25k or something)
-- [ ] :stew: Green Shakshuka
-- [ ] :stew: Seared Chicken & Verjus Pan Sauce
-- [ ] :stew: Soy-Glazed Meatballs 
-- [ ] :stew: Sunday meal prep for weekday lunches
-- [ ] :white_check_mark: Complete at least one item from my "Things I'll Do In The Future" checklist
-- [ ] Finish PyCon planning for Revsys.
-- [ ] Pack for PyCon :snake:
+- [ ] :baseball: DCUS Program Schedules (Talks)
+- [ ] :baseball: DCUS Sponsorship ()
+- [ ] :baseball: DCUS Tickets
+- [ ] :books: Write a new TIL
 
 ### Weekly Goals (Repeat)
 
-- [ ] :bike: to work
 - [ ] :books: Write a new TIL
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
-- [ ] :muscle: Use my [BetterBack](http://getbetterback.com/) for at least one hour a day (during the week)
 - [ ] :white_check_mark: Review daily goals
 
-### Next Week's Focus: PyCon
+### Next Week's Focus: TBD
 
 ### Things I'll Do In The Future
 
 - [ ] :bike: Fix 5th gear
 - [ ] :car: Tune-up :wrench:
 - [ ] :car: Updates tags :ticket:
-- [ ] :chart_with_upwards_trend: Cancel cable
 - [ ] :coffee: shop + :email: time boxing
 - [ ] :guitar: Learn Ukulele
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
