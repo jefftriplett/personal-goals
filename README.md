@@ -13,24 +13,36 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Write more
 1. :speech_balloon: More friend time
 
-## May 30, 2016
+## June 13, 2016
 
-### This Week's Focus: PyCon
+### This Week's Focus: Practice, Practice, Practice
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :baseball: DCUS Program Schedules (Talks)
-- [ ] :baseball: DCUS Sponsorship ()
-- [ ] :baseball: DCUS Tickets
-- [ ] :books: Write a new TIL
+- [ ] :airplane: to Chicago
+- [ ] :baseball: DCUS Attendee emails
+- [ ] :baseball: DCUS Catch-up on emails
+- [ ] :baseball: DCUS Sponsor emails
+- [ ] :baseball: DCUS Swag
+- [ ] :guitar: Practice Ukulele
+- [ ] :guitar: Ukulele Week 2 lessons
+- [ ] :muscle: Take vitamins
+- [ ] :running: Go for a run (maybe c25k or something)
+- [ ] :running: Trail Hawk Board Meeting
+- [ ] :stew: Seared Pork Chops & Fig Compote
+- [ ] :stew: Spicy Miso-Glazed Chicken Wings
+- [ ] :stew: Steakhouse Salmon
 
 ### Weekly Goals (Repeat)
 
+- [ ] :muscle: Kettlebell workout
+- [ ] :bike: to work
 - [ ] :books: Write a new TIL
+- [ ] :chart_with_upwards_trend: Review weekly budget goals
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
 - [ ] :white_check_mark: Review daily goals
 
-### Next Week's Focus: TBD
+### Next Week's Focus: Moar Practice
 
 ### Things I'll Do In The Future
 
@@ -38,7 +50,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :car: Tune-up :wrench:
 - [ ] :car: Updates tags :ticket:
 - [ ] :coffee: shop + :email: time boxing
-- [ ] :guitar: Learn Ukulele
+- [x] :guitar: Learn Ukulele
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 - [ ] :mortar_board: Learn [Javascript](goals/javascript.md)
 
