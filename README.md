@@ -13,36 +13,38 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Write more
 1. :speech_balloon: More friend time
 
-## June 13, 2016
+## June 20, 2016
 
-### This Week's Focus: Practice, Practice, Practice
+### This Week's Focus: De-stress Before the Conference
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :airplane: to Chicago
 - [ ] :baseball: DCUS Attendee emails
-- [ ] :baseball: DCUS Catch-up on emails
-- [ ] :baseball: DCUS Sponsor emails
-- [ ] :baseball: DCUS Swag
+- [ ] :baseball: DCUS Finish Swag
+- [ ] :baseball: DCUS Organizer Meeting (<30 days to go!)
+- [ ] :bride_with_veil: Adam and Rebecca's Wedding
+- [ ] :guitar: Enroll in another Ukulele class
+- [ ] :guitar: Ukulele class
+- [ ] :stew: Beef Arepas
+- [ ] :stew: Maryland-Style Cod Cake Sandwiches
+- [ ] :stew: Peruvian Roast Chicken & Potatoes
+- [ ] :watch: Race timing for [The Night Hawk](https://trailhawks.com/races/2016/jun/25/the-night-hawk-2/)
+
+### Daily Goals (Repeat)
+
+- [ ] :bike: to work
 - [ ] :guitar: Practice Ukulele
-- [ ] :guitar: Ukulele Week 2 lessons
+- [ ] :muscle: Kettlebell workout
 - [ ] :muscle: Take vitamins
-- [ ] :running: Go for a run (maybe c25k or something)
-- [ ] :running: Trail Hawk Board Meeting
-- [ ] :stew: Seared Pork Chops & Fig Compote
-- [ ] :stew: Spicy Miso-Glazed Chicken Wings
-- [ ] :stew: Steakhouse Salmon
+- [ ] :white_check_mark: Review daily goals
 
 ### Weekly Goals (Repeat)
 
-- [ ] :muscle: Kettlebell workout
-- [ ] :bike: to work
 - [ ] :books: Write a new TIL
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
-- [ ] :chart_with_upwards_trend: Review weekly budget goals
-- [ ] :white_check_mark: Review daily goals
+- [ ] :running: Go for a run (maybe c25k or something)
 
-### Next Week's Focus: Moar Practice
+### Next Week's Focus: 
 
 ### Things I'll Do In The Future
 
@@ -56,12 +58,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Side Projects & Other Ideas
 
-- [ ] :open_file_folder: [Apps & Other Projects](ideas/app-ideas.md)
-- [ ] :black_nib: [Blog Post Ideas](ideas/blog-ideas.md)
-- [ ] :calendar: [Events](content-list/events.md)
-- [ ] :thought_balloon: [Ideas](ideas/README.md)
-- [ ] :musical_note: [Music](content-list/music/README.md)
-- [ ] :mortar_board: [Today I Learned (TIL)](til/README.md)
+- :black_nib: [Blog Post Ideas](ideas/blog-ideas.md)
+- :calendar: [Events](content-list/events.md)
+- :mortar_board: [Today I Learned (TIL)](til/README.md)
+- :musical_note: [Music](content-list/music/README.md)
+- :open_file_folder: [Apps & Other Projects](ideas/app-ideas.md)
+- :thought_balloon: [Ideas](ideas/README.md)
 
 ## Inspiration
 
