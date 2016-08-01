@@ -13,22 +13,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Write more
 1. :speech_balloon: More friend time
 
-## June 20, 2016
+## August 1, 2016
 
-### This Week's Focus: De-stress Before the Conference
+### This Week's Focus: Back to Reality
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :baseball: DCUS Attendee emails
-- [ ] :baseball: DCUS Finish Swag
-- [ ] :baseball: DCUS Organizer Meeting (<30 days to go!)
-- [ ] :bride_with_veil: Adam and Rebecca's Wedding
-- [ ] :guitar: Enroll in another Ukulele class
-- [ ] :guitar: Ukulele class
-- [ ] :stew: Beef Arepas
-- [ ] :stew: Maryland-Style Cod Cake Sandwiches
-- [ ] :stew: Peruvian Roast Chicken & Potatoes
-- [ ] :watch: Race timing for [The Night Hawk](https://trailhawks.com/races/2016/jun/25/the-night-hawk-2/)
+- [ ] :baseball: DCUS Post conference wrap up
+- [ ] :baseball: DCUS Post conference sponsor survey
+- [ ] :baseball: DCUS Post conference sponsor survey
+- [ ] :guitar: Practice Ukulele
+- [ ] :stew: Crispy Catfish & Parsley Mashed Potatoes
+- [ ] :stew: Seared Steak & Spiced Potato
+- [ ] :stew: Spicy Hoisin Turkey Meatballs
 
 ### Daily Goals (Repeat)
 
@@ -49,12 +46,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do In The Future
 
 - [ ] :bike: Fix 5th gear
+- [ ] :bike: [Buy front / back light](http://thesweethome.com/reviews/best-commuter-bike-lights/)
 - [ ] :car: Tune-up :wrench:
 - [ ] :car: Updates tags :ticket:
 - [ ] :coffee: shop + :email: time boxing
 - [x] :guitar: Learn Ukulele
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 - [ ] :mortar_board: Learn [Javascript](goals/javascript.md)
+- [ ] Give feedback to Barbara on lets learn series
+- [ ] 
 
 ## Side Projects & Other Ideas
 
