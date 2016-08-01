@@ -1,6 +1,6 @@
 # This Week's Accomplishments: **MONTH, DAY** 2016
 
-## This Week's Focus: **THEME**
+## This Week's Focus: {{ theme }}
 
 ## Things I Did From the List ([Resources](resources.md))
 
@@ -11,7 +11,7 @@
 
 ## Additional Things I Did
 
-## Next Week's Focus: **NEXT THEME**
+## Next Week's Focus: {{ next_theme }}
 
 ## Things I'll Do Next Week
 
