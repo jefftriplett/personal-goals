@@ -13,19 +13,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Write more
 1. :speech_balloon: More friend time
 
-## August 1, 2016
+## August 8, 2016
 
-### This Week's Focus: Back to Reality
+### This Week's Focus: Return to Running
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :baseball: DCUS 2017 Budget estimate
+- [ ] :baseball: DCUS 2017 Chair Roles and Duties
+- [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet
+- [ ] :baseball: DCUS Post conference sponsor survey
 - [ ] :baseball: DCUS Post conference wrap up
-- [ ] :baseball: DCUS Post conference sponsor survey
-- [ ] :baseball: DCUS Post conference sponsor survey
+- [ ] :chart_with_upwards_trend: Review weekly budget goals
 - [ ] :guitar: Practice Ukulele
-- [ ] :stew: Crispy Catfish & Parsley Mashed Potatoes
-- [ ] :stew: Seared Steak & Spiced Potato
-- [ ] :stew: Spicy Hoisin Turkey Meatballs
+- [ ] :stew: Brown Butter Cod
+- [ ] :stew: Lemongrass Chicken Burgers
+- [ ] :stew: Seared Pork Chops & Plum Salsa
 
 ### Daily Goals (Repeat)
 
@@ -41,6 +44,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
 - [ ] :running: Go for a run (maybe c25k or something)
 
+### Monthly Goals (Repeat)
+
+- [ ] :calendar: 1st - :chart_with_upwards_trend: pay rent
+- [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
+- [ ] :calendar: 1st - :eyeglasses: cycle contacts
+- [ ] :calendar: 15th - :eyeglasses: cycle contacts
+- [ ] :calendar: 1st Wednesday :baseball: DEFNA Meeting
+- [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
+
 ### Next Week's Focus: 
 
 ### Things I'll Do In The Future
@@ -54,7 +66,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 - [ ] :mortar_board: Learn [Javascript](goals/javascript.md)
 - [ ] Give feedback to Barbara on lets learn series
-- [ ] 
 
 ## Side Projects & Other Ideas
 
