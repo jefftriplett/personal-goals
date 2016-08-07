@@ -53,7 +53,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :calendar: 1st Wednesday :baseball: DEFNA Meeting
 - [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 
-### Next Week's Focus: 
+### Next Week's Focus: :grey_question:
 
 ### Things I'll Do In The Future
 
