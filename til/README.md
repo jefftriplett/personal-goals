@@ -22,6 +22,10 @@
 
 - [mac-server-is-slow](mac-server-is-slow.md)
 
+## Music
+
+- [IFTT Added a Spotify Channel](ifttt-spotify.md)
+
 ## Python
 
 - [pyenv-py2-py3-system-level](pyenv-py2-py3-system-level.md)
