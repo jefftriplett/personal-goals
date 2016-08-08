@@ -72,6 +72,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - :black_nib: [Blog Post Ideas](ideas/blog-ideas.md)
 - :calendar: [Events](content-list/events.md)
 - :mortar_board: [Today I Learned (TIL)](til/README.md)
+- :movie_camera: [Movies](content-list/movies.md)
 - :musical_note: [Music](content-list/music/README.md)
 - :open_file_folder: [Apps & Other Projects](ideas/app-ideas.md)
 - :thought_balloon: [Ideas](ideas/README.md)
