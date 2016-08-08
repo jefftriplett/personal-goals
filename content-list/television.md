@@ -2,112 +2,86 @@
 
 I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV shows pretty quickly. 
 
-## 2016
+## Unfinished
 
+- Arrow: Season 4
 - Baskets
-- Better Call Saul
-- From Dusk Till Dawn
-- Jessica Jones (:star:)
-- Supergirl
-- The Code
-- The Shannara Chronicles
-
-## 2015
-
-- Between (?)
+- Between :question:
 - Bloodline
-- Broadchurch: Season 2 (:star:)
-- Fargo: Season 2 (:star:)
+- iZombie: Season 2
+- Lillyhammer: Season 3
+- The Flash: Season 2
+- Transparent: Season 2
+
+## Watched
+
+- American Crime StorySeason 1
+- American Horror Story: Seasons 1, 2, 3, & 4
+- Arrested Development
+- Arrow: Seasons 1, 2, & 3
+- Better Call Saul: Season 1 :star2:
+- Better Call Saul: Season 2 :star:
+- Black Mirror :star:
+- Bob's Burgers
+- Broadchurch: Season 1 and 2 :star:
+- Dexter
+- Fargo: Season 1 :star2:
+- Fargo: Season 2 :star:
 - Fear the Walking Dead
+- From Dusk Till Dawn
+- Game of Thrones
+- Gotham
+- Halt and Catch Fire: Season 1
+- Hannibal
 - Happy Valley
 - Hell on Wheels
-- iZombie (:star:)
-- Longmire (:star:)
-- Ripper Street
-- River
-- Strange Empire
-- The Code
-- The Fall
-
-## 2014
-
-### Best:
-
-- Fargo
-- True Detective: Season 1
-- Transparent
-- Lillyhammer
-- Top of the Lake
-- Black Mirror
-- Justified
-
-### Some of my favorites
-
-- Arrow
-- Bob's Burgers
-- Gotham
-- Hannibal
-- Longmire
-- The Flash
-
-### I liked a lot
-
-- Broadchurch
-- Happy Valley
 - Hinterland
-- The Killing
-- Wentworth
-- Vikings
-
-### Better than regular News
-
+- House of Cards: Season 1 & 2 
+- iZombie: Season 1 :star:
+- Jessica Jones :star:
+- Justified :star2:
 - Last Week Tonight with John Oliver
-
-### Sophomore Slump
-
-- Orange is the New Black
-
-### Still groking
-
+- Lillyhammer: Season 1 & 2
+- Longmire :star2:
+- Mad Men
 - Marco Polo
 - Masters of Sex
+- Orange is the New Black
 - Outlander
 - Peaky Blinders
-- Penny Dreadful
+- Penny Dreadful: Season 1
 - Reign
-- Ripper Street
+- Ripper Street: Season 1
+- River
 - Salem
 - Silicon Valley
+- Strange Empire
+- The 100: Season 1
 - The Affair
-- The Leftovers
-- The Strain
+- The Americans: Season 1 & 2
+- The Code
+- The Fall :star2:
+- The Flash: Season 1
+- The Killing :star:
+- The Leftovers: Season 1 & 2
+- The Shannara Chronicles: Season 1
+- The Strain: Season 1 & 2
+- The Walking Dead
+- Top of the Lake
+- Transparent: Season 1
+- True Detective: Season 1 :star2:
+- True Detective: Season 2 :thumbsdown:
+- Wentworth :star:
 
-### Over it but still watching
+## Abandoned
 
-- Game of Thrones
-- Hell on Wheels
-- House of Cards
-- Walking Dead
-
-### Trashy
-
-- American Horror Story
-- Halt and Catch Fire
-
-### Only if I'm Bored
-
-- The 100
-- The Americans
-- The Fall
-
-### Put a fork in it
-
-- Arrested Development
-- Mad Men
-
-### Tried but couldn't get into
-
+- American Horror Story: Season 5
 - Boss
 - Derek
+- Halt and Catch Fire: Season 2
+- House of Cards: Season 3
 - Low Winter Sun
+- Supergirl: Season 1
 - Turn
+
+## Unwatched
