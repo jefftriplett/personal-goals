@@ -75,6 +75,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - :musical_note: [Music](content-list/music/README.md)
 - :open_file_folder: [Apps & Other Projects](ideas/app-ideas.md)
 - :thought_balloon: [Ideas](ideas/README.md)
+- :tv: [Television](content-list/television.md)
 
 ## Inspiration
 

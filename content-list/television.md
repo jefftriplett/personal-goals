@@ -2,17 +2,6 @@
 
 I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV shows pretty quickly. 
 
-## Unfinished
-
-- Arrow: Season 4
-- Baskets
-- Between :question:
-- Bloodline
-- iZombie: Season 2
-- Lillyhammer: Season 3
-- The Flash: Season 2
-- Transparent: Season 2
-
 ## Watched
 
 - American Crime StorySeason 1
@@ -72,6 +61,17 @@ I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV s
 - True Detective: Season 1 :star2:
 - True Detective: Season 2 :thumbsdown:
 - Wentworth :star:
+
+## Unfinished
+
+- Arrow: Season 4
+- Baskets
+- Between :question:
+- Bloodline
+- iZombie: Season 2
+- Lillyhammer: Season 3
+- The Flash: Season 2
+- Transparent: Season 2
 
 ## Abandoned
 
