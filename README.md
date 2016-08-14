@@ -13,28 +13,25 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Write more
 1. :speech_balloon: More friend time
 
-## August 8, 2016
+## August 15, 2016
 
-### This Week's Focus: Return to Running
+### This Week's Focus: A Face in the Crowd 
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :baseball: DCUS 2017 Budget estimate
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties
-- [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet
+- [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet (Finish)
 - [ ] :baseball: DCUS Post conference sponsor survey
 - [ ] :baseball: DCUS Post conference wrap up
-- [ ] :chart_with_upwards_trend: Review weekly budget goals
-- [ ] :guitar: Practice Ukulele
-- [ ] :stew: Brown Butter Cod
-- [ ] :stew: Lemongrass Chicken Burgers
-- [ ] :stew: Seared Pork Chops & Plum Salsa
+- [ ] :stew: BBQ Pork Burgers & Corn on the Cob
+- [ ] :stew: Curried Catfish & Coconut Rice
+- [ ] :stew: Spicy Chicken & Korean Rice Cakes
 
 ### Daily Goals (Repeat)
 
 - [ ] :bike: to work
 - [ ] :guitar: Practice Ukulele
-- [ ] :muscle: Kettlebell workout
 - [ ] :muscle: Take vitamins
 - [ ] :white_check_mark: Review daily goals
 
@@ -42,7 +39,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [ ] :books: Write a new TIL
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
-- [ ] :running: Go for a run (maybe c25k or something)
+- [ ] :muscle: Two Kettlebell workouts
+- [ ] :running: Two or three runs (maybe c25k or something)
 
 ### Monthly Goals (Repeat)
 
