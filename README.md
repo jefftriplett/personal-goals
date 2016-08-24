@@ -9,24 +9,29 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :muscle: [Be healthy](goals/health.md)
 1. :chart_with_upwards_trend: Spend money wisely and save :dollar:
 1. :mortar_board: [Learn new things](goals/learning.md)
-1. :camera: Take more photos 
 1. :black_nib: Write more
+1. :camera: Take more photos 
 1. :speech_balloon: More friend time
+1. :guitar: Learn Ukulele
 
-## August 15, 2016
+## August 22, 2016
 
-### This Week's Focus: A Face in the Crowd 
+### This Week's Focus: Ankle Deep
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :baseball: DCUS 2017 Budget estimate
-- [ ] :baseball: DCUS 2017 Chair Roles and Duties
-- [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet (Finish)
+- [ ] :baseball: DCUS 2017 Budget estimate :construction:
+- [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
+- [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet :construction:
 - [ ] :baseball: DCUS Post conference sponsor survey
 - [ ] :baseball: DCUS Post conference wrap up
-- [ ] :stew: BBQ Pork Burgers & Corn on the Cob
-- [ ] :stew: Curried Catfish & Coconut Rice
-- [ ] :stew: Spicy Chicken & Korean Rice Cakes
+- [ ] :coffee: Brew my own cold-press coffee
+- [ ] :guitar: Ukulele class week 2
+- [ ] :running: Write out a running plan
+- [ ] :stew: Basque-Style Lamb & Beef Piperade
+- [ ] :stew: Chilled Chicken Ramen
+- [ ] :stew: Seared Cod & Summer Succotash
+- [ ] :tea: Brew my own iced tea
 
 ### Daily Goals (Repeat)
 
@@ -59,8 +64,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :bike: [Buy front / back light](http://thesweethome.com/reviews/best-commuter-bike-lights/)
 - [ ] :car: Tune-up :wrench:
 - [ ] :car: Updates tags :ticket:
-- [ ] :coffee: shop + :email: time boxing
-- [x] :guitar: Learn Ukulele
+- [ ] :coffee: Morning :email: and time boxing
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 - [ ] :mortar_board: Learn [Javascript](goals/javascript.md)
 - [ ] Give feedback to Barbara on lets learn series
