@@ -14,9 +14,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## August 22, 2016
+## August 29, 2016
 
-### This Week's Focus: Ankle Deep
+### This Week's Focus: Big Weekend
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
@@ -26,11 +26,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :baseball: DCUS Post conference sponsor survey
 - [ ] :baseball: DCUS Post conference wrap up
 - [ ] :coffee: Brew my own cold-press coffee
-- [ ] :guitar: Ukulele class week 2
+- [ ] :guitar: Ukulele class week 3
 - [ ] :running: Write out a running plan
-- [ ] :stew: Basque-Style Lamb & Beef Piperade
-- [ ] :stew: Chilled Chicken Ramen
-- [ ] :stew: Seared Cod & Summer Succotash
 - [ ] :tea: Brew my own iced tea
 
 ### Daily Goals (Repeat)
@@ -61,7 +58,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do In The Future
 
 - [ ] :bike: Fix 5th gear
-- [ ] :bike: [Buy front / back light](http://thesweethome.com/reviews/best-commuter-bike-lights/)
+- [ ] :bike: [Buy bike lights](http://thesweethome.com/reviews/best-commuter-bike-lights/)
+- [ ] :bike: [Buy panniers](http://thesweethome.com/reviews/best-commuter-bike-lights/)
 - [ ] :car: Tune-up :wrench:
 - [ ] :car: Updates tags :ticket:
 - [ ] :coffee: Morning :email: and time boxing

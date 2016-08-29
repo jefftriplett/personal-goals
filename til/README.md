@@ -26,6 +26,10 @@
 
 - [IFTT Added a Spotify Channel](ifttt-spotify.md)
 
+## PyGame
+
+- [PyGame Cheat Sheet](pygame-cheat-sheet.md)
+
 ## Python
 
 - [pyenv-py2-py3-system-level](pyenv-py2-py3-system-level.md)
