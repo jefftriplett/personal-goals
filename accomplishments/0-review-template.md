@@ -4,13 +4,30 @@
 
 ## Things I Did From the List ([Resources](resources.md))
 
-- [ ] :books: TILs
-- [ ] :books: Weekly personal-goals project
-- [ ] :chart_with_upwards_trend: Review weekly budget goals
+
+### Daily Goals (Repeat)
+
+- [ ] :bike: to work
 - [ ] :guitar: Practice Ukulele
-- [ ] :muscle: Kettlebell workout
 - [ ] :muscle: Take vitamins
 - [ ] :white_check_mark: Review daily goals
+
+### Weekly Goals (Repeat)
+
+- [ ] :books: Weekly personal-goals project
+- [ ] :books: Write a new TIL
+- [ ] :chart_with_upwards_trend: Review weekly budget goals
+- [ ] :muscle: Kettlebell workout
+- [ ] :running: Run (maybe c25k or something)
+
+### Monthly Goals (Repeat)
+
+- [ ] :calendar: 1st - :chart_with_upwards_trend: pay rent
+- [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
+- [ ] :calendar: 1st - :eyeglasses: cycle contacts
+- [ ] :calendar: 15th - :eyeglasses: cycle contacts
+- [ ] :calendar: 1st Wednesday :baseball: DEFNA Meeting
+- [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 
 ## Additional Things I Did
 
