@@ -14,19 +14,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## August 29, 2016
+## September 6, 2016
 
-### This Week's Focus: Big Weekend
+### This Week's Focus: Built to Last
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :baseball: DCUS 2017 Budget estimate :construction:
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
 - [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet :construction:
-- [ ] :baseball: DCUS Post conference sponsor survey
 - [ ] :baseball: DCUS Post conference wrap up
-- [ ] :coffee: Brew my own cold-press coffee
-- [ ] :guitar: Ukulele class week 3
+- [ ] :coffee: Brew cold-press coffee
+- [ ] :guitar: Ukulele class week 4 (last week)
 - [ ] :running: Write out a running plan
 - [ ] :tea: Brew my own iced tea
 
@@ -39,10 +38,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Weekly Goals (Repeat)
 
+- [ ] :books: Weekly personal-goals project
 - [ ] :books: Write a new TIL
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
-- [ ] :muscle: Two Kettlebell workouts
-- [ ] :running: Two or three runs (maybe c25k or something)
+- [ ] :muscle: Kettlebell workout
+- [ ] :running: Run (maybe c25k or something)
 
 ### Monthly Goals (Repeat)
 
@@ -58,8 +58,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do In The Future
 
 - [ ] :bike: Fix 5th gear
-- [ ] :bike: [Buy bike lights](http://thesweethome.com/reviews/best-commuter-bike-lights/)
-- [ ] :bike: [Buy panniers](http://thesweethome.com/reviews/best-commuter-bike-lights/)
 - [ ] :car: Tune-up :wrench:
 - [ ] :car: Updates tags :ticket:
 - [ ] :coffee: Morning :email: and time boxing
