@@ -63,7 +63,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :coffee: Morning :email: and time boxing
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 - [ ] :mortar_board: Learn [Javascript](goals/javascript.md)
-- [ ] Give feedback to Barbara on lets learn series
 
 ## Side Projects & Other Ideas
 
