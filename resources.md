@@ -8,6 +8,7 @@ Emoji | Represents | Comment
 :---: | --- | ---
 :arrow_right: | Task Migrated |
 :arrow_left: | Task Scheduled |
+:construction: | In progress |
 :exclamation: | Priority |
 :sparkles: | Inspiration |
 :mag: | Explore |
