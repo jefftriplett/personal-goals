@@ -14,9 +14,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## September 6, 2016
+## September 12, 2016
 
-### This Week's Focus: Built to Last
+### This Week's Focus: Flirting with Time
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
@@ -24,10 +24,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
 - [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet :construction:
 - [ ] :baseball: DCUS Post conference wrap up
-- [ ] :coffee: Brew cold-press coffee
-- [ ] :guitar: Ukulele class week 4 (last week)
-- [ ] :running: Write out a running plan
-- [ ] :tea: Brew my own iced tea
+- [ ] :bike: Attach bike rack and pannier
+- [ ] :camera: Recharge batteries and set goals
+- [ ] :muscle: Order vitamins / switch routines
+- [ ] :running: Write out a running plan :construction:
+- [ ] :stew: BBQ Sloppy Joes
+- [ ] :stew: Paprika Shrimp & Cheddar Grits
+- [ ] :stew: Spicy Hoisin Chicken Stir-Fry
 
 ### Daily Goals (Repeat)
 
@@ -41,17 +44,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :books: Weekly personal-goals project
 - [ ] :books: Write a new TIL
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
+- [ ] :coffee: Brew cold-press coffee :construction:
 - [ ] :muscle: Kettlebell workout
 - [ ] :running: Run (maybe c25k or something)
+- [ ] :tea: Brew iced tea for work
 
 ### Monthly Goals (Repeat)
 
 - [ ] :calendar: 1st - :chart_with_upwards_trend: pay rent
-- [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
 - [ ] :calendar: 1st - :eyeglasses: cycle contacts
-- [ ] :calendar: 15th - :eyeglasses: cycle contacts
-- [ ] :calendar: 1st Wednesday :baseball: DEFNA Meeting
+- [ ] :calendar: 1st - :guitar: cycle humidifier
+- [ ] :calendar: 1st Wednesday - :baseball: DEFNA Meeting
 - [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
+- [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
+- [ ] :calendar: 15th - :eyeglasses: cycle contacts
+- [ ] :calendar: 15th - :guitar: cycle humidifier
 
 ### Next Week's Focus: :grey_question:
 
