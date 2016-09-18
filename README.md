@@ -14,9 +14,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## September 12, 2016
+## September 19, 2016
 
-### This Week's Focus: Flirting with Time
+### This Week's Focus: Cabin Down Below
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
@@ -24,13 +24,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
 - [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet :construction:
 - [ ] :baseball: DCUS Post conference wrap up
-- [ ] :bike: Attach bike rack and pannier
-- [ ] :camera: Recharge batteries and set goals
-- [ ] :muscle: Order vitamins / switch routines
+- [ ] :bike: Attach bike rack
+- [ ] :camera: Set goals
+- [ ] :guitar: Intermediate Ukulele class week 1
 - [ ] :running: Write out a running plan :construction:
-- [ ] :stew: BBQ Sloppy Joes
-- [ ] :stew: Paprika Shrimp & Cheddar Grits
-- [ ] :stew: Spicy Hoisin Chicken Stir-Fry
+- [ ] :stew: Basque-Style Cod
+- [ ] :stew: Pork Chops & Spicy Chow Chow
+- [ ] :stew: Seared Chicken & Caramelized Vegetables
 
 ### Daily Goals (Repeat)
 
@@ -64,9 +64,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do In The Future
 
-- [ ] :bike: Fix 5th gear
+- [ ] :car: Change license over to Kansas
+- [ ] :car: Change tags over to Kansas :ticket:
 - [ ] :car: Tune-up :wrench:
-- [ ] :car: Updates tags :ticket:
 - [ ] :coffee: Morning :email: and time boxing
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 - [ ] :mortar_board: Learn [Javascript](goals/javascript.md)
