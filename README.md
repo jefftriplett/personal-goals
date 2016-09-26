@@ -8,29 +8,36 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 1. :muscle: [Be healthy](goals/health.md)
 1. :chart_with_upwards_trend: Spend money wisely and save :dollar:
-1. :mortar_board: [Learn new things](goals/learning.md)
 1. :black_nib: Write more
-1. :camera: Take more photos 
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## September 19, 2016
+## September 26, 2016
 
-### This Week's Focus: Cabin Down Below
+### This Week's Focus: Don't Fade on Me
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :airplane: Book flights
 - [ ] :baseball: DCUS 2017 Budget estimate :construction:
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
 - [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet :construction:
 - [ ] :baseball: DCUS Post conference wrap up
 - [ ] :bike: Attach bike rack
+- [ ] :black_nib: Add recent links to blog
+- [ ] :black_nib: Finish blog post
+- [ ] :bookmark: Fix bookmark script
 - [ ] :camera: Set goals
-- [ ] :guitar: Intermediate Ukulele class week 1
+- [ ] :email: DEFNA Contact DSF
+- [ ] :email: DEFNA Contact Ela Conf
+- [ ] :email: DEFNA Contact Video
+- [ ] :email: Update Concord
+- [ ] :guitar: Intermediate Ukulele class week 2
 - [ ] :running: Write out a running plan :construction:
-- [ ] :stew: Basque-Style Cod
+- [ ] :stew: Blackened Chicken
+- [ ] :stew: Crispy Salmon
+- [ ] :stew: Korean Pork Tacos
 - [ ] :stew: Pork Chops & Spicy Chow Chow
-- [ ] :stew: Seared Chicken & Caramelized Vegetables
 
 ### Daily Goals (Repeat)
 
@@ -59,21 +66,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
 - [ ] :calendar: 15th - :eyeglasses: cycle contacts
 - [ ] :calendar: 15th - :guitar: cycle humidifier
+- [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 
 ### Next Week's Focus: :grey_question:
 
 ### Things I'll Do In The Future
 
+- [ ] :camera: Take more photos 
 - [ ] :car: Change license over to Kansas
 - [ ] :car: Change tags over to Kansas :ticket:
 - [ ] :car: Tune-up :wrench:
 - [ ] :coffee: Morning :email: and time boxing
-- [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
-- [ ] :mortar_board: Learn [Javascript](goals/javascript.md)
+- [ ] :mortar_board: [Learn new things](goals/learning.md)
 
 ## Side Projects & Other Ideas
 
-- :black_nib: [Blog Post Ideas](ideas/blog-ideas.md)
+- :black_nib: [Blog Post Ideas](ideas/blog/README.md)
 - :calendar: [Events](content-list/events.md)
 - :mortar_board: [Today I Learned (TIL)](til/README.md)
 - :movie_camera: [Movies](content-list/movies.md)
