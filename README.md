@@ -12,9 +12,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## September 26, 2016
+## October 3, 2016
 
-### This Week's Focus: Don't Fade on Me
+### This Week's Focus: Hard on Me
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
@@ -22,22 +22,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :baseball: DCUS 2017 Budget estimate :construction:
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
 - [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet :construction:
-- [ ] :baseball: DCUS Post conference wrap up
-- [ ] :bike: Attach bike rack
 - [ ] :black_nib: Add recent links to blog
 - [ ] :black_nib: Finish blog post
 - [ ] :bookmark: Fix bookmark script
-- [ ] :camera: Set goals
-- [ ] :email: DEFNA Contact DSF
-- [ ] :email: DEFNA Contact Ela Conf
 - [ ] :email: DEFNA Contact Video
 - [ ] :email: Update Concord
-- [ ] :guitar: Intermediate Ukulele class week 2
+- [ ] :guitar: Intermediate Ukulele class week 3
+- [ ] :running: Monday night
 - [ ] :running: Write out a running plan :construction:
-- [ ] :stew: Blackened Chicken
-- [ ] :stew: Crispy Salmon
-- [ ] :stew: Korean Pork Tacos
-- [ ] :stew: Pork Chops & Spicy Chow Chow
+- [ ] :stew: Beef & Shishito Open-Faced Sandwiches
+- [ ] :stew: Crispy Catfish
+- [ ] :stew: Five-Spice Chicken
+- [ ] :us: Watch the VP and Presidential debates for :briefcase:
 
 ### Daily Goals (Repeat)
 
@@ -92,7 +88,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Inspiration
 
-- Inspired by [Una's](https://github.com/una) [Personal Goals project](https://github.com/una/personal-goals) :muscle:
+- Inspired by [Una's](https://github.com/una) [Personal Goals project](https://github.com/una/personal-goals) and her [Una Kravets: Open Sourcing Your Life - Beyond Conf 2015](https://www.youtube.com/watch?v=xQEU0ZsvXYI) talk :muscle: 
 - [Katherine's](https://github.com/KatherineMichel) [Personal Goals project](https://github.com/KatherineMichel/personal-goals)
 - [Lacey's](https://github.com/williln) [Personal Goals project](https://github.com/williln/personal-goals)
 - [Josh Branchaud's TIL](https://github.com/jbranchaud/til) which was inspired by [thoughtbot's TIL project](https://github.com/thoughtbot/til)
