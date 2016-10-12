@@ -12,28 +12,24 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## October 3, 2016
+## October 10, 2016
 
-### This Week's Focus: Hard on Me
+### This Week's Focus: Night Driver
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :airplane: Book flights
-- [ ] :baseball: DCUS 2017 Budget estimate :construction:
+- [ ] :ballot_box_with_check: Change voting registration to Kansas
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
-- [ ] :baseball: DCUS 2017 Venue Comparison Spreadsheet :construction:
 - [ ] :black_nib: Add recent links to blog
 - [ ] :black_nib: Finish blog post
-- [ ] :bookmark: Fix bookmark script
-- [ ] :email: DEFNA Contact Video
+- [ ] :car: Change license over to Kansas
 - [ ] :email: Update Concord
-- [ ] :guitar: Intermediate Ukulele class week 3
-- [ ] :running: Monday night
+- [ ] :guitar: Intermediate Ukulele class week 4
 - [ ] :running: Write out a running plan :construction:
-- [ ] :stew: Beef & Shishito Open-Faced Sandwiches
-- [ ] :stew: Crispy Catfish
-- [ ] :stew: Five-Spice Chicken
-- [ ] :us: Watch the VP and Presidential debates for :briefcase:
+- [ ] :stew: Crispy Chicken Milanese
+- [ ] :stew: Fresh Pimento Cheeseburgers
+- [ ] :stew: Seared Cod & Udon Noodles
 
 ### Daily Goals (Repeat)
 
@@ -69,7 +65,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do In The Future
 
 - [ ] :camera: Take more photos 
-- [ ] :car: Change license over to Kansas
 - [ ] :car: Change tags over to Kansas :ticket:
 - [ ] :car: Tune-up :wrench:
 - [ ] :coffee: Morning :email: and time boxing
