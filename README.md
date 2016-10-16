@@ -12,24 +12,23 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## October 10, 2016
+## October 17, 2016
 
-### This Week's Focus: Night Driver
+### This Week's Focus: Get Registered
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :airplane: Book flights
+- [ ] :baggage_claim: Pack for Myrtle Beach
 - [ ] :ballot_box_with_check: Change voting registration to Kansas
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
 - [ ] :black_nib: Add recent links to blog
 - [ ] :black_nib: Finish blog post
 - [ ] :car: Change license over to Kansas
 - [ ] :email: Update Concord
-- [ ] :guitar: Intermediate Ukulele class week 4
 - [ ] :running: Write out a running plan :construction:
-- [ ] :stew: Crispy Chicken Milanese
-- [ ] :stew: Fresh Pimento Cheeseburgers
-- [ ] :stew: Seared Cod & Udon Noodles
+- [ ] :stew: Roasted Pork Steam Buns
+- [ ] :stew: Seared Salmon & Fall Vegetables
+- [ ] :stew: Spicy Chicken & Carrots
 
 ### Daily Goals (Repeat)
 
