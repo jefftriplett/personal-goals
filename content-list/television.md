@@ -9,11 +9,11 @@ I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV s
 | American Horror Story              | 6         | In Progress      |              |
 | Arrested Development               | 1-4       | Completed        |              |
 | Arrow                              | 1-3       | Completed        |              |
-| Arrow                              | 4         | In Prorgress     |              |
+| Arrow                              | 4         | In Progress      |              |
 | Baskets                            | 1         |                  |              |
 | Better Call Saul                   | 1         | Completed        | :star2:      |
 | Better Call Saul                   | 2         | Completed        | :star:       |
-| Between                            | 1-2       | Completed        | :question:   |
+| Between                            | 1-2       | Completed        |              |
 | Black Mirror                       | 1-3       | Completed        | :star:       |
 | Bloodline                          | 1         | Completed        |              |
 | Bob's Burgers                      |           |                  |              |
