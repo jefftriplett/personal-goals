@@ -2,26 +2,27 @@
 
 ## Favorites
 
-- Here's The Thing with Alec Baldwin
-- Savage Lovecast
-- StartUp Podcast
-- The Tinycast
-- This American Life
-
-## Everything Else
-
+- 99% Invisible
+- Blabbermouth
+- Burnt Toast
 - Fresh Air
+- Heavyweight
+- Here's The Thing with Alec Baldwin :star:
 - How To Do Everything
 - Invisibilia
 - Isometric
 - Mystery Show
 - Planet Money
-- Podcast.__init__ - Python and the people who make it great
+- Radiolab
 - Reply All
 - Roguelike Radio
+- Savage Lovecast :star:
 - Serial
+- StartUp Podcast :star:
 - Stuff You Should Know
 - Talking Machines
 - The Bugle
+- The Tinycast
+- This American Life :star:
 - Toolsday
 - WTF with Marc Maron Podcast
