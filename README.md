@@ -18,13 +18,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :airplane: to Myrtle Beach
 - [ ] :baggage_claim: Pack for Myrtle Beach
 - [ ] :ballot_box_with_check: Change voting registration to Kansas
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
+- [ ] :black_nib: Add metadata to blog
 - [ ] :black_nib: Add recent links to blog
+- [ ] :black_nib: Add topics to blog
 - [ ] :black_nib: Finish blog post
 - [ ] :car: Change license over to Kansas
 - [ ] :email: Update Concord
+- [ ] :iphone: Change phone providers to save money
 - [ ] :running: Write out a running plan :construction:
 - [ ] :stew: Roasted Pork Steam Buns
 - [ ] :stew: Seared Salmon & Fall Vegetables
