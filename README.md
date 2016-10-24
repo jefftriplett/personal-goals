@@ -12,27 +12,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## October 17, 2016
+## October 24, 2016
 
-### This Week's Focus: Get Registered
+### This Week's Focus: Beach
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :airplane: to Myrtle Beach
-- [ ] :baggage_claim: Pack for Myrtle Beach
-- [ ] :ballot_box_with_check: Change voting registration to Kansas
+- [ ] :airplane: to London
+- [ ] :baggage_claim: Pack for London
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
-- [ ] :black_nib: Add metadata to blog
 - [ ] :black_nib: Add recent links to blog
-- [ ] :black_nib: Add topics to blog
 - [ ] :black_nib: Finish blog post
-- [ ] :car: Change license over to Kansas
 - [ ] :email: Update Concord
-- [ ] :iphone: Change phone providers to save money
-- [ ] :running: Write out a running plan :construction:
-- [ ] :stew: Roasted Pork Steam Buns
-- [ ] :stew: Seared Salmon & Fall Vegetables
-- [ ] :stew: Spicy Chicken & Carrots
 
 ### Daily Goals (Repeat)
 
@@ -53,21 +44,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Monthly Goals (Repeat)
 
+- [ ] :black_nib: Update [now page](http://jefftriplett.com/now/)
+- [ ] :calendar: 15th - :eyeglasses: cycle contacts
+- [ ] :calendar: 15th - :guitar: cycle humidifier
 - [ ] :calendar: 1st - :chart_with_upwards_trend: pay rent
 - [ ] :calendar: 1st - :eyeglasses: cycle contacts
 - [ ] :calendar: 1st - :guitar: cycle humidifier
 - [ ] :calendar: 1st Wednesday - :baseball: DEFNA Meeting
 - [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 - [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
-- [ ] :calendar: 15th - :eyeglasses: cycle contacts
-- [ ] :calendar: 15th - :guitar: cycle humidifier
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 
 ### Next Week's Focus: :grey_question:
 
 ### Things I'll Do In The Future
 
-- [ ] :camera: Take more photos 
+- [ ] :camera: Take more photos
 - [ ] :car: Change tags over to Kansas :ticket:
 - [ ] :car: Tune-up :wrench:
 - [ ] :coffee: Morning :email: and time boxing
