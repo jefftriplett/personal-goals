@@ -12,18 +12,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## October 24, 2016
+## October 31, 2016
 
-### This Week's Focus: Beach
+### This Week's Focus: :airplane:, :train:, & :taxi:
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :airplane: to London
-- [ ] :baggage_claim: Pack for London
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
 - [ ] :black_nib: Add recent links to blog
 - [ ] :black_nib: Finish blog post
-- [ ] :email: Update Concord
+- [ ] :train2: to Amsterdam
+- [ ] :train2: to London
 
 ### Daily Goals (Repeat)
 
