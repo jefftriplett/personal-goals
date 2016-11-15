@@ -12,17 +12,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## November 7, 2016
+## November 14, 2016
 
-### This Week's Focus: Home
+### This Week's Focus: It's :basketball Season!
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :airplane: to Lawrence, KS
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
+- [ ] :basketball: Watch KU vs. Duke
+- [ ] :black_nib: :email: workflow draft blog post
 - [ ] :black_nib: Add recent links to blog
-- [ ] :black_nib: Finish blog post
-- [ ] :train2: to London
+- [ ] :calendar: DEFNA Meeting
+- [ ] :coffee: Order a new mug
+- [ ] :house: Declutter
+- [ ] :white_check_mark: Write out Todoist integration with Personal Goals project
 
 ### Daily Goals (Repeat)
 
@@ -33,6 +36,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Weekly Goals (Repeat)
 
+- [ ] :black_nib: Write a blog post
 - [ ] :books: Weekly personal-goals project
 - [ ] :books: Write a new TIL
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
