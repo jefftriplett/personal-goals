@@ -12,19 +12,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## November 14, 2016
+## November 21, 2016
 
-### This Week's Focus: It's :basketball Season!
+### This Week's Focus: It's :poultry_leg: Time!
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :baseball: Announce DCUS 2017
 - [ ] :baseball: DCUS 2017 Chair Roles and Duties :construction:
-- [ ] :basketball: Watch KU vs. Duke
 - [ ] :black_nib: :email: workflow draft blog post
 - [ ] :black_nib: Add recent links to blog
-- [ ] :calendar: DEFNA Meeting
-- [ ] :coffee: Order a new mug
-- [ ] :house: Declutter
+- [ ] :blue_car: back to Lawrence
+- [ ] :blue_car: to Chicago
+- [ ] :poultry_leg: Celebrate the holiday
 - [ ] :white_check_mark: Write out Todoist integration with Personal Goals project
 
 ### Daily Goals (Repeat)
