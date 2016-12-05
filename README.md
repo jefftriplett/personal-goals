@@ -12,18 +12,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## November 28, 2016
+## December 5, 2016
 
-### This Week's Focus: Work Trip :cactus:
+### This Week's Focus: It's :christmas_tree: :tada: :alarm_clock:
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :airplane: to Houston, TX
-- [ ] :airplane: to Lawrence, KS
-- [ ] :baseball: Announce DCUS 2017
+- [ ] :basketball: NU at Kansas
+- [ ] :basketball: UMKC at Kansas
 - [ ] :black_nib: :email: workflow draft blog post
 - [ ] :black_nib: Add recent links to blog
-- [ ] :fork_and_knife: Dinner with Kojo
+- [ ] :christmas_tree: part at Dan & Scotty's 
+- [ ] :computer: Finish DCUS Jekyll demo
+- [ ] :computer: Look into [fragmentioner](https://github.com/kartikprabhu/fragmentioner)
+- [ ] :video_game: Write a simple [PICO-8](http://www.lexaloffle.com/pico-8.php) demo
 - [ ] :white_check_mark: Write out Todoist integration with Personal Goals project
 
 ### Daily Goals (Repeat)
