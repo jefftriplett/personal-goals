@@ -12,20 +12,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## December 5, 2016
+## December 12, 2016
 
-### This Week's Focus: It's :christmas_tree: :tada: :alarm_clock:
+### This Week's Focus: Baby It's Cold Outside :snowflake:
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: NU at Kansas
-- [ ] :basketball: UMKC at Kansas
+- [ ] :basketball: Kansas vs. Davidson
 - [ ] :black_nib: :email: workflow draft blog post
 - [ ] :black_nib: Add recent links to blog
-- [ ] :christmas_tree: part at Dan & Scotty's 
+- [ ] :black_nib: Finish recommendations
+- [ ] :christmas_tree: Shopping
 - [ ] :computer: Finish DCUS Jekyll demo
 - [ ] :computer: Look into [fragmentioner](https://github.com/kartikprabhu/fragmentioner)
-- [ ] :video_game: Write a simple [PICO-8](http://www.lexaloffle.com/pico-8.php) demo
+- [ ] :email: Catch up on email
+- [ ] :globe_with_meridians: DCUS Website info
 - [ ] :white_check_mark: Write out Todoist integration with Personal Goals project
 
 ### Daily Goals (Repeat)
@@ -65,7 +66,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [ ] :camera: Take more photos
 - [ ] :car: Change tags over to Kansas :ticket:
-- [ ] :car: Tune-up :wrench:
 - [ ] :coffee: Morning :email: and time boxing
 - [ ] :mortar_board: [Learn new things](goals/learning.md)
 
