@@ -12,21 +12,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## December 12, 2016
+## December 19, 2016
 
-### This Week's Focus: Baby It's Cold Outside :snowflake:
+### This Week's Focus: Merry :christmas_tree: :santa: :gift: :snowman:
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: Kansas vs. Davidson
+- [ ] :basketball: KU at UNLV
 - [ ] :black_nib: :email: workflow draft blog post
 - [ ] :black_nib: Add recent links to blog
+- [ ] :black_nib: EOY Post
 - [ ] :black_nib: Finish recommendations
-- [ ] :christmas_tree: Shopping
-- [ ] :computer: Finish DCUS Jekyll demo
+- [ ] :car: to SWMO
+- [ ] :christmas_tree: Celebrate the holiday with family
+- [ ] :christmas_tree: Finish Shopping
 - [ ] :computer: Look into [fragmentioner](https://github.com/kartikprabhu/fragmentioner)
-- [ ] :email: Catch up on email
-- [ ] :globe_with_meridians: DCUS Website info
 - [ ] :white_check_mark: Write out Todoist integration with Personal Goals project
 
 ### Daily Goals (Repeat)
