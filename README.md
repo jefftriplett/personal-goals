@@ -12,21 +12,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## December 19, 2016
+## December 26, 2016
 
-### This Week's Focus: Merry :christmas_tree: :santa: :gift: :snowman:
+### This Week's Focus: Damn, I'm Old
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: KU at UNLV
+- [ ] :basketball: Kansas at TCU
+- [ ] :birthday: Celebrate another trip around the sun
 - [ ] :black_nib: :email: workflow draft blog post
 - [ ] :black_nib: Add recent links to blog
 - [ ] :black_nib: EOY Post
 - [ ] :black_nib: Finish recommendations
-- [ ] :car: to SWMO
-- [ ] :christmas_tree: Celebrate the holiday with family
-- [ ] :christmas_tree: Finish Shopping
+- [ ] :busts_in_silhouette: Finish DSF recommendations
 - [ ] :computer: Look into [fragmentioner](https://github.com/kartikprabhu/fragmentioner)
+- [ ] :santa: Finish opening presents
+- [ ] :tada: Celebrate the death of 2016
 - [ ] :white_check_mark: Write out Todoist integration with Personal Goals project
 
 ### Daily Goals (Repeat)
@@ -59,6 +60,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 - [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
+- [ ] :wine_glass: Pick up my wine from wine club
 
 ### Next Week's Focus: :grey_question:
 
