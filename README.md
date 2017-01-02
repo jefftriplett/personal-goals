@@ -12,22 +12,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## December 26, 2016
+## January 2, 2017
 
-### This Week's Focus: Damn, I'm Old
+### This Week's Focus: With a New Year Comes New Goals
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: Kansas at TCU
-- [ ] :birthday: Celebrate another trip around the sun
+- [ ] :basketball: Kansas State at Kansas
+- [ ] :basketball: Texas Tech at Kansas
 - [ ] :black_nib: :email: workflow draft blog post
 - [ ] :black_nib: Add recent links to blog
-- [ ] :black_nib: EOY Post
+- [ ] :black_nib: Finish Personal Goals Post
 - [ ] :black_nib: Finish recommendations
-- [ ] :busts_in_silhouette: Finish DSF recommendations
-- [ ] :computer: Look into [fragmentioner](https://github.com/kartikprabhu/fragmentioner)
-- [ ] :santa: Finish opening presents
-- [ ] :tada: Celebrate the death of 2016
+- [ ] :black_nib: Publish EOY Post
+- [ ] :busts_in_silhouette: Finish DSF recommendations :arrow_right:
 - [ ] :white_check_mark: Write out Todoist integration with Personal Goals project
 
 ### Daily Goals (Repeat)
@@ -51,14 +49,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Monthly Goals (Repeat)
 
 - [ ] :black_nib: Update [now page](http://jefftriplett.com/now/)
-- [ ] :calendar: 15th - :eyeglasses: cycle contacts
-- [ ] :calendar: 15th - :guitar: cycle humidifier
 - [ ] :calendar: 1st - :chart_with_upwards_trend: pay rent
 - [ ] :calendar: 1st - :eyeglasses: cycle contacts
 - [ ] :calendar: 1st - :guitar: cycle humidifier
 - [ ] :calendar: 1st Wednesday - :baseball: DEFNA Meeting
 - [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 - [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
+- [ ] :calendar: 15th - :eyeglasses: cycle contacts
+- [ ] :calendar: 15th - :guitar: cycle humidifier
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 - [ ] :wine_glass: Pick up my wine from wine club
 
@@ -70,6 +68,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :car: Change tags over to Kansas :ticket:
 - [ ] :coffee: Morning :email: and time boxing
 - [ ] :mortar_board: [Learn new things](goals/learning.md)
+- [ ] :package: http://givebackbox.com/index
+- [ ] :robot: [Build a Chatbot](https://www.codementor.io/garethdwyer/tutorials/building-a-telegram-bot-using-python-part-1-goi5fncay)
 
 ## Side Projects & Other Ideas
 
