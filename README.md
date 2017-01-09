@@ -12,19 +12,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## January 2, 2017
+## January 8, 2017
 
-### This Week's Focus: With a New Year Comes New Goals
+### This Week's Focus: Recovery :mask:
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: Kansas State at Kansas
-- [ ] :basketball: Texas Tech at Kansas
 - [ ] :black_nib: :email: workflow draft blog post
 - [ ] :black_nib: Add recent links to blog
 - [ ] :black_nib: Finish Personal Goals Post
 - [ ] :black_nib: Finish recommendations
-- [ ] :black_nib: Publish EOY Post
 - [ ] :busts_in_silhouette: Finish DSF recommendations :arrow_right:
 - [ ] :white_check_mark: Write out Todoist integration with Personal Goals project
 
