@@ -23,6 +23,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :black_nib: Finish Personal Goals Post
 - [ ] :black_nib: Finish recommendations
 - [ ] :busts_in_silhouette: Finish DSF recommendations :arrow_right:
+- [ ] :stew: Guacamole Burgers
+- [ ] :stew: Potato & Artichoke Quiches
+- [ ] :stew: Seared Chicken & Couscous
 - [ ] :white_check_mark: Write out Todoist integration with Personal Goals project
 
 ### Daily Goals (Repeat)
