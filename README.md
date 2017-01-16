@@ -12,27 +12,28 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :speech_balloon: More friend time
 1. :guitar: Learn Ukulele
 
-## January 8, 2017
+## January 16, 2017
 
-### This Week's Focus: Recovery :mask:
+### This Week's Focus: Back on Two Legs
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :black_nib: :email: workflow draft blog post
-- [ ] :black_nib: Add recent links to blog
+- [ ] :basketball: Kansas at Iowa State
+- [ ] :basketball: Texas at Kansas
 - [ ] :black_nib: Finish Personal Goals Post
-- [ ] :black_nib: Finish recommendations
 - [ ] :busts_in_silhouette: Finish DSF recommendations :arrow_right:
-- [ ] :stew: Guacamole Burgers
-- [ ] :stew: Potato & Artichoke Quiches
-- [ ] :stew: Seared Chicken & Couscous
+- [ ] :fork_and_knife: Find a good Blue Apron substitute
+- [ ] :stew: Bucatini Pasta Bolognese
+- [ ] :stew: Chicken Paillard
+- [ ] :stew: Lemon-Caper Catfish
 - [ ] :white_check_mark: Write out Todoist integration with Personal Goals project
+- [ ] :wrench: Build Raspberry Pi Dashboard using Magic Mirror
 
 ### Daily Goals (Repeat)
 
-- [ ] :bike: to work
 - [ ] :guitar: Practice Ukulele
 - [ ] :muscle: Take vitamins
+- [ ] :walk: to work (was previously :bike: to work)
 - [ ] :white_check_mark: Review daily goals
 
 ### Weekly Goals (Repeat)
