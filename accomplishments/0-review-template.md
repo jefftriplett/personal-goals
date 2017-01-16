@@ -1,4 +1,4 @@
-# This Week's Accomplishments: **MONTH DAY**, 2016
+# This Week's Accomplishments: **MONTH DAY**, 2017
 
 ## This Week's Focus: {{ theme }}
 
