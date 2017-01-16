@@ -1,12 +1,13 @@
 # Television
 
-I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV shows pretty quickly. 
+I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV shows pretty quickly.
 
 | Name                               | Season(s) | Progress         | Rating       |
 | ---------------------------------- | :-------- | :--------------- | :----------: |
 | American Crime Story               | 1         | Completed        |              |
 | American Horror Story              | 1-5       | Completed        |              |
 | American Horror Story              | 6         | In Progress      |              |
+| An Unfortunate Series of Events    | 1         | Completed        | :star:       |
 | Arrested Development               | 1-4       | Completed        |              |
 | Arrow                              | 1-3       | Completed        |              |
 | Arrow                              | 4         | In Progress      |              |
@@ -19,6 +20,7 @@ I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV s
 | Bob's Burgers                      |           |                  |              |
 | Boss                               | 1         | Abandoned        |              |
 | Broadchurch                        | 1-2       | Completed        | :star:       |
+| Containment                        | 1         | In Progress      |              |
 | Derek                              | 1         | Abandoned        |              |
 | Dexter                             | 1-7       | Finished         | :star:       |
 | Easy                               | 1         | Completed        |              |
@@ -27,6 +29,7 @@ I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV s
 | Fear the Walking Dead              | 1-2       | Completed        |              |
 | From Dusk Till Dawn                | 1-2       | Completed        |              |
 | Game of Thrones                    | 1-6       | Completed        |              |
+| Glitch                             | 1         | Completed        | :star:       |
 | Gotham                             | 1-2       | Completed        |              |
 | Gotham                             | 3         |                  |              |
 | Halt and Catch Fire                | 1         | Completed        |              |
@@ -60,7 +63,7 @@ I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV s
 | Silicon Valley                     | 1-2       | Completed        |              |
 | Strange Empire                     | 1         | Completed        |              |
 | Supergirl                          | 1         | In Progress      |              |
-| The 100                            | 1         | Completed        |              |
+| The 100                            | 1-3       | In Progress      |              |
 | The Affair                         | 1-3       | Completed        |              |
 | The Americans                      | 1-2       | Completed        |              |
 | The Code                           | 1         | Completed        |              |
@@ -69,8 +72,10 @@ I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV s
 | The Killing                        | 1-4       | Series Completed | :star:       |
 | The Last Kingdon                   | 1         | Completed        | :star:       |
 | The Leftovers                      | 1-2       | Completed        | :thumbsup:   |
+| The OA                             | 1         | Completed        |              |
+| The Returned                       | 1         | Series Completed | :thumbsup:   |
 | The Shannara Chronicles            | 1         | Completed        | :thumbsup:   |
-| The Strain                         | 1-2       | Completed        |              |
+| The Strain                         | 1-3       | Completed        |              |
 | The Walking Dead                   | 1-6       | Completed        |              |
 | Top of the Lake                    | 1         | Completed        |              |
 | Transparent                        | 1-3       | Completed        |              |
@@ -80,3 +85,4 @@ I tend to background watch TV/DVR/Netflix at night, so I tend to go through TV s
 | Unbreakable Kimmy Schmidt          | 1-2       | Completed        |              |
 | Vice Principals                    | 1         | Completed        | :star:       |
 | Wentworth                          | 1-4       | Completed        | :star:       |
+| Westworld                          | 1         | Completed        | :star:       |
