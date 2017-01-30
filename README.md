@@ -8,36 +8,40 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 1. :muscle: [Be healthy](goals/health.md)
 1. :chart_with_upwards_trend: Spend money wisely and save :dollar:
-1. :black_nib: Write more
-1. :speech_balloon: More friend time
+1. :black_nib: Write more - One blog post per week. No cop-outs
+1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## January 23, 2017
+## January 30, 2017
 
-### This Week's Focus: Ankle Deep
+### This Week's Focus: Wake up Time
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: Kansas at Kentucky
-- [ ] :basketball: Kansas at West Virginia
-- [ ] :black_nib: Finish Personal Goals Post
-- [ ] :evergreen_tree: DCUS organizer's meeting
-- [ ] :evergreen_tree: DCUS sponsorship meeting
-- [ ] :stew: Lunch prep
+- [ ] :basketball: Baylor at Kansas
+- [ ] :basketball: Kansas at Iowa State
+- [ ] :black_nib: Five for Friyay post *or* something else
+- [ ] :evergreen_tree: DCUS budget meeting
+- [ ] :evergreen_tree: DCUS website planning meeting
 - [ ] :stew: Beef Tacos & Radish Salsa
+- [ ] :stew: Lunch prep
 - [ ] :stew: Orange & Mirin-Glazed Cod
 - [ ] :stew: West African Peanut Chicken
-- [ ] :white_check_mark: Finish Todoist integration with Personal Goals project
+- [ ] :white_check_mark: Finish Todoist integration with Personal Goals project :arrow_right:
 - [ ] :white_check_mark: Improve Dashboard :arrow_right:
+- [ ] :white_check_mark: Sign-up for Buffer
+- [ ] :white_check_mark: Updated Dashboard to include home goals
+- [ ] :white_check_mark: Updated Dashboard to include top personal goals
+- [ ] :white_check_mark: Updated Dashboard to include work goals
 
-### Daily Goals (Repeat)
+### Daily Goals
 
 - [ ] :guitar: Practice Ukulele
 - [ ] :muscle: Take vitamins
 - [ ] :walk: to work (was previously :bike: to work)
 - [ ] :white_check_mark: Review daily goals
 
-### Weekly Goals (Repeat)
+### Weekly Goals
 
 - [ ] :black_nib: Write a blog post
 - [ ] :books: Weekly personal-goals project
@@ -48,7 +52,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :running: Run (maybe c25k or something)
 - [ ] :tea: Brew iced tea for work
 
-### Monthly Goals (Repeat)
+### Monthly Goals
 
 - [ ] :black_nib: Update [now page](http://jefftriplett.com/now/)
 - [ ] :calendar: 1st - :chart_with_upwards_trend: pay rent
@@ -73,7 +77,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :package: http://givebackbox.com/index
 - [ ] :robot: [Build a Chatbot](https://www.codementor.io/garethdwyer/tutorials/building-a-telegram-bot-using-python-part-1-goi5fncay)
 
-## Side Projects & Other Ideas
+## Side Projects & Ideas
 
 - :black_nib: [Blog Post Ideas](ideas/blog/README.md)
 - :calendar: [Events](content-list/events.md)
