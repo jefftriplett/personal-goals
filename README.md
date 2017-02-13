@@ -12,24 +12,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## January 30, 2017
+## February 13, 2017
 
-### This Week's Focus: Wake up Time
+### This Week's Focus: Makin' Some Noise
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: Baylor at Kansas
-- [ ] :basketball: Kansas at Iowa State
-- [ ] :black_nib: Five for Friyay post *or* something else
-- [ ] :evergreen_tree: DCUS budget meeting
-- [ ] :evergreen_tree: DCUS website planning meeting
-- [ ] :stew: Beef Tacos & Radish Salsa
-- [ ] :stew: Lunch prep
-- [ ] :stew: Orange & Mirin-Glazed Cod
-- [ ] :stew: West African Peanut Chicken
+- [ ] :basketball: West Virginia at Kansas
+- [ ] :basketball: Kansas at Baylor
+- [ ] :stew: Cumin-Crusted Pork
+- [ ] :stew: Seared Chicken & Pan Sauce
+- [ ] :stew: Crispy Barramundi
 - [ ] :white_check_mark: Finish Todoist integration with Personal Goals project :arrow_right:
-- [ ] :white_check_mark: Improve Dashboard :arrow_right:
-- [ ] :white_check_mark: Sign-up for Buffer
 - [ ] :white_check_mark: Updated Dashboard to include home goals
 - [ ] :white_check_mark: Updated Dashboard to include top personal goals
 - [ ] :white_check_mark: Updated Dashboard to include work goals
