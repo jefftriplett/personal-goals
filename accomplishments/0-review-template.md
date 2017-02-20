@@ -20,6 +20,7 @@
 - [ ] :coffee: Brew cold-press coffee :construction:
 - [ ] :muscle: Kettlebell workout
 - [ ] :running: Run (maybe c25k or something)
+- [ ] :stew: Weekly meal prep for lunch
 - [ ] :tea: Brew iced tea for work
 
 ### Monthly Goals (Repeat)
@@ -34,6 +35,7 @@
 - [ ] :calendar: 1st Wednesday - :baseball: DEFNA Meeting
 - [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
+- [ ] :mailbox: Review [email subscriptions](https://unroll.me/)
 - [ ] :wine_glass: Pick up my wine from wine club
 
 ## Additional Things I Did
