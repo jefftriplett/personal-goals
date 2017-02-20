@@ -12,17 +12,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## February 13, 2017
+## February 19, 2017
 
-### This Week's Focus: Makin' Some Noise
+### This Week's Focus: Vroom - Get My Car Back in Shape
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: West Virginia at Kansas
-- [ ] :basketball: Kansas at Baylor
-- [ ] :stew: Cumin-Crusted Pork
-- [ ] :stew: Seared Chicken & Pan Sauce
-- [ ] :stew: Crispy Barramundi
+- [ ] :basketball: Kansas at Texas
+- [ ] :basketball: Texas Tech at Kansas
+- [ ] :car: Finish Kansas registration
+- [ ] :car: Pay tickets
+- [ ] :car: Send off lost title paperwork
+- [ ] :stew: Cajun Catfish & Spiced Rice
+- [ ] :stew: Cheddar Cheeseburgers
+- [ ] :stew: Spiced Chicken Chili
 - [ ] :white_check_mark: Finish Todoist integration with Personal Goals project :arrow_right:
 - [ ] :white_check_mark: Updated Dashboard to include home goals
 - [ ] :white_check_mark: Updated Dashboard to include top personal goals
@@ -44,6 +47,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :coffee: Brew cold-press coffee :construction:
 - [ ] :muscle: Kettlebell workout
 - [ ] :running: Run (maybe c25k or something)
+- [ ] :stew: Weekly meal prep for lunch
 - [ ] :tea: Brew iced tea for work
 
 ### Monthly Goals
@@ -52,12 +56,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :calendar: 1st - :chart_with_upwards_trend: pay rent
 - [ ] :calendar: 1st - :eyeglasses: cycle contacts
 - [ ] :calendar: 1st - :guitar: cycle humidifier
-- [ ] :calendar: 1st Wednesday - :baseball: DEFNA Meeting
-- [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 - [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
 - [ ] :calendar: 15th - :eyeglasses: cycle contacts
 - [ ] :calendar: 15th - :guitar: cycle humidifier
+- [ ] :calendar: 1st Wednesday - :baseball: DEFNA Meeting
+- [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
+- [ ] :mailbox: Review [email subscriptions](https://unroll.me/)
 - [ ] :wine_glass: Pick up my wine from wine club
 
 ### Next Week's Focus: :grey_question:
