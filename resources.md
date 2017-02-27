@@ -4,18 +4,18 @@ I'm using a few features from the [Bullet Journal](http://bulletjournal.com/get-
 
 ## Emoji Legend :round_pushpin:
 
-Emoji | Represents | Comment
-:---: | --- | ---
-:arrow_right: | Task Migrated |
-:arrow_left: | Task Scheduled |
-:construction: | In progress |
-:exclamation: | Priority |
-:sparkles: | Inspiration |
-:mag: | Explore |
-:star: | Favorite |
-:star2: | Bestest |
-:hospital: | Health |
-:mortar_board: | Learning |
+Emoji          | Represents     | Comment
+:------------: | -------------- | -------
+:arrow_right:  | Task Migrated  |        
+ :arrow_left:  | Task Scheduled |        
+:construction: | In progress    |        
+:exclamation:  | Priority       |        
+  :sparkles:   | Inspiration    |        
+    :mag:      | Explore        |        
+    :star:     | Favorite       |        
+   :star2:     | Bestest        |        
+  :hospital:   | Health         |        
+:mortar_board: | Learning       |        
 
 ## Emoji Resources
 
@@ -24,6 +24,8 @@ Emoji | Represents | Comment
 - [English in, Emoji out](http://meowni.ca/emoji-translate/) :speak_no_evil:
 - [Moar Emoji for Slack](http://slackmojis.com/)
 - [VMD](https://github.com/yoshuawuyts/vmd) Preview markdown files with Emoji :mag:
+- [Emojipedia](http://emojipedia.org/)
+- [Unicode Party :balloon:](http://unicode.party/)
 
 ## Inspiration
 
