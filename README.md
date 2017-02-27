@@ -12,20 +12,19 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## February 19, 2017
+## February 27, 2017
 
-### This Week's Focus: Vroom - Get My Car Back in Shape
+### This Week's Focus: Titles Are Hard
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: Kansas at Texas
-- [ ] :basketball: Texas Tech at Kansas
+- [ ] :basketball: Kansas at Oklahoma State
+- [ ] :basketball: Oklahomaat Kansas
 - [ ] :car: Finish Kansas registration
-- [ ] :car: Pay tickets
-- [ ] :car: Send off lost title paperwork
-- [ ] :stew: Cajun Catfish & Spiced Rice
-- [ ] :stew: Cheddar Cheeseburgers
-- [ ] :stew: Spiced Chicken Chili
+- [ ] :car: Send off lost title paperwork to Missouri
+- [ ] :stew: Lamb, Beef & Mushroom Stew
+- [ ] :stew: Seared Chicken & Pearl Couscous
+- [ ] :stew: Tempura Fried Cod
 - [ ] :white_check_mark: Finish Todoist integration with Personal Goals project :arrow_right:
 - [ ] :white_check_mark: Updated Dashboard to include home goals
 - [ ] :white_check_mark: Updated Dashboard to include top personal goals
