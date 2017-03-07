@@ -12,23 +12,25 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## February 27, 2017
+## March 6, 2017
 
-### This Week's Focus: Titles Are Hard
+### This Week's Focus: Basketball Basketball Basketball
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: Kansas at Oklahoma State
-- [ ] :basketball: Oklahomaat Kansas
+- [ ] :basketball: Big-12 Tournament: Day 1
+- [ ] :basketball: Big-12 Tournament: Day 2
+- [ ] :basketball: Big-12 Tournament: Day 3
+- [ ] :basketball: Big-12 Tournament: Day 4
+- [ ] :basketball: Dust off my March Madness Bracket Builder
 - [ ] :car: Finish Kansas registration
 - [ ] :car: Send off lost title paperwork to Missouri
-- [ ] :stew: Lamb, Beef & Mushroom Stew
-- [ ] :stew: Seared Chicken & Pearl Couscous
-- [ ] :stew: Tempura Fried Cod
+- [ ] :moneybag: Finish taxes
+- [ ] :moneybag: Open a [Bettermint](https://www.betterment.com/) account
 - [ ] :white_check_mark: Finish Todoist integration with Personal Goals project :arrow_right:
-- [ ] :white_check_mark: Updated Dashboard to include home goals
-- [ ] :white_check_mark: Updated Dashboard to include top personal goals
-- [ ] :white_check_mark: Updated Dashboard to include work goals
+- [ ] :white_check_mark: Update Dashboard to include home goals
+- [ ] :white_check_mark: Update Dashboard to include personal days off
+- [ ] :white_check_mark: Update Dashboard to include work goals
 
 ### Daily Goals
 
