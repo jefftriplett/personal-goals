@@ -12,17 +12,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## March 20, 2017
+## March 27, 2017
 
-### This Week's Focus: Sweet 16 and Elite 8 Week
+### This Week's Focus: KU :basketball: is out, Let's go Camping :tent:!
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: Watch the Elite 8
-- [ ] :basketball: Watch the Sweet 16
+- [ ] :basketball: Watch the NCAA Championship
+- [ ] :basketball: Watch the NCAA Final 4
 - [ ] :car: Finish Kansas registration :arrow_right:
 - [ ] :car: Send off lost title paperwork to Missouri :arrow_right:
+- [ ] :house: Buy a new bed
+- [ ] :house: Buy a new vacuum cleaner
 - [ ] :moneybag: Finish taxes :arrow_right:
+- [ ] :tent: Annual [Rocking K](https://ultrasignup.com/register.aspx?did=41865) trip to see :running: friends
 
 ### Daily Goals
 
