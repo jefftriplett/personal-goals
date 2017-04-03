@@ -12,16 +12,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## March 27, 2017
+## April 2, 2017
 
-### This Week's Focus: KU :basketball: is out, Let's go Camping :tent:!
+### This Week's Focus: Things Around the :house_with_garden:
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :basketball: Watch the NCAA Championship
-- [ ] :basketball: Watch the NCAA Final 4
+- [ ] :calendar: Finish DEFNA Board expansion blog post
 - [ ] :car: Finish Kansas registration :arrow_right:
+- [ ] :car: Pick Nicole up from the airport
 - [ ] :car: Send off lost title paperwork to Missouri :arrow_right:
+- [ ] :convenience_store: Mystery shopping in KC
 - [ ] :house: Buy a new bed
 - [ ] :house: Buy a new vacuum cleaner
 - [ ] :moneybag: Finish taxes :arrow_right:
