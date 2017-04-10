@@ -12,22 +12,26 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## April 2, 2017
+## April 9, 2017
 
-### This Week's Focus: Things Around the :house_with_garden:
+### This Week's Focus: Heading Home for Easter :hatching_chick:
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :basketball: Watch the NCAA Championship
-- [ ] :calendar: Finish DEFNA Board expansion blog post
+- [ ] :calendar: Finish DCUS 2018 Venue CFP blog post
+- [ ] :evergreen_tree: DCUS CFP and Financial Aid ends
+- [ ] :evergreen_tree: Finish out video :video_camera:
+- [ ] :hatching_chick: Easter weekend in SWMO
+- [ ] :house_with_garden: Check out 
+- [ ] :moneybag: Finish taxes :arrow_right:
+- [ ] :white_check_mark: Dashboard order parts to build home version
+
+### Sooner Than Later
+
 - [ ] :car: Finish Kansas registration :arrow_right:
-- [ ] :car: Pick Nicole up from the airport
 - [ ] :car: Send off lost title paperwork to Missouri :arrow_right:
-- [ ] :convenience_store: Mystery shopping in KC
 - [ ] :house: Buy a new bed
 - [ ] :house: Buy a new vacuum cleaner
-- [ ] :moneybag: Finish taxes :arrow_right:
-- [ ] :tent: Annual [Rocking K](https://ultrasignup.com/register.aspx?did=41865) trip to see :running: friends
 
 ### Daily Goals
 
