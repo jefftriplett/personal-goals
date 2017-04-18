@@ -12,9 +12,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## April 9, 2017
+## April 17, 2017
 
 ### This Week's Focus: Heading Home for Easter :hatching_chick:
+
+- [ ] :car: Send off lost title paperwork to Missouri :arrow_right: (again)
+- [ ] :lock: [Read up](https://techsolidarity.org/resources/security_key_gmail.htm) [on Yubikey](https://ruimarinho.gitbooks.io/yubikey-handbook/)
+- [ ] :lock: Order a Yubikey
+- [ ] :moneybag: Finish taxes :arrow_right: (really)
+- [ ] :white_check_mark: Dashboard order parts to build home version
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
