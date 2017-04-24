@@ -12,14 +12,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## April 17, 2017
+## April 24, 2017
 
-### This Week's Focus: Heading Home for Easter :hatching_chick:
+### This Week's Focus: 
 
 - [ ] :car: Send off lost title paperwork to Missouri :arrow_right: (again)
-- [ ] :lock: [Read up](https://techsolidarity.org/resources/security_key_gmail.htm) [on Yubikey](https://ruimarinho.gitbooks.io/yubikey-handbook/)
-- [ ] :lock: Order a Yubikey
-- [ ] :moneybag: Finish taxes :arrow_right: (really)
 - [ ] :white_check_mark: Dashboard order parts to build home version
 
 ### Things I'll Do This Week ([Resources](resources.md))
@@ -70,7 +67,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :calendar: 1st Wednesday - :baseball: DEFNA Meeting
 - [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
-- [ ] :mailbox: Review [email subscriptions](https://unroll.me/)
+- [ ] :mailbox: Review email subscriptions
 - [ ] :wine_glass: Pick up my wine from wine club
 
 ### Next Week's Focus: :grey_question:
