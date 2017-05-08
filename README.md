@@ -12,22 +12,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## May 1, 2017
+## May 8, 2017
 
-### This Week's Focus: Plan My Move
+### This Week's Focus: Meet the Parents
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :calendar: Publish DCUS 2018 Venue CFP blog post
-- [ ] :house_with_garden: Give notice on existing house
-- [ ] :house_with_garden: Signed new lease
-- [ ] :package: Start packing
+- [ ] :calendar: Publish DCUS 2018 Venue CFP blog post :arrow_right:
+- [ ] :car: to Chicago
+- [ ] :hotel: Book a place for Mom and Dad
+- [ ] :package: Book moving arrangements
 
 ### Sooner Than Later
 
 - [ ] :car: Finish Kansas registration :arrow_right:
-- [ ] :car: Send off lost title paperwork to Missouri :arrow_right:
-- [ ] :house: Buy a new bed
 - [ ] :house: Buy a new vacuum cleaner
 
 ### Daily Goals
