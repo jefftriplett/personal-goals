@@ -12,16 +12,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## May 8, 2017
+## May 15, 2017
 
-### This Week's Focus: Meet the Parents
+### This Week's Focus: PyCon US 2018
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :airplane: Fly to Portland
+- [ ] :baggage_claim: Pack for PyCon US 2018 in Portland
 - [ ] :calendar: Publish DCUS 2018 Venue CFP blog post :arrow_right:
-- [ ] :car: to Chicago
-- [ ] :hotel: Book a place for Mom and Dad
+- [ ] :calendar: Publish new DEFNA Board members post
 - [ ] :package: Book moving arrangements
+- [ ] :package: More packing
 
 ### Sooner Than Later
 
