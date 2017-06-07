@@ -12,16 +12,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## May 29, 2017
+## June 5, 2017
 
-### This Week's Focus: Moving Week :package:
+### This Week's Focus: 
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :briefcase: Start new client project
 - [ ] :calendar: Publish new DEFNA Board members post
-- [ ] :package: Finish moving details
-- [ ] :package: Finalize packing
-- [ ] :package: Move to new house
+- [ ] :car: Drive to Naperville, IL
+- [ ] :evergreen_tree: Catch up on DCUS
+- [ ] :evergreen_tree: Refactor budget spreadsheet
 
 ### Sooner Than Later
 
