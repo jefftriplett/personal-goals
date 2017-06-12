@@ -12,22 +12,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## June 5, 2017
+## June 12, 2017
 
-### This Week's Focus: 
+### This Week's Focus: Not Going Anywhere
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :briefcase: Start new client project
 - [ ] :calendar: Publish new DEFNA Board members post
-- [ ] :car: Drive to Naperville, IL
-- [ ] :evergreen_tree: Catch up on DCUS
-- [ ] :evergreen_tree: Refactor budget spreadsheet
-
-### Sooner Than Later
-
-- [ ] :car: Finish Kansas registration :arrow_right:
-- [ ] :house: Buy a new vacuum cleaner
+- [ ] :evergreen_tree: More DCUS catchup
+- [ ] :evergreen_tree: More budget spreadsheet refactoring
+- [ ] :evergreen_tree: DCUS help the program team get the schedule updated
 
 ### Daily Goals
 
