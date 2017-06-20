@@ -12,22 +12,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## June 12, 2017
+## June 19, 2017
 
-### This Week's Focus: Not Going Anywhere
+### This Week's Focus: Finally a Week Home
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :calendar: Publish new DEFNA Board members post
 - [ ] :evergreen_tree: More DCUS catchup
-- [ ] :evergreen_tree: More budget spreadsheet refactoring
-- [ ] :evergreen_tree: DCUS help the program team get the schedule updated
+- [ ] :guitar: Enroll in the next Beginning Ukulele class
+- [ ] :guitar: Enroll in the next Intermediate Ukulele class
+- [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=jefftriplet07-20) exercise
 
 ### Daily Goals
 
 - [ ] :guitar: Practice Ukulele
 - [ ] :muscle: Take vitamins
-- [ ] :walk: to work (was previously :bike: to work)
 - [ ] :white_check_mark: Review daily goals
 
 ### Weekly Goals
