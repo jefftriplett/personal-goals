@@ -6,7 +6,6 @@
 
 ### Daily Goals (Repeat)
 
-- [ ] :bike: to work
 - [ ] :guitar: Practice Ukulele
 - [ ] :muscle: Take vitamins
 - [ ] :white_check_mark: Review daily goals
