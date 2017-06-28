@@ -12,21 +12,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## June 19, 2017
+## June 26, 2017
 
-### This Week's Focus: Finally a Week Home
+### This Week's Focus: Trying Out Keto
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :calendar: Publish new DEFNA Board members post
+- [ ] :calendar: Publish new DEFNA Board members post :arrow_right:
 - [ ] :evergreen_tree: More DCUS catchup
-- [ ] :guitar: Enroll in the next Beginning Ukulele class
-- [ ] :guitar: Enroll in the next Intermediate Ukulele class
-- [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=jefftriplet07-20) exercise
+- [ ] :guitar: Enroll in the next Beginning Ukulele class :arrow_right:
+- [ ] :guitar: Enroll in the next Intermediate Ukulele class :arrow_right:
+- [ ] :muscle: Giving Keto a whirl
 
 ### Daily Goals
 
 - [ ] :guitar: Practice Ukulele
+- [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=jefftriplet07-20) exercises
 - [ ] :muscle: Take vitamins
 - [ ] :white_check_mark: Review daily goals
 
