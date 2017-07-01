@@ -7,14 +7,14 @@ I'm using a few features from the [Bullet Journal](http://bulletjournal.com/get-
 Emoji          | Raw Emoji Code   | Description   
 :------------: | :--------------: | --------------
 :arrow_right:  | `:arrow_right:`  | Task migrated 
- :arrow_left:  |  `:arrow_left:`  | Task scheduled
+:arrow_left:   |  `:arrow_left:`  | Task scheduled
 :construction: | `:construction:` | In progress   
 :exclamation:  | `:exclamation:`  | Priority      
-  :sparkles:   |   `:sparkles:`   | Inspiration   
-    :mag:      |     `:mag:`      | Explore       
-    :star:     |     `:star:`     | Favorite      
-   :star2:     |    `:star2:`     | Bestest       
-  :hospital:   |   `:hospital:`   | Health        
+:sparkles:     |   `:sparkles:`   | Inspiration   
+:mag:          |     `:mag:`      | Explore       
+:star:         |     `:star:`     | Favorite      
+:star2:        |    `:star2:`     | Bestest       
+:hospital:     |   `:hospital:`   | Health        
 :mortar_board: | `:mortar_board:` | Learning      
 
 ## Emoji Resources
