@@ -12,14 +12,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## June 26, 2017
+## July 3, 2017
 
-### This Week's Focus: Trying Out Keto
+### This Week's Focus: Moar Keto and moar running
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :black_nib: Catch up on blog posts
 - [ ] :calendar: Publish new DEFNA Board members post :arrow_right:
 - [ ] :evergreen_tree: More DCUS catchup
+- [ ] :fireworks: Celebrate Independence Day
 - [ ] :guitar: Enroll in the next Beginning Ukulele class :arrow_right:
 - [ ] :guitar: Enroll in the next Intermediate Ukulele class :arrow_right:
 - [ ] :muscle: Giving Keto a whirl
