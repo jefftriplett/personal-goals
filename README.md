@@ -12,18 +12,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## July 10, 2017
+## July 17, 2017
 
-### This Week's Focus: Another Family Weekend
+### This Week's Focus: Always Behind / Getting Caught Up
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :black_nib: Catch up on blog posts :arrow_right:
 - [ ] :calendar: Publish new DEFNA Board members post :arrow_right:
-- [ ] :evergreen_tree: More DCUS catchup
+- [ ] :evergreen_tree: More DCUS catchup :arrow_right:
 - [ ] :guitar: Enroll in the next Beginning Ukulele class :arrow_right:
 - [ ] :guitar: Enroll in the next Intermediate Ukulele class :arrow_right:
-- [ ] :muscle: Moar Keto research :arrow_right:
 
 ### Daily Goals
 
