@@ -12,18 +12,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## July 24, 2017
+## July 31, 2017
 
-### This Week's Focus: Writing and Working on Games
+### This Week's Focus: Getting Ready for DjangoCon US
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :black_nib: Catch up on blog posts :arrow_right:
 - [ ] :black_nib: Write down ten ideas daily
 - [ ] :evergreen_tree: More DCUS catchup :arrow_right:
-- [ ] :guitar: Enroll in the next Beginning Ukulele class :arrow_right:
-- [ ] :guitar: Enroll in the next Intermediate Ukulele class :arrow_right:
-- [ ] :space_invader: Maybe enter [Ludum Dare 39](https://ldjam.com/events/ludum-dare/39)
+- [ ] :space_invader: More polish on my [Sokoban game](https://ldjam.com/events/ludum-dare/39/ld39-sokoban). I want to make a commercial release of it after I get it working on a tablet.
 
 ### Daily Goals
 
