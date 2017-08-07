@@ -31,7 +31,7 @@
 - [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
 - [ ] :calendar: 15th - :eyeglasses: cycle contacts
 - [ ] :calendar: 15th - :guitar: cycle humidifier
-- [ ] :calendar: 1st Wednesday - :baseball: DEFNA Meeting
+- [ ] :calendar: 1st Wednesday - :evergreen: DEFNA Meeting
 - [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 - [ ] :mailbox: Review [email subscriptions](https://unroll.me/)
