@@ -23,6 +23,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :black_nib: Catch up on blog posts :arrow_right:
 - [ ] :black_nib: Write down ten ideas daily
 - [ ] :evergreen_tree: More DCUS catchup :arrow_right:
+- [ ] :zap: Draft a Lightning Talk idea
 
 ### Daily Goals
 
