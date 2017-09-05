@@ -17,6 +17,7 @@
 - [ ] Casual Pants (1 for every three days)
 - [ ] Casual Shirts (1 for every two days plus 1)
 - [ ] Ear Plugs
+- [ ] Garmin Charger
 - [ ] Jacket - Heavy 
 - [ ] Jacket - Light 
 - [ ] Medications
@@ -25,6 +26,7 @@
 - [ ] Socks - Long (1 for every day)
 - [ ] Sunglasses
 - [ ] Sweater
+- [ ] Travel Pillow
 - [ ] Umbrella
 - [ ] Underwear (1 for every day)
 - [ ] Wallet
@@ -83,3 +85,7 @@
 - [ ] [Rubbermaid 1191 ActionPacker Storage Box, 35-Gallon](http://www.amazon.com/Rubbermaid-1191-ActionPacker-Storage-35-Gallon/dp/B000I1BU6E)
 - [ ] [Mountainsmith Genesee 4 Person 3 Season Tent](http://www.amazon.com/Mountainsmith-Genesee-Person-Season-Lotus/dp/B00452C2KA)
 - [ ] [Mountainsmith Genesee 4 Person Tent Footprint](http://www.amazon.com/Mountainsmith-Genesee-Person-Tent-Footprint/dp/B005LUROEO)
+
+## Misc
+
+- [ ] [Andrew Godwin's Travel List](https://gist.github.com/andrewgodwin/7731b20eccfbe54a25d1)
