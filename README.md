@@ -12,37 +12,30 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## August 7, 2017
+## September 4, 2017
 
-### This Week's Focus: Heading to DjangoCon US
+### This Week's Focus: Picking Back up Where I Left Off
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :airplane: Flying to Spokane, WA for DjangoCon US 2017
-- [ ] :baggage_claim: Pack for Spokane, WA
 - [ ] :black_nib: Catch up on blog posts :arrow_right:
-- [ ] :black_nib: Write down ten ideas daily
-- [ ] :evergreen_tree: More DCUS catchup :arrow_right:
-- [ ] :zap: Draft a Lightning Talk idea
+- [ ] :black_nib: Write down ten ideas daily :construction:
+- [ ] :evergreen_tree: Post DCUS cleanup
 
 ### Daily Goals
 
 - [ ] :guitar: Practice Ukulele
 - [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=jefftriplet07-20) exercises
-- [ ] :muscle: Take vitamins
 - [ ] :white_check_mark: Review daily goals
 
 ### Weekly Goals
 
 - [ ] :black_nib: Write a blog post
 - [ ] :books: Weekly personal-goals project
-- [ ] :books: Write a new TIL
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
-- [ ] :coffee: Brew cold-press coffee :construction:
-- [ ] :muscle: Kettlebell workout
+- [ ] :coffee: Brew Keto friendly "bullet" coffee coffee
 - [ ] :running: Run (maybe c25k or something)
 - [ ] :stew: Weekly meal prep for lunch
-- [ ] :tea: Brew iced tea for work
 
 ### Monthly Goals
 
