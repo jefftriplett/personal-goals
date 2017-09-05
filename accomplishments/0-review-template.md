@@ -7,6 +7,7 @@
 ### Daily Goals (Repeat)
 
 - [ ] :guitar: Practice Ukulele
+- [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=jefftriplet07-20) exercises
 - [ ] :muscle: Take vitamins
 - [ ] :white_check_mark: Review daily goals
 
@@ -14,10 +15,8 @@
 
 - [ ] :black_nib: Write a blog post
 - [ ] :books: Weekly personal-goals project
-- [ ] :books: Write a new TIL
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
-- [ ] :coffee: Brew cold-press coffee :construction:
-- [ ] :muscle: Kettlebell workout
+- [ ] :coffee: Brew Keto friendly "bullet" coffee coffee
 - [ ] :running: Run (maybe c25k or something)
 - [ ] :stew: Weekly meal prep for lunch
 - [ ] :tea: Brew iced tea for work
