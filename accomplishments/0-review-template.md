@@ -7,7 +7,7 @@
 ### Daily Goals (Repeat)
 
 - [ ] :guitar: Practice Ukulele
-- [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=jefftriplet07-20) exercises
+- [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=webology0b-20) exercises
 - [ ] :muscle: Take vitamins
 - [ ] :white_check_mark: Review daily goals
 
