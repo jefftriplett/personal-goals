@@ -12,20 +12,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## September 4, 2017
+## October 23, 2017
 
-### This Week's Focus: Picking Back up Where I Left Off
+### This Week's Focus: Work-Life Balance
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :black_nib: Catch up on blog posts :arrow_right:
 - [ ] :black_nib: Write down ten ideas daily :construction:
-- [ ] :evergreen_tree: Post DCUS cleanup
+- [ ] :question: DCUS Finalize Venue
 
 ### Daily Goals
 
+- [ ] :coffee: Brew Keto friendly "bullet" coffee coffee
 - [ ] :guitar: Practice Ukulele
-- [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=jefftriplet07-20) exercises
 - [ ] :white_check_mark: Review daily goals
 
 ### Weekly Goals
@@ -33,7 +33,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :black_nib: Write a blog post
 - [ ] :books: Weekly personal-goals project
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
-- [ ] :coffee: Brew Keto friendly "bullet" coffee coffee
 - [ ] :running: Run (maybe c25k or something)
 - [ ] :stew: Weekly meal prep for lunch
 
@@ -57,8 +56,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Things I'll Do In The Future
 
 - [ ] :camera: Take more photos
-- [ ] :car: Change tags over to Kansas :ticket:
 - [ ] :coffee: Morning :email: and time boxing
+- [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=webology0b-20) exercises
 - [ ] :mortar_board: [Learn new things](goals/learning.md)
 - [ ] :package: http://givebackbox.com/index
 - [ ] :robot: [Build a Chatbot](https://www.codementor.io/garethdwyer/tutorials/building-a-telegram-bot-using-python-part-1-goi5fncay)
