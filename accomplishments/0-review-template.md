@@ -6,10 +6,10 @@
 
 ### Daily Goals (Repeat)
 
-- [ ] :coffee: Brew Keto friendly "bullet" coffee coffee
-- [ ] :guitar: Practice Ukulele
+- [ ] :coffee: Brew Keto friendly coffee at home
 - [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=webology0b-20) exercises
 - [ ] :muscle: Take vitamins
+- [ ] :stew: Weekly meal prep for lunch
 - [ ] :white_check_mark: Review daily goals
 
 ### Weekly Goals (Repeat)
@@ -17,6 +17,7 @@
 - [ ] :black_nib: Write a blog post
 - [ ] :books: Weekly personal-goals project
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
+- [ ] :guitar: Practice Ukulele
 - [ ] :running: Run (maybe c25k or something)
 - [ ] :stew: Weekly meal prep for lunch
 
@@ -26,11 +27,13 @@
 - [ ] :calendar: 1st - :chart_with_upwards_trend: pay rent
 - [ ] :calendar: 1st - :eyeglasses: cycle contacts
 - [ ] :calendar: 1st - :guitar: cycle humidifier
+- [ ] :calendar: 1st Wednesday - :baseball: DEFNA Meeting
+- [ ] :calendar: 1st Wednesday - :evergreen: DEFNA Meeting
+- [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 - [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
 - [ ] :calendar: 15th - :eyeglasses: cycle contacts
 - [ ] :calendar: 15th - :guitar: cycle humidifier
-- [ ] :calendar: 1st Wednesday - :evergreen: DEFNA Meeting
-- [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
+- [ ] :family: Call my family
 - [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 - [ ] :mailbox: Review email subscriptions
 - [ ] :wine_glass: Pick up my wine from wine club
