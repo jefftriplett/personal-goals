@@ -12,12 +12,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## December 4, 2016
+## December 11, 2017
 
-### This Week's Focus: SantaCon!
+### This Week's Focus: :duck: Ducks in a Row
 
-- [ ] :santa: Attend SantaCon
+- [ ] :hammer: Finish project cleanup TV cables
+- [ ] :santa: Finish Christmas cards
+- [ ] :santa: Finish Christmas shopping
 - [ ] :santa: Pick up a tree :christmas_tree:
+- [ ] :santa: REVSYS Holiday party!
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
