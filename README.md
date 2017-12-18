@@ -12,21 +12,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## December 11, 2017
+## December 18, 2017
 
-### This Week's Focus: :duck: Ducks in a Row
+### This Week's Focus: Twas the Week Before Christmas
 
+- [ ] :basketball: Watch Kansas at Stanford
+- [ ] :basketball: Watch Omaha at Kansas
+- [ ] :car: Travel to SWMO
 - [ ] :hammer: Finish project cleanup TV cables
 - [ ] :santa: Finish Christmas cards
 - [ ] :santa: Finish Christmas shopping
 - [ ] :santa: Pick up a tree :christmas_tree:
-- [ ] :santa: REVSYS Holiday party!
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :black_nib: Catch up on blog posts :arrow_right:
 - [ ] :black_nib: Write down ten ideas daily :construction:
-- [ ] :question: DCUS Finalize Venue
 
 ### Daily Goals
 
