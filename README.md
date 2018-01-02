@@ -12,17 +12,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## December 18, 2017
+## January 1, 2018
 
-### This Week's Focus: Twas the Week Before Christmas
+### This Week's Focus: New Year, New Goals
 
-- [ ] :basketball: Watch Kansas at Stanford
-- [ ] :basketball: Watch Omaha at Kansas
-- [ ] :car: Travel to SWMO
+- [ ] :basketball: Watch Kansas at TCU
+- [ ] :basketball: Watch Texas Tech at Kansas
+- [ ] :black_nib: Finish 2017 goals post
 - [ ] :hammer: Finish project cleanup TV cables
-- [ ] :santa: Finish Christmas cards
-- [ ] :santa: Finish Christmas shopping
-- [ ] :santa: Pick up a tree :christmas_tree:
+- [ ] :santa: Finish Holiday cards
+- [ ] :white_check_mark: Update goals for 2018
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
@@ -40,7 +39,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [ ] :black_nib: Write a blog post
 - [ ] :books: Weekly personal-goals project
-- [ ] :books: Write a new TIL
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
 - [ ] :guitar: Practice Ukulele
 - [ ] :running: Run (maybe c25k or something)
