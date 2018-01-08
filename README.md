@@ -12,21 +12,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## January 1, 2018
+## January 8, 2018
 
-### This Week's Focus: New Year, New Goals
+### This Week's Focus: Assemble a Desk, Family in Town
 
-- [ ] :basketball: Watch Kansas at TCU
-- [ ] :basketball: Watch Texas Tech at Kansas
+- [ ] :basketball: Watch Kansas State at Kansas
+- [ ] :basketball: Watch Kansas at Iowa State
 - [ ] :black_nib: Finish 2017 goals post
 - [ ] :hammer: Finish project cleanup TV cables
+- [ ] :home: Assemble my desk
+- [ ] :home: Order a decent power strip for my desk
 - [ ] :santa: Finish Holiday cards
 - [ ] :white_check_mark: Update goals for 2018
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
 - [ ] :black_nib: Catch up on blog posts :arrow_right:
-- [ ] :black_nib: Write down ten ideas daily :construction:
 
 ### Daily Goals
 
