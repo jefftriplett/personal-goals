@@ -6,24 +6,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Overarching Goals
 
-1. :muscle: [Be healthy](goals/health.md)
+1. :muscle: [Be healthy](goals/health.md) and :running: Run more often
+1. :family: Family Time
 1. :chart_with_upwards_trend: Spend money wisely and save :dollar:
-1. :black_nib: Write more - One blog post per week. No cop-outs
-1. :running: Run more often
-1. :guitar: Learn Ukulele
+1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
+1. :robot: Automate More, Do Less
 
-## January 8, 2018
+## January 15, 2018
 
 ### This Week's Focus: Assemble a Desk, Family in Town
 
-- [ ] :basketball: Watch Kansas State at Kansas
-- [ ] :basketball: Watch Kansas at Iowa State
+- [ ] :basketball: Watch Baylor at Kansas
+- [ ] :basketball: Watch Kansas at West Virginia
 - [ ] :black_nib: Finish 2017 goals post
 - [ ] :hammer: Finish project cleanup TV cables
 - [ ] :home: Assemble my desk
-- [ ] :home: Order a decent power strip for my desk
 - [ ] :santa: Finish Holiday cards
-- [ ] :white_check_mark: Update goals for 2018
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
@@ -68,7 +66,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :coffee: Morning :email: and time boxing
 - [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=webology0b-20) exercises
 - [ ] :mortar_board: [Learn new things](goals/learning.md)
-- [ ] :package: http://givebackbox.com/index
+- [ ] :package: [Give Back Bar](https://givebackbox.com/index)
 - [ ] :robot: [Build a Chatbot](https://www.codementor.io/garethdwyer/tutorials/building-a-telegram-bot-using-python-part-1-goi5fncay)
 
 ## Side Projects & Ideas
