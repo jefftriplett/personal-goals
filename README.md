@@ -14,7 +14,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## January 15, 2018
 
-### This Week's Focus: Assemble a Desk, Family in Town
+### This Week's Focus: Assemble a Desk, Really
 
 - [ ] :basketball: Watch Baylor at Kansas
 - [ ] :basketball: Watch Kansas at West Virginia
