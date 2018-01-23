@@ -12,16 +12,17 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
 1. :robot: Automate More, Do Less
 
-## January 15, 2018
+## January 22, 2018
 
-### This Week's Focus: Assemble a Desk, Really
+### This Week's Focus: About That Desk
 
-- [ ] :basketball: Watch Baylor at Kansas
-- [ ] :basketball: Watch Kansas at West Virginia
+- [ ] :basketball: Watch Kansas at Oklahoma
+- [ ] :basketball: Watch Texas A&M at Kansas
 - [ ] :black_nib: Finish 2017 goals post
+- [ ] :calendar: Write/publish new DEFNA Board members post
 - [ ] :hammer: Finish project cleanup TV cables
+- [ ] :heart: Finish Holiday cards
 - [ ] :home: Assemble my desk
-- [ ] :santa: Finish Holiday cards
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
