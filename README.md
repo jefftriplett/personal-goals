@@ -12,17 +12,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
 1. :robot: Automate More, Do Less
 
-## April 09, 2018
+## April 17, 2018
 
-### This Week's Focus: New Week, New Ukulele Class
+### This Week's Focus: Pay My Taxes
 
-- [ ] :basketball: Watch Kansas at Texas Tech
-- [ ] :basketball: Watch Oklahoma at Kansas
 - [ ] :black_nib: Finish 2017 goals post
 - [ ] :calendar: Write/publish new DEFNA Board members post
 - [ ] :guitar: Ukulele class
 - [ ] :hammer: Finish project cleanup TV cables
 - [ ] :home: Assemble my desk
+- [ ] :moneybag: Finish taxes
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
