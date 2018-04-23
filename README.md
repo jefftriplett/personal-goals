@@ -14,14 +14,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## April 17, 2018
 
-### This Week's Focus: Pay My Taxes
+### This Week's Focus: Big Weekend
 
 - [ ] :black_nib: Finish 2017 goals post
 - [ ] :calendar: Write/publish new DEFNA Board members post
 - [ ] :guitar: Ukulele class
 - [ ] :hammer: Finish project cleanup TV cables
 - [ ] :home: Assemble my desk
-- [ ] :moneybag: Finish taxes
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
