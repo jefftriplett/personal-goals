@@ -12,19 +12,22 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
 1. :robot: Automate More, Do Less
 
-## April 17, 2018
+## May 7, 2018
 
-### This Week's Focus: Big Weekend
-
-- [ ] :black_nib: Finish 2017 goals post
-- [ ] :calendar: Write/publish new DEFNA Board members post
-- [ ] :guitar: Ukulele class
-- [ ] :hammer: Finish project cleanup TV cables
-- [ ] :home: Assemble my desk
+### This Week's Focus: PyCon US 2018
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :airplane_departure: Fly to PyCon US
+- [ ] :baggage_claim: Pack for PyCon US
+- [ ] :calendar: Write/publish new DEFNA Board members post
+
+### Things I'll Do Soon
+
 - [ ] :black_nib: Catch up on blog posts :arrow_right:
+- [ ] :black_nib: Finish 2017 goals post
+- [ ] :hammer: Finish project cleanup TV cables
+- [ ] :home: Assemble my desk
 
 ### Daily Goals
 
