@@ -12,14 +12,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
 1. :robot: Automate More, Do Less
 
-## May 7, 2018
+## June 11, 2018
 
-### This Week's Focus: PyCon US 2018
+### This Week's Focus: Heading to Chicago
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :airplane_departure: Fly to PyCon US
-- [ ] :baggage_claim: Pack for PyCon US
+- [ ] :airplane_departure: Fly to Chicago
+- [ ] :baggage_claim: Pack for Chicago
 - [ ] :calendar: Write/publish new DEFNA Board members post
 
 ### Things I'll Do Soon
