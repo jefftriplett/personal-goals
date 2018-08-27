@@ -19,6 +19,7 @@ Emoji          | Raw Emoji Code   | Description
 
 ## Emoji Resources
 
+- [Emoji Searcher](https://emoji.js.org/) :mag:
 - [Lookup Emoji](http://www.emoji-cheat-sheet.com/) :see_no_evil:
 - [Hear Emoji](http://sandbox.thewikies.com/emotiread/) :hear_no_evil:
 - [English in, Emoji out](http://meowni.ca/emoji-translate/) :speak_no_evil:
