@@ -24,6 +24,7 @@
 ### Monthly Goals (Repeat)
 
 - [ ] :black_nib: Update [now page](http://jefftriplett.com/now/)
+- [ ] :calendar: 1st - :chart_with_upwards_trend: pay daycare
 - [ ] :calendar: 1st - :chart_with_upwards_trend: pay rent
 - [ ] :calendar: 1st - :eyeglasses: cycle contacts
 - [ ] :calendar: 1st - :guitar: cycle humidifier
