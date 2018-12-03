@@ -5,6 +5,7 @@
 - [ ] "All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World" (Seth Godin)
 - [ ] "Debt" (David Graeber)
 - [ ] "Free Prize Inside!: The Next Big Marketing Idea" (Seth Godin)
+- [ ] "Gmorning, Gnight!" (Lin-Manuel Miranda and Jonny Sun)
 - [ ] "How to Make Sense of Any Mess" (Abby Covert)
 - [ ] "Just Kids" (Patti Smith) - *Note:* "The single best Audiobook ever recorded." – Seth Godin
 - [ ] "Linchpin: Are You Indispensable?" (Seth Godin)
@@ -15,6 +16,7 @@
 - [ ] "The Dip: A Little Book That Teaches You When to Quit (and When to Stick)" (Seth Godin)
 - [ ] "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It" (Michael E. Gerber)
 - [ ] "The Icarus Deception: How High Will You Fly?" (Seth Godin)
+- [ ] "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing" (Marie Kondō)
 - [ ] "The Pema Chodron Audio Collection" (Pema Chodron)
 - [ ] "The War of Art: Winning the Inner Creative Battle" (Steven Pressfield)
 - [ ] "Tribes: We Need You to Lead Us" (Seth Godin)
