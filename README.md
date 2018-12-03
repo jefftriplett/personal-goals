@@ -12,21 +12,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
 1. :robot: Automate More, Do Less
 
-## August 27, 2018
+## December 3, 2018
 
-### This Week's Focus: Four Day Weekend
+### This Week's Focus: Happy December
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :calendar: Write/publish new DEFNA Board members post
 - [ ] :pencil: Update goals
-
-### Things I'll Do Soon
-
-- [ ] :black_nib: Catch up on blog posts :arrow_right:
-- [ ] :black_nib: Finish 2017 goals post
-- [ ] :hammer: Finish project cleanup TV cables
-- [ ] :home: Assemble my desk
 
 ### Daily Goals
 
