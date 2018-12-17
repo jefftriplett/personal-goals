@@ -12,12 +12,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
 1. :robot: Automate More, Do Less
 
-## December 3, 2018
+## December 17, 2018
 
-### This Week's Focus: Happy December
+### This Week's Focus: Twas the week before Christmas
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
+- [ ] :car: Drive to Chicago
+- [ ] :mailbox: Send out holiday cards
 - [ ] :pencil: Update goals
 
 ### Daily Goals
@@ -26,6 +28,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :muscle: Take vitamins
 - [ ] :stew: Weekly meal prep for lunch
 - [ ] :white_check_mark: Review daily goals
+- [ ] :white_check_mark: Update daily WIP goals
 
 ### Weekly Goals
 
