@@ -12,15 +12,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
 1. :robot: Automate More, Do Less
 
-## December 17, 2018
+## December 24, 2018
 
-### This Week's Focus: Twas the week before Christmas
+### This Week's Focus: It's Christmas Time
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :car: Drive to Chicago
-- [ ] :mailbox: Send out holiday cards
-- [ ] :pencil: Update goals
+- [ ] :birthday: Celebrate another trip around the sun
+- [ ] :car: Drive to LFK from Chicago
+- [ ] :christmas_tree: Celebrate the Christmas holiday with my family
+- [ ] :mailbox: Send out *remaining* holiday cards
+- [ ] :man_cook: Making sous vide ham and salty potatoes for our Christmas Eve dinner
+- [ ] :pencil: Update goals :arrow_right: :construction:
 
 ### Daily Goals
 
