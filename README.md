@@ -12,13 +12,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
 1. :robot: Automate More, Do Less
 
-## February 11, 2019
+## February 18, 2019
 
-### This Week's Focus: Week Before Moving (I hope)
+### This Week's Focus: Move
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :package: Pack, box things up, throw stuff away, and move
+- [ ] :black_nib: Sign a bunch of legal stuff
+- [ ] :package: Finish packing
+- [ ] :package: Move
 - [ ] :pencil: Finish 2018 Wrap-up
 - [ ] :pencil: Finish 2019 Goals
 
