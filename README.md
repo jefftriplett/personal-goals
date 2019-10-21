@@ -12,20 +12,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
 1. :robot: Automate More, Do Less
 
-## July 8, 2019
-
-### This Week's Focus: Weekly Update, July 8, 2019
+## October 14, 2019
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :pencil: Finish 2018 Wrap-up
-- [ ] :pencil: Finish 2019 Goals
+- [ ] :pencil: ~~Finish 2018 Wrap-up~~
+- [ ] :pencil: ~~Finish 2019 Goals~~
 
 ### Daily Goals
 
-- [ ] :coffee: Brew Keto friendly coffee at home
 - [ ] :muscle: Take vitamins
-- [ ] :stew: Weekly meal prep for lunch
 - [ ] :white_check_mark: Review daily goals
 - [ ] :white_check_mark: Update daily WIP goals
 
@@ -34,8 +30,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :black_nib: Write a blog post
 - [ ] :books: Weekly personal-goals project
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
+- [ ] :coffee: Brew Keto friendly coffee at home
 - [ ] :guitar: Practice Ukulele
 - [ ] :running: Run (maybe c25k or something)
+- [ ] :stew: Weekly meal prep for lunch
 
 ### Monthly Goals
 
