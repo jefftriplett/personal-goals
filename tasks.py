@@ -10,10 +10,10 @@ from pathlib import Path
 from yaml import load
 
 
-ACCOMPLISHMENT_TEMPLATE = Path('templates', 'accomplishments', 'weekly.md')
-DEFAULT_COMMAND = 'accomplishment'
-OUTPUT_FOLDER = Path('accomplishments', '{year}')
-TASKS_DATA = Path('data', 'tasks.yml')
+ACCOMPLISHMENT_TEMPLATE = Path("templates", "accomplishments", "weekly.md")
+DEFAULT_COMMAND = "accomplishment"
+OUTPUT_FOLDER = Path("accomplishments", "{year}")
+TASKS_DATA = Path("data", "tasks.yml")
 
 
 @click.group(cls=DefaultGroup, default=DEFAULT_COMMAND, default_if_no_args=True)
@@ -30,23 +30,22 @@ def add(name):
 
 
 @cli.command()
-@click.argument('date')
-@click.argument('theme')
-@click.option('--overwrite/--no-overwrite', default=False)
+@click.argument("date")
+@click.argument("theme")
+@click.option("--overwrite/--no-overwrite", default=False)
 def accomplishment(date, theme, overwrite):
-    parsed_date = maya.when(date, timezone='US/Central').datetime(naive=True)
+    parsed_date = maya.when(date, timezone="US/Central").datetime(naive=True)
 
     day_of_month = parsed_date.day
     week_number = (day_of_month - 1) // 7 + 1
 
-    output_filename = '{year}-{month:02}-week{week_number}.md'.format(
-        year=parsed_date.year,
-        month=parsed_date.month,
-        week_number=week_number)
+    output_filename = "{year}-{month:02}-week{week_number}.md".format(
+        year=parsed_date.year, month=parsed_date.month, week_number=week_number
+    )
 
-    output_filename = Path(str(OUTPUT_FOLDER.joinpath(output_filename)).format(
-        year=parsed_date.year
-    ))
+    output_filename = Path(
+        str(OUTPUT_FOLDER.joinpath(output_filename)).format(year=parsed_date.year)
+    )
 
     click.echo(str(output_filename))
 
@@ -57,8 +56,8 @@ def accomplishment(date, theme, overwrite):
         data = load(input_yaml.read())
 
     context_data = data.copy()
-    context_data['date'] = parsed_date
-    context_data['theme'] = theme
+    context_data["date"] = parsed_date
+    context_data["theme"] = theme
 
     intput_filename = ACCOMPLISHMENT_TEMPLATE
 
@@ -92,7 +91,7 @@ def post():
     click.echo(day_of_week)
     click.echo(7 - day_of_week)
     click.echo(int(ceil(adjusted_dom / 7.0)))
-    click.echo(date.strftime(now, '%Y-%m-week'))
+    click.echo(date.strftime(now, "%Y-%m-week"))
 
 
 @cli.command()
@@ -109,5 +108,5 @@ def push():
     """
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     cli()
