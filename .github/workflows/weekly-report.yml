@@ -2,7 +2,7 @@ name: 'Weekly report'
 on:
   push:
     branches:
-      master
+      - master
   schedule:
     - cron: 0 3 * * *
 
