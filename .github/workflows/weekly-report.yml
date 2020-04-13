@@ -64,7 +64,7 @@ jobs:
             owner: context.repo.owner,
             repo: context.repo.repo,
             title: process.env["WEEK_OF"],
-            body: "Commit your 1:1 updates",
+            body: "Please update your weekly goals.",
             head: process.env["BRANCH_NAME"],
             base: "master",
           });
