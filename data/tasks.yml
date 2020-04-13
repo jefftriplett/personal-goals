@@ -1,9 +1,17 @@
 overarching_goals:
 - name: ":muscle: [Be healthy](goals/health.md)"
 - name: ":chart_with_upwards_trend: Spend money wisely and save :dollar:"
-- name: ":pencil: Write more - One blog post per week. No cop-outs"
+- name: ":pencil: Write more - One blog post per week"
 - name: ":running: Run more often"
 - name: ":guitar: Learn Ukulele"
+
+this_week:
+- name: ":pencil: Catch up on blog posts :arrow_right:"
+  when: "*"
+- name: ":pencil: Write down ten ideas daily :construction:"
+  when: "*"
+- name: ":question: DCUS Finalize Venue"
+  when: "*"
 
 daily:
 # - name: ":muscle: Take vitamins"

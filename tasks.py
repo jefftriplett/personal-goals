@@ -10,8 +10,8 @@ from pathlib import Path
 
 
 ACCOMPLISHMENT_TEMPLATE = Path("templates", "weekly.md")
-DEFAULT_COMMAND = "accomplishment"
 OUTPUT_FOLDER = Path("accomplishments", "{year}")
+README_TEMPLATE = Path("templates", "README.md")
 TASKS_DATA = Path("data", "tasks.yml")
 
 
@@ -19,7 +19,7 @@ app = typer.Typer()
 
 
 @app.command()
-def accomplishment(date: str = "now", theme: str = "", overwrite: bool = False):
+def accomplishment(date: str = "now", overwrite: bool = False):
     parsed_date = maya.when(date, timezone="US/Central").datetime(naive=True)
 
     day_of_month = parsed_date.day
@@ -42,8 +42,8 @@ def accomplishment(date: str = "now", theme: str = "", overwrite: bool = False):
 
     context_data = data.copy()
     context_data["date"] = parsed_date
-    context_data["theme"] = theme
 
+    # Handle Accomplishments
     post = frontmatter.loads(ACCOMPLISHMENT_TEMPLATE.read_text())
 
     t = jinja2.Template(post.content)
@@ -54,6 +54,20 @@ def accomplishment(date: str = "now", theme: str = "", overwrite: bool = False):
 
     if not output_filename.exists() or overwrite:
         output_filename.write_text(frontmatter.dumps(post))
+
+    # Handle README
+    output_filename = Path("README.md")
+
+    post = frontmatter.loads(README_TEMPLATE.read_text())
+
+    t = jinja2.Template(post.content)
+    contents = t.render(context_data)
+
+    post["date"] = parsed_date
+    post.content = contents
+
+    # output_filename.write_text(frontmatter.dumps(post))
+    output_filename.write_text(post.content)
 
 
 if __name__ == "__main__":

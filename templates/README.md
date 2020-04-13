@@ -6,44 +6,38 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Overarching Goals
 {% for task in overarching_goals %}
-1. {{ task }}{% endfor %}
+1. {{ task.name }}{% endfor %}
 
 ## {{ date.strftime('%B %d, %Y') }}
 
-### This Week's Focus: {{ theme }}
-
 ### Things I'll Do This Week ([Resources](resources.md))
-
-- [ ] :black_nib: Catch up on blog posts :arrow_right:
-- [ ] :black_nib: Write down ten ideas daily :construction:
-- [ ] :question: DCUS Finalize Venue
+{% for task in this_week %}
+- [ ] {{ task.name }}{% endfor %}
 
 ### Daily Goals (Repeat)
 {% for task in daily %}
-- [ ] {{ task }}{% endfor %}
+- [ ] {{ task.name }}{% endfor %}
 
 ### Weekly Goals (Repeat)
 {% for task in weekly %}
-- [ ] {{ task }}{% endfor %}
+- [ ] {{ task.name }}{% endfor %}
 
 ### Monthly Goals (Repeat)
 {% for task in monthly %}
-- [ ] {{ task }}{% endfor %}
+- [ ] {{ task.name }}{% endfor %}
 
 ### Next Week's Focus: :grey_question:
 
 ### Things I'll Do In The Future
 
-- [ ] :camera: Take more photos
 - [ ] :coffee: Morning :email: and time boxing
 - [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=webology0b-20) exercises
 - [ ] :mortar_board: [Learn new things](goals/learning.md)
-- [ ] :package: http://givebackbox.com/index
-- [ ] :robot: [Build a Chatbot](https://www.codementor.io/garethdwyer/tutorials/building-a-telegram-bot-using-python-part-1-goi5fncay)
+- [ ] :package: [Give Back Box](https://givebackbox.com/index)
 
 ## Side Projects & Ideas
 
-- :black_nib: [Blog Post Ideas](ideas/blog/README.md)
+- :pencil: [Blog Post Ideas](ideas/blog/README.md)
 - :calendar: [Events](content-list/events.md)
 - :mortar_board: [Today I Learned (TIL)](til/README.md)
 - :movie_camera: [Movies](content-list/movies.md)

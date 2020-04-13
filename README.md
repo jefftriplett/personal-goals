@@ -6,65 +6,59 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Overarching Goals
 
-1. :muscle: [Be healthy](goals/health.md) and :running: Run more often
-1. :family: Family Time
+1. :muscle: [Be healthy](goals/health.md)
 1. :chart_with_upwards_trend: Spend money wisely and save :dollar:
-1. :black_nib: Create more (writing, twitching, and maybe even a podcast)
-1. :robot: Automate More, Do Less
+1. :pencil: Write more - One blog post per week
+1. :running: Run more often
+1. :guitar: Learn Ukulele
 
-## October 14, 2019
+## April 13, 2020
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
-- [ ] :pencil: ~~Finish 2018 Wrap-up~~
-- [ ] :pencil: ~~Finish 2019 Goals~~
+- [ ] :pencil: Catch up on blog posts :arrow_right:
+- [ ] :pencil: Write down ten ideas daily :construction:
+- [ ] :question: DCUS Finalize Venue
 
-### Daily Goals
+### Daily Goals (Repeat)
 
-- [ ] :muscle: Take vitamins
+- [ ] :bed: Make my bed
+- [ ] :calendar: Log daily wip.chat tasks
 - [ ] :white_check_mark: Review daily goals
-- [ ] :white_check_mark: Update daily WIP goals
 
-### Weekly Goals
+### Weekly Goals (Repeat)
 
-- [ ] :black_nib: Write a blog post
+- [ ] :coffee: Make cold brew coffee
+- [ ] :pencil: Write a blog post
 - [ ] :books: Weekly personal-goals project
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
-- [ ] :coffee: Brew Keto friendly coffee at home
-- [ ] :guitar: Practice Ukulele
-- [ ] :running: Run (maybe c25k or something)
-- [ ] :stew: Weekly meal prep for lunch
 
-### Monthly Goals
+### Monthly Goals (Repeat)
 
-- [ ] :black_nib: Update [now page](http://jefftriplett.com/now/)
-- [ ] :calendar: 1st - :chart_with_upwards_trend: pay rent
+- [ ] :pencil: Update [now page](http://jefftriplett.com/now/)
+- [ ] :calendar: 1st - :chart_with_upwards_trend: pay daycare
+- [ ] :calendar: 1st - :chart_with_upwards_trend: pay house payment
 - [ ] :calendar: 1st - :eyeglasses: cycle contacts
-- [ ] :calendar: 1st - :guitar: cycle humidifier
-- [ ] :calendar: 1st Wednesday - :baseball: DEFNA Meeting
-- [ ] :calendar: 2nd Tuesday - :running: Trail Hawk Board Meeting
 - [ ] :calendar: 6th - :chart_with_upwards_trend: pay mini-storage rent
 - [ ] :calendar: 15th - :eyeglasses: cycle contacts
-- [ ] :calendar: 15th - :guitar: cycle humidifier
+- [ ] :calendar: DEFNA Meeting
+- [ ] :calendar: PSF Board Meeting
+- [ ] :calendar: Trail Hawk Board Meeting
 - [ ] :family: Call my family
-- [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
-- [ ] :mailbox: Review email subscriptions
 - [ ] :wine_glass: Pick up my wine from wine club
 
 ### Next Week's Focus: :grey_question:
 
 ### Things I'll Do In The Future
 
-- [ ] :camera: Take more photos
 - [ ] :coffee: Morning :email: and time boxing
 - [ ] :guitar: Work through a daily [Ukulele Aerobics](https://www.amazon.com/Ukulele-Aerobics-Levels-Beginner-Advanced/dp/147681306X/?tag=webology0b-20) exercises
 - [ ] :mortar_board: [Learn new things](goals/learning.md)
-- [ ] :package: [Give Back Bar](https://givebackbox.com/index)
-- [ ] :robot: [Build a Chatbot](https://www.codementor.io/garethdwyer/tutorials/building-a-telegram-bot-using-python-part-1-goi5fncay)
+- [ ] :package: [Give Back Box](https://givebackbox.com/index)
 
 ## Side Projects & Ideas
 
-- :black_nib: [Blog Post Ideas](ideas/blog/README.md)
+- :pencil: [Blog Post Ideas](ideas/blog/README.md)
 - :calendar: [Events](content-list/events.md)
 - :mortar_board: [Today I Learned (TIL)](til/README.md)
 - :movie_camera: [Movies](content-list/movies.md)
