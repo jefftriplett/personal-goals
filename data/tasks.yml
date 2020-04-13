@@ -8,11 +8,13 @@ overarching_goals:
 daily:
 # - name: ":muscle: Take vitamins"
 #   when: "*"
-- name: ":stew: Weekly meal prep for lunch"
+# - name: ":stew: Weekly meal prep for lunch"
+#   when: "*"
+- name: ":bed: Make my bed"
+  when: "*"
+- name: ":calendar: Log daily wip.chat tasks"
   when: "*"
 - name: ":white_check_mark: Review daily goals"
-  when: "*"
-- name: ":bed: Make my bed"
   when: "*"
 
 weekly:
