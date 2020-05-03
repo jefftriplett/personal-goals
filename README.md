@@ -12,7 +12,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## April 26, 2020
+## May 03, 2020
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
@@ -32,6 +32,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :pencil: Write a blog post
 - [ ] :books: Weekly personal-goals project
 - [ ] :chart_with_upwards_trend: Review weekly budget goals
+- [ ] :house_with_garden: Mow the lawn
 
 ### Monthly Goals (Repeat)
 
@@ -45,7 +46,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :calendar: PSF Board Meeting
 - [ ] :calendar: Trail Hawk Board Meeting
 - [ ] :family: Call my family
+- [ ] :house_with_garden: Change air filter
 - [ ] :wine_glass: Pick up my wine from wine club
+
+### Quarterly Goals (Repeat)
+
+- [ ] :pencil: Update [now page](http://jefftriplett.com/now/)
+- [ ] :heart: Send a [Happiness Packet](https://www.happinesspackets.io/)
 
 ### Next Week's Focus: :grey_question:
 

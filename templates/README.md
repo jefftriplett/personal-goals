@@ -26,6 +26,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 {% for task in monthly %}
 - [ ] {{ task.name }}{% endfor %}
 
+### Quarterly Goals (Repeat)
+{% for task in quarterly %}
+- [ ] {{ task.name }}{% endfor %}
+
 ### Next Week's Focus: :grey_question:
 
 ### Things I'll Do In The Future

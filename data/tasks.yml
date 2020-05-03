@@ -14,8 +14,6 @@ this_week:
   when: "*"
 
 daily:
-# - name: ":muscle: Take vitamins"
-#   when: "*"
 # - name: ":stew: Weekly meal prep for lunch"
 #   when: "*"
 - name: ":bed: Make my bed"
@@ -33,6 +31,8 @@ weekly:
 - name: ":books: Weekly personal-goals project"
   when: "@weekly"
 - name: ":chart_with_upwards_trend: Review weekly budget goals"
+  when: "@weekly"
+- name: ":house_with_garden: Mow the lawn"
   when: "@weekly"
 
 monthly:
@@ -60,7 +60,13 @@ monthly:
   when: "@monthly"
 - name: ":family: Call my family"
   when: "@monthly"
-# - name: ":heart: Send a [Happiness Packet](https://www.happinesspackets.io/)"
-#   when: "@monthly"
+- name: ":house_with_garden: Change air filter"
+  when: "@weekly"
 - name: ":wine_glass: Pick up my wine from wine club"
+  when: "@monthly"
+
+quarterly:
+- name: ":pencil: Update [now page](http://jefftriplett.com/now/)"
+  when: "@quarterly"
+- name: ":heart: Send a [Happiness Packet](https://www.happinesspackets.io/)"
   when: "@monthly"
