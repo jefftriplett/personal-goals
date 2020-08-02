@@ -2,7 +2,7 @@ name: 'Weekly report'
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: "0 12 * * 0"
 
@@ -66,7 +66,7 @@ jobs:
             title: process.env["WEEK_OF"],
             body: "Please update your weekly goals.",
             head: process.env["BRANCH_NAME"],
-            base: "master",
+            base: "main",
           });
           github.issues.addAssignees({
             owner: context.repo.owner,
