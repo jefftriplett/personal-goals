@@ -12,7 +12,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. :running: Run more often
 1. :guitar: Learn Ukulele
 
-## October 11, 2020
+## November 08, 2020
 
 ### Things I'll Do This Week ([Resources](resources.md))
 
