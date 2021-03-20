@@ -4,20 +4,48 @@
 #
 #    pip-compile
 #
-click==7.1.2              # via typer
-dateparser==0.7.4         # via maya
-humanize==2.4.0           # via maya
-jinja2==2.11.2            # via -r requirements.in
-markupsafe==1.1.1         # via jinja2
-maya==0.6.1               # via -r requirements.in
-pendulum==2.1.0           # via maya
-python-dateutil==2.8.1    # via dateparser, pendulum, snaptime
-python-frontmatter==0.5.0  # via -r requirements.in
-pytz==2020.1              # via dateparser, maya, snaptime, tzlocal
-pytzdata==2019.3          # via pendulum
-pyyaml==5.3.1             # via python-frontmatter
-regex==2020.4.4           # via dateparser
-six==1.14.0               # via python-dateutil, python-frontmatter
-snaptime==0.2.4           # via maya
-typer==0.2.1              # via -r requirements.in
-tzlocal==2.0.0            # via dateparser, maya
+click==7.1.2
+    # via typer
+dateparser==0.7.4
+    # via maya
+humanize==2.4.0
+    # via maya
+jinja2==2.11.3
+    # via -r requirements.in
+markupsafe==1.1.1
+    # via jinja2
+maya==0.6.1
+    # via -r requirements.in
+pendulum==2.1.0
+    # via maya
+python-dateutil==2.8.1
+    # via
+    #   dateparser
+    #   pendulum
+    #   snaptime
+python-frontmatter==0.5.0
+    # via -r requirements.in
+pytz==2020.1
+    # via
+    #   dateparser
+    #   maya
+    #   snaptime
+    #   tzlocal
+pytzdata==2019.3
+    # via pendulum
+pyyaml==5.3.1
+    # via python-frontmatter
+regex==2020.4.4
+    # via dateparser
+six==1.14.0
+    # via
+    #   python-dateutil
+    #   python-frontmatter
+snaptime==0.2.4
+    # via maya
+typer==0.2.1
+    # via -r requirements.in
+tzlocal==2.0.0
+    # via
+    #   dateparser
+    #   maya
